@@ -44,7 +44,18 @@ My author page on Goodreads: https://www.goodreads.com/author/show/14224500.Mark
 ## Introduction
 
 ## Book 1 Ask Copilot ([sample files](/files/Book1/))
-- Chapter 1.1 
+- Chapter 1.1 Understand what Microsoft Copilot does
+- Chapter 1.2	Choose the right account, plan, and license
+- Chapter 1.3	Tour the new Copilot: Home, Code, and Autopilot
+- Chapter 1.4	Start a useful conversation
+- Chapter 1.5	Write prompts that produce useful results
+- Chapter 1.6	Improve weak answers through follow-up
+- Chapter 1.7	Work with files and cloud content
+- Chapter 1.8	Search the web and check sources
+- Chapter 1.9	Conduct deeper research with Researcher
+- Chapter 1.10	Turn answers into Copilot Pages
+- Chapter 1.11	Organize continuing work with Notebooks, Memory, and history
+- Chapter 1.12	Project –
 
 ## Book 2 Create Real Work Results ([sample files](/files/Book2/))
 - Chapter 2.1 
