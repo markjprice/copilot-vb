@@ -1,9 +1,9 @@
-> **A free bonus online-only guide for *Claude Visual Bible* — not included in the print edition**
+> **A free bonus book for *Microsoft Copilot Visual Bible***
 
 ![Beyond Your First AI](Bonus-Chapter-Beyond-Your-First-AI-Hero.png)
 
 - [Introduction](#introduction)
-- [Chapter 1: Comparing Claude to ChatGPT](#chapter-1-comparing-claude-to-chatgpt)
+- [Chapter 1: Comparing Copilot to ChatGPT or Claude](#chapter-1-comparing-copilot-to-chatgpt-or-claude)
   - [What makes each one distinct](#what-makes-each-one-distinct)
   - [Same idea, different name](#same-idea-different-name)
   - [Cost and plans](#cost-and-plans)
@@ -34,19 +34,19 @@
 
 # Introduction
 
-In *Claude Visual Bible*, *Book 1* to *Book 4* taught you to work with Claude: how to ask it good questions, build real results, automate your own workflows, and use it to advance your career. Claude still belongs at the center of that work. This bonus book adds one more skill: knowing when a different AI is the better tool for a specific job, or a backup when your primary AI is unavailable.
+In *Microsoft Copilot Visual Bible*, *Book 1* to *Book 4* taught you to work with Copilot: how to ask it good questions, build real results, automate your own workflows, and use it to advance your career. Copilot still belongs at the center of that work. This bonus book adds one more skill: knowing when a different AI is the better tool for a specific job, or a backup when your primary AI is unavailable.
 
 You will meet four alternatives: 
-1. **OpenAI ChatGPT** is sometimes the stronger choice for a broader ecosystem.
+1. **OpenAI ChatGPT** or **Anthropic Claude** is sometimes a strong choice to provide you an alternative point-of-view.
 2. **Google Gemini** integrates into Google's other products and can hold very large amounts of text, images, and video at once.
 3. **Mistral Vibe**, from the French company Mistral AI, matters if you work under European data rules.
 4. **DeepSeek**, **Qwen**, and **Kimi** trade a smaller support ecosystem for a lower price, with a privacy trade-off worth understanding first.
 
-This guide is not a recommendation to leave Claude. It is also not a full buyer's guide to every AI assistant on the market. Treat it as a short field guide: enough to recognize each tool by name, know its one or two strongest uses, and decide for yourself when it earns a place next to Claude on your desktop.
+This guide is not a recommendation to leave Copilot. It is also not a full buyer's guide to every AI assistant on the market. Treat it as a short field guide: enough to recognize each tool by name, know its one or two strongest uses, and decide for yourself when it earns a place next to Copilot on your desktop.
 
-# Chapter 1: Comparing Claude to ChatGPT
+# Chapter 1: Comparing Copilot to ChatGPT or Claude
 
-ChatGPT is the AI assistant you are most likely to hear mentioned alongside Claude. Both are general-purpose assistants built by AI research companies, and both can write, summarize, analyze, and answer questions in plain language. The differences show up in where each one is strongest.
+ChatGPT and Claude are the AI assistants you are most likely to hear mentioned alongside Copilot. Both are general-purpose assistants built by AI research companies, and both can write, summarize, analyze, and answer questions in plain language. The differences show up in where each one is strongest.
 
 ## What makes each one distinct
 
@@ -103,11 +103,11 @@ Total paid subscribers, all consumer tiers combined|More than 50 million|Not off
 
 ## Try it now
 
-Send the same request to ChatGPT and Claude:
+Send the same request to Copilot, ChatGPT, and Claude:
 ```
 Draft a two-paragraph message to a client explaining a two-week delay to a project, in a tone that is apologetic but confident.
 ```
-Read both replies side by side before you decide which one you would send.
+Read all three replies side by side before you decide which one you would send.
 
 ### Check the result
 - [ ] Did each assistant produce a complete, ready-to-edit draft?
@@ -118,7 +118,7 @@ Now let's look at using Google Gemini as a third AI choice.
 
 # Chapter 2: Google Gemini as a backup AI
 
-Google Gemini is worth a second look once you outgrow occasional use of ChatGPT, especially if you already use Google's products. Think of Gemini as a second opinion you keep on hand, not a replacement for the assistant you already trust.
+Google Gemini is worth a second look once you outgrow occasional use of ChatGPT or Claude, especially if you already use Google's products. Think of Gemini as a second opinion you keep on hand, not a replacement for the assistant you already trust.
 
 ## What makes it distinct
 

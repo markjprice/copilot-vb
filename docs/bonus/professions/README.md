@@ -1,4 +1,4 @@
-> **A free bonus online-only guide for *ChatGPT Visual Bible*, not included in the print edition**
+> **A free bonus online-only guide for *Microsoft Copilot Visual Bible***
 
 ![Profession-Specific Prompts](Hero.png)
 
@@ -31,15 +31,15 @@
 
 # Introduction
 
-In *ChatGPT Visual Bible*, *Book 1* to *Book 4* taught you how to write a good prompt for almost any task. This guide adds a layer that general prompting skill does not cover: the specific duties, risks, and rules that come with your profession.
+In *Microsoft Copilot Visual Bible*, *Book 1* to *Book 4* taught you how to write a good prompt for almost any task. This guide adds a layer that general prompting skill does not cover: the specific duties, risks, and rules that come with your profession.
 
-A lawyer, a nurse, a teacher, and a real estate agent can all ask ChatGPT to draft a letter. Only one of them needs to worry about attorney-client privilege before doing it. This guide walks through fourteen professions where using AI carries a duty or risk beyond the general advice throughout *ChatGPT Visual Bible*, along with adaptable prompts for each.
+A lawyer, a nurse, a teacher, and a real estate agent can all ask ChatGPT to draft a letter. Only one of them needs to worry about attorney-client privilege before doing it. This guide walks through fourteen professions where using AI carries a duty or risk beyond the general advice throughout *Microsoft Copilot Visual Bible*, along with adaptable prompts for each.
 
 Each profession includes a United States paragraph and a United Kingdom paragraph, because those are the two regulatory systems this guide can cover in depth. If you work in a different country, or your role sits under a devolved UK regulator (Scotland and Northern Ireland often run separate legal, education, and professional-conduct systems from England and Wales), use the prompt at the end of each section to research your own local rules. Treat the US and UK paragraphs as worked examples of the kind of duty to look for, not as the only two that matter.
 
 Not every reader has a compliance team, a firm, or a board behind them. If you are a sole practitioner, a freelancer, or a one-person operation, the same habits still apply; you are the one deciding your own policy rather than following someone else's. And not every reader is choosing AI use freely: if your employer, school, or agency already requires a specific approved AI tool, the risk shifts from "should I use AI" to "am I using the approved tool correctly," which the Watch out and Good practice boxes below still apply to.
 
-If your work depends on keeping data inside a particular country or region, the companion bonus book *Beyond Your First AI* covers when Mistral Vibe's EU data residency, or a paid enterprise plan from a major provider, might suit you better than a free consumer account.
+If your work depends on keeping data inside a particular country or region, the companion bonus book [*Beyond Your First AI*](../beyond/README.md) covers when Mistral Vibe's EU data residency, or a paid enterprise plan from a major provider, might suit you better than a free consumer account.
 
 Treat every prompt here as a starting point, not a finished product. Nothing in this guide replaces the judgment of your compliance team, your legal counsel, or your professional licensing body. Rules change by state, country, and employer, so confirm current requirements before you rely on any of them.
 

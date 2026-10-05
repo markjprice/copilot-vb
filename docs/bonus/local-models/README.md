@@ -1,4 +1,4 @@
-> **A free bonus online-only guide to the *Claude Visual Bible*, not included in the print edition**
+> **A free bonus online-only guide to the *Microsoft Copilot Visual Bible***
 
 # Bonus Book: Local AI Models
 
