@@ -2,7 +2,7 @@
 
 ## [Make Copilot Part of Your Work](integrate/README.md)
 
-[![Make Copilot Part of Your Work](integrate/Hero.png)](integrate/README.md)
+[![Make Copilot Part of Your Work](integrate/Book%205%20hero.png)](integrate/README.md)
 
 ## [Profession-Specific Prompts](professions/README.md)
 
