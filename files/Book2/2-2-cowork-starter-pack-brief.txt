@@ -1,0 +1,17 @@
+Outcome: Create a starter pack to help me plan a three-month trial of a four-day work week for a customer support team of 12. I'll use it to write a proposal for our leadership team.
+
+Inputs: Use only the three files I've attached: my recommendation, the team survey results, and the working hours policy.
+
+Deliverables: Create three new files in a new folder called "Trial starter pack":
+
+1. A Word document called "Trial plan outline" with headings for goals, schedule, staffing, risks, and how we'll measure success.
+
+2. A Word document called "Team questions and answers" with the 10 questions the team is most likely to ask, and a draft answer for each.
+
+3. An Excel workbook called "Trial preparation checklist" with one row per task, and columns for owner, due date, and status.
+
+Exclusions: Don't send any email or message. Don't schedule any meetings. Don't change the attached files. Don't search the web.
+
+Checkpoints: Show me the outline of each file and wait for my approval before you write the full versions.
+
+Quality bar: Base everything on the attached files. Where the files don't answer something, write [CHECK] instead of guessing.

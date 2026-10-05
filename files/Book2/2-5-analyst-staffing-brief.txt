@@ -1,0 +1,9 @@
+Question: Could our support team cover the phones on its quietest weekday with two fewer people on shift, without the average wait going above 60 seconds? This will support a proposal for a four-day work week trial.
+
+Data: support-calls-baseline.xlsx has one row per day for 12 weeks, with calls received, calls answered, average wait in seconds, staff on shift, and a satisfaction score from 1 to 5. staff-rota.csv lists which staff codes worked each day and whether each person is senior or junior. The files can be matched on the date column.
+
+Method: Exclude days with missing values, and tell me which days you excluded. Compare weekdays. Look at how average wait changes with the number of staff on shift, and whether the mix of senior and junior staff makes a difference.
+
+Output: A short report with a one-paragraph answer, a table of weekday averages, and no more than three charts.
+
+Uncertainty: Say how confident you are in each finding and why. Say plainly if 12 weeks of data isn't enough to answer something.
