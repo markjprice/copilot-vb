@@ -1,0 +1,359 @@
+Four-day week rollout kickoff
+Tuesday, May 4, 2027, 10:00 AM
+Transcript of the first 20 minutes (automatic transcription; may contain errors)
+Fictional sample file for Microsoft Copilot Visual Bible, Book 3, Chapters 3.3 and 3.4. All people are invented.
+
+Attendees: Jamie Rivera (organizer), Amara Okafor, Kenji Watanabe, Sofia Martinez, Tomasz Kowalski
+Absent: Priya Nair (sponsor), who sent apologies
+
+----------------------------------------------------------------
+
+0:00:08 Jamie Rivera
+Good morning everyone. Before we start, I want to say that this meeting is being transcribed so that I can write a recap afterwards. If anyone is uncomfortable with that, say so now and we'll stop it.
+
+0:00:24 Tomasz Kowalski
+Fine by me.
+
+0:00:26 Amara Okafor
+That's fine.
+
+0:00:28 Kenji Watanabe
+No objection.
+
+0:00:30 Sofia Martinez
+Fine, thanks for asking.
+
+0:00:38 Jamie Rivera
+Thanks. Priya sends her apologies, she's in another meeting. She asked me to say that she wants a short status update every Friday, and that she's happy for us to make decisions without her today.
+
+0:00:55 Jamie Rivera
+The goal for today: get Billing and Dispatch onto the four-day week, with no drop in customer response times. We have 45 minutes. I'd like to leave with decisions on the start dates and the budget, and an owner for each milestone. We'll finish with five minutes on actions.
+
+0:01:20 Jamie Rivera
+One thing I won't spend time on. The pattern is settled: four 8-hour days on the same pay. Priya confirmed that in the channel last week.
+
+0:01:34 Amara Okafor
+Just so it's in the record, the same pay still needs the HR Director's written approval under rule 3.4. I asked last Wednesday and I'm still waiting for an answer.
+
+0:01:47 Jamie Rivera
+Understood. We'll keep that as an open item. First question on the agenda: do we start both teams on the same date, or one month apart? Sofia, you've got that in version 2.
+
+0:02:02 Sofia Martinez
+Yes. Version 2 has Billing starting on Monday, July 5, and Dispatch a month later, on Monday, August 2. Tomasz said Dispatch needs more time on the IT side.
+
+0:02:16 Tomasz Kowalski
+It does. I looked again after Wednesday. There are fourteen phone seats on the Dispatch floor, not ten, and the rota tool needs one configuration change before it can run two groups. I can't do all of that and the Billing checklist before July.
+
+0:02:38 Kenji Watanabe
+Is July 5 realistic for Billing? That's right at the end of a month-end close.
+
+0:02:46 Sofia Martinez
+The close finishes on the 30th, so the 5th is the Monday after.
+
+0:02:53 Kenji Watanabe
+Fine. That works.
+
+0:03:00 Amara Okafor
+The dates matter for notice. For a July 5 start, written notice has to be with staff by Monday, May 10. For August 2 it's Monday, June 7. The notices were on hold until today, so if we settle the dates now I can send the Billing ones this week.
+
+0:03:21 Jamie Rivera
+Does anyone object to starting the teams one month apart?
+
+0:03:27 Kenji Watanabe
+No objection from Finance on the dates.
+
+0:03:31 Sofia Martinez
+None from me.
+
+0:03:34 Tomasz Kowalski
+That's fine. It helps me.
+
+0:03:38 Amara Okafor
+Fine, as long as the Billing notice goes out by the 10th. If it slips past that, a July 5 start breaks the policy.
+
+0:03:50 Jamie Rivera
+Let me say it back. Billing starts on July 5 and Dispatch starts on August 2. The Billing date holds only if the notice goes out by May 10. Is everyone agreed?
+
+0:04:05 Kenji Watanabe
+Agreed.
+
+0:04:06 Sofia Martinez
+Agreed.
+
+0:04:07 Tomasz Kowalski
+Agreed.
+
+0:04:09 Amara Okafor
+Agreed.
+
+0:04:14 Amara Okafor
+So I'll have the Billing notices out by Monday the 10th, and the Dispatch ones by June 7.
+
+0:04:23 Jamie Rivera
+Thank you, Amara. That's the first decision. I'll note it in the recap.
+
+0:04:35 Kenji Watanabe
+Can I go back to something I raised in the channel last week? Nobody replied. Month-end close is the last three working days of each month. If Billing has Fridays off, July 30 is a Friday and it's the last day of the close.
+
+0:04:55 Sofia Martinez
+The Billing lead didn't mention it to me.
+
+0:04:59 Kenji Watanabe
+They wouldn't mention it to you. They'd mention it to Finance, because we depend on their numbers.
+
+0:05:08 Sofia Martinez
+I can look at that.
+
+0:05:12 Amara Okafor
+If Billing needs to work some Fridays, that's an exception to the pattern, and it would need the HR Director's approval too.
+
+0:05:22 Jamie Rivera
+Let's log it as an open question: how does Billing cover the month-end close when Friday is the day off? We won't settle it this morning.
+
+0:05:35 Kenji Watanabe
+That's fine. I just wanted it said out loud.
+
+0:05:44 Jamie Rivera
+Next question: can we stay within the $36,000 budget? Sofia, where are we?
+
+0:05:52 Sofia Martinez
+Version 2 comes to thirty-nine thousand five hundred. Training goes from twelve thousand to fifteen thousand five hundred. Cover goes up by eighteen hundred, because Dispatch has two groups.
+
+0:06:12 Tomasz Kowalski
+And the IT line goes up by seventeen hundred, for the extra phone seats and the configuration change.
+
+0:06:20 Kenji Watanabe
+That is three and a half thousand over the cap. I can't take that to the committee without a case.
+
+0:06:30 Sofia Martinez
+The extra is mostly training. Two days for nine leaders and supervisors, instead of one day for six. Dispatch supervisors run the floor alone on the late shift. I'd rather ask for the money than short-change them.
+
+0:06:52 Kenji Watanabe
+I hear that. But "I'd rather ask for the money" isn't a case. What's the evidence that two days works better than one?
+
+0:07:03 Amara Okafor
+From the HR side, the leaders in the Customer Support trial said they wanted more time on rota planning. That's feedback, not a measurement, but it points the same way.
+
+0:07:18 Kenji Watanabe
+Thanks. It helps, but I'm not approving the extra today.
+
+0:07:25 Jamie Rivera
+Understood. Let's treat the extra $3,500 for training as an open question. Kenji, what do you need from me?
+
+0:07:35 Kenji Watanabe
+The sign-off pack. The committee has moved to Monday the 17th, so I need the pack by Friday the 14th. I'll confirm approval by the 21st.
+
+0:07:50 Jamie Rivera
+I'll get the pack to you by Friday the 14th. I'll also send you a one-page cost breakdown by tomorrow, Wednesday.
+
+0:08:02 Kenji Watanabe
+Good.
+
+0:08:10 Jamie Rivera
+Sofia, I need your cover cost figures in the pack. Are they in version 2?
+
+0:08:17 Sofia Martinez
+Yes, the cover line is in there. I'll send you the detail behind it.
+
+0:08:25 Jamie Rivera
+Thanks. When?
+
+0:08:28 Sofia Martinez
+Soon. I just need to check with the Dispatch lead.
+
+0:08:36 Jamie Rivera
+OK, I'll come back to that. Both of you have mentioned the committee. Kenji, will you present the case to the committee yourself?
+
+0:08:45 Sofia Martinez
+Yes, I'll present it to the Finance committee on the seventeenth, but only if the pack is with me by the fourteenth.
+
+0:08:55 Jamie Rivera
+Great. Thanks.
+
+0:09:05 Jamie Rivera
+While we're on the plan, I compared version 1 and version 2 last night. Version 1 had a rule in the risks section: if the average phone wait goes over 60 seconds for two weeks in a row, the sponsor calls a review. It isn't in version 2. Was that on purpose?
+
+0:09:30 Sofia Martinez
+No. That was a slip. I thought the policy already covered it. We should put it back.
+
+0:09:38 Kenji Watanabe
+I agree. Finance will want a stop rule.
+
+0:09:44 Amara Okafor
+Agreed.
+
+0:09:46 Jamie Rivera
+Then that's decided: the 60-second review rule goes back into the plan. Sofia, can you do that?
+
+0:09:54 Sofia Martinez
+I'll put it back in version 3.
+
+0:10:01 Jamie Rivera
+Thank you. Next, owners. I'd like to go through the milestones in version 2 and check that each person has actually agreed to theirs. Version 2 shows names against everything, but I don't want to assume.
+
+0:10:20 Jamie Rivera
+The IT readiness checklist. Tomasz, your name is on it.
+
+0:10:26 Tomasz Kowalski
+Yes. I'll finish the IT checklist for Billing by Friday the 14th. The Dispatch one can come later, in June, because that team starts later.
+
+0:10:40 Jamie Rivera
+Thank you. By Friday, May 14, for Billing. Next, the manager and team training. Version 2 has Amara as the owner. Amara, is that right?
+
+0:10:52 Amara Okafor
+That's news to me. I'm happy to take it if the budget is confirmed, but I haven't agreed to anything yet.
+
+0:11:02 Sofia Martinez
+That was me. I moved it to HR because it's about people. I should have asked you first. Sorry, Amara.
+
+0:11:12 Amara Okafor
+It's fine. Let's talk about it once we know what we can spend.
+
+0:11:20 Jamie Rivera
+OK, I'll treat the training owner as not yet agreed. Next, the Finance sign-off. That's Kenji, and we've covered it.
+
+0:11:31 Kenji Watanabe
+Yes.
+
+0:11:35 Jamie Rivera
+Notices are Amara, by the 10th for Billing. Covered.
+
+0:11:42 Jamie Rivera
+Now two things that don't have an owner in version 2. First, the customer letter. Someone has to tell the customers of both teams about the new Friday arrangements. Who takes that?
+
+0:12:00 Kenji Watanabe
+Not Finance.
+
+0:12:03 Sofia Martinez
+Someone from Operations, maybe.
+
+0:12:07 Jamie Rivera
+Let me leave that open for now.
+
+0:12:14 Jamie Rivera
+Second, Tomasz asked in the channel whether the Dispatch handsets are still on the old supplier contract. That affects the cost. Does anyone know?
+
+0:12:26 Tomasz Kowalski
+I don't. I only know there are fourteen seats.
+
+0:12:32 Amara Okafor
+Not me.
+
+0:12:36 Sofia Martinez
+I think the lease runs out in the autumn but I'm not sure.
+
+0:12:45 Jamie Rivera
+OK. That's an open question, with no one to find out yet.
+
+0:12:58 Jamie Rivera
+Let me summarize where we are before we go further. We've agreed the start dates, with the Billing date depending on the notice. We've put the 60-second review rule back. The budget, the Billing month-end problem, and the pay approval are open. Is that how everyone sees it?
+
+0:13:20 Kenji Watanabe
+Yes, apart from one thing. The budget isn't just open. It's over the cap, and nothing is approved. I'd like that to be clear in whatever goes out.
+
+0:13:32 Jamie Rivera
+Understood. I'll say that plainly.
+
+0:13:40 Sofia Martinez
+Can I ask about the Dispatch rota? Version 2 has the two groups. Group A takes Mondays off and Group B takes Fridays. I know Priya liked it, but has anyone here actually agreed to it?
+
+0:13:56 Jamie Rivera
+Good question. The channel treated it as a working assumption. Does anyone object to the two-group pattern for Dispatch?
+
+0:14:08 Tomasz Kowalski
+No. I said it can work, and it can.
+
+0:14:14 Amara Okafor
+I like it. It keeps the phones covered five days a week. But it needs the HR Director's approval, like the rest of it.
+
+0:14:26 Kenji Watanabe
+I have no view on how Dispatch arranges its days. The cost is what I care about.
+
+0:14:36 Jamie Rivera
+OK. So Tomasz and Amara are in favour, Kenji has no view, Sofia proposed it. Nobody objects. I'll record it as agreed, subject to the HR Director's approval.
+
+0:14:52 Sofia Martinez
+Thanks.
+
+0:15:02 Jamie Rivera
+Now let's look at the review points. Version 2 adds a review at week six as well as week twelve. Why?
+
+0:15:12 Sofia Martinez
+Because twelve weeks is a long time to wait. I wanted a check earlier than that.
+
+0:15:22 Kenji Watanabe
+That's good. I'd like the week-six review to include the wait figures.
+
+0:15:30 Jamie Rivera
+So noted. Who runs the week-six review?
+
+0:15:36 Amara Okafor
+I'd have thought the project lead.
+
+0:15:40 Jamie Rivera
+That's me, then.
+
+0:15:44 Sofia Martinez
+Sorry, you're on mute. Oh, no, you're fine.
+
+0:15:52 Jamie Rivera
+Thanks. We have about half an hour left. Let me talk about the next sessions. We'll need another meeting next week to check the sign-off pack, and I'd like to find a time that works for all of us, including Tomasz, who is an hour ahead.
+
+0:16:12 Tomasz Kowalski
+Anything between ten and four my time is fine, apart from Mondays.
+
+0:16:20 Amara Okafor
+I'm in the office on Wednesdays and Thursdays.
+
+0:16:26 Kenji Watanabe
+Not Friday afternoons for me.
+
+0:16:32 Jamie Rivera
+OK. I'll find a time and send an invitation. Please check it before you accept.
+
+0:16:44 Jamie Rivera
+Before we go on to the last items, are there questions about what we've said so far?
+
+0:16:52 Amara Okafor
+One. When will you send the recap?
+
+0:16:58 Jamie Rivera
+Within one working day. I'll mark it as a draft and ask all of you to correct it before it's final.
+
+0:17:08 Amara Okafor
+Good. Please include who said what, because I want to be sure of my own commitments.
+
+0:17:16 Jamie Rivera
+I will. Right, now the risks.
+
+0:17:24 Jamie Rivera
+Tomasz, the biggest risk I can see is the Dispatch phones. Is there anything else that could make August 2 slip?
+
+0:17:34 Tomasz Kowalski
+The handset question, really. If the contract is up in the autumn there might be a delay getting new ones, or a cost. And I'd want the rota tool tested before the first rota.
+
+0:17:50 Jamie Rivera
+Can you test it before July?
+
+0:17:55 Tomasz Kowalski
+I think so. I'd want to look at the calendar first.
+
+0:18:02 Jamie Rivera
+OK. I'll note that as a risk, and not as an action.
+
+0:18:12 Sofia Martinez
+There's one other thing for the risk list. The Billing lead is new. She started in March. I'm not sure she has been through anything like this.
+
+0:18:26 Amara Okafor
+That's a good point. It's another reason to think about the training.
+
+0:18:34 Kenji Watanabe
+It isn't a reason to spend a further $3,500 though. It's a reason to find what the existing training covers.
+
+0:18:44 Amara Okafor
+That's fair.
+
+0:19:44 Jamie Rivera
+I'll add both of those to the risks. Let's move on to the final item, which is the plan itself. I'd like us to walk through the sections one at a time and check what's in each. Section one is the
+
+[Transcript ends at 0:20:00]

@@ -1,0 +1,251 @@
+Email thread: Rollout budget: training and cover costs
+14 messages, Friday, April 30, 2027 to Monday, May 3, 2027
+Fictional sample file for Microsoft Copilot Visual Bible, Book 3, Chapter 3.5. All people are invented.
+You are Jamie Rivera, the project lead. Messages are listed oldest first. Quoted text is shown with ">" at the start of each line.
+
+================================================================
+MESSAGE 1 OF 14
+From: Sofia Martinez
+To: Kenji Watanabe; Amara Okafor; Jamie Rivera
+Date: Friday, April 30, 2027, 8:10 AM
+Subject: Rollout budget: training and cover costs
+Attachment: rollout-budget-v1.xlsx
+
+Hi all,
+
+Attached is the budget behind rollout plan v1. The total is $34,000: training $12,000, scheduling software $6,500, temporary cover $9,000, IT setup $4,500, and communications $2,000.
+
+I would like to raise training to $15,500 so that Dispatch supervisors can take a two-day course. That would be $3,500 more.
+
+Sofia
+
+================================================================
+MESSAGE 2 OF 14
+From: Kenji Watanabe
+To: Sofia Martinez; Amara Okafor; Jamie Rivera
+Date: Friday, April 30, 2027, 9:02 AM
+Subject: RE: Rollout budget: training and cover costs
+
+Sofia,
+
+The envelope is $36,000 and it is fixed. I need to understand why training has to go up before I can take anything to the committee. What is the case for the extra $3,500, and what happens if we stay at $12,000?
+
+Kenji
+
+> From: Sofia Martinez
+> Date: Friday, April 30, 2027, 8:10 AM
+> I would like to raise training to $15,500 so that Dispatch supervisors can take a two-day course. That would be $3,500 more.
+
+================================================================
+MESSAGE 3 OF 14
+From: Amara Okafor
+To: Sofia Martinez; Kenji Watanabe; Jamie Rivera
+Date: Friday, April 30, 2027, 9:40 AM
+Subject: RE: Rollout budget: training and cover costs
+
+Hi both,
+
+From the HR side, managers who run a four-day pattern need to understand the policy exceptions, and a half day is not enough for that. I would support a longer course for the leaders. I cannot say whether it needs to be two full days.
+
+Separately, a reminder that the policy needs 8 weeks' written notice. v1 shows notices going out on May 24, which is too late for a July 5 start.
+
+Amara
+
+> From: Kenji Watanabe
+> Date: Friday, April 30, 2027, 9:02 AM
+> What is the case for the extra $3,500, and what happens if we stay at $12,000?
+
+================================================================
+MESSAGE 4 OF 14
+From: Jamie Rivera
+To: Kenji Watanabe; Sofia Martinez; Amara Okafor
+Date: Friday, April 30, 2027, 10:15 AM
+Subject: RE: Rollout budget: training and cover costs
+
+Thanks all. Kenji, the extra covers a two-day course for nine leaders and shift supervisors, instead of a one-day course for six. I'll send you a one-page cost breakdown by Wednesday, May 5.
+
+Jamie
+
+> From: Kenji Watanabe
+> Date: Friday, April 30, 2027, 9:02 AM
+> What is the case for the extra $3,500, and what happens if we stay at $12,000?
+
+================================================================
+MESSAGE 5 OF 14
+From: Kenji Watanabe
+To: Jamie Rivera; Sofia Martinez; Amara Okafor
+Date: Friday, April 30, 2027, 11:30 AM
+Subject: RE: Rollout budget: training and cover costs
+
+Thanks Jamie. For planning: the Finance committee meets Monday, May 10. I need the sign-off pack by Friday, May 7, and I'll confirm approval by Friday, May 14.
+
+Kenji
+
+> From: Jamie Rivera
+> Date: Friday, April 30, 2027, 10:15 AM
+> I'll send you a one-page cost breakdown by Wednesday, May 5.
+
+================================================================
+MESSAGE 6 OF 14
+From: Sofia Martinez
+To: Kenji Watanabe; Amara Okafor; Jamie Rivera; Tomasz Kowalski
+Date: Friday, April 30, 2027, 2:05 PM
+Subject: RE: Rollout budget: training and cover costs
+
+Adding Tomasz, who should have been on this from the start. Tomasz, v1 has $4,500 for IT setup across both teams. Can you check that figure?
+
+Sofia
+
+> From: Kenji Watanabe
+> Date: Friday, April 30, 2027, 11:30 AM
+> I need the sign-off pack by Friday, May 7, and I'll confirm approval by Friday, May 14.
+
+================================================================
+MESSAGE 7 OF 14
+From: Tomasz Kowalski
+To: Sofia Martinez; Kenji Watanabe; Amara Okafor; Jamie Rivera
+Date: Friday, April 30, 2027, 3:20 PM
+Subject: RE: Rollout budget: training and cover costs
+
+Hi all,
+
+I'm new to the thread, so apologies if I'm repeating something. The IT figure needs to be $5,200, not $4,500. Dispatch has 14 phone seats, not 10, and the rota tool needs one configuration change. I will send the Billing readiness checklist by Friday, May 14.
+
+Tomasz
+
+> From: Sofia Martinez
+> Date: Friday, April 30, 2027, 2:05 PM
+> v1 has $4,500 for IT setup across both teams. Can you check that figure?
+
+================================================================
+MESSAGE 8 OF 14
+From: Amara Okafor
+To: Sofia Martinez; Kenji Watanabe; Jamie Rivera; Tomasz Kowalski
+Date: Monday, May 3, 2027, 8:12 AM
+Subject: RE: Rollout budget: training and cover costs
+
+Replying to my own earlier point, since it affects the dates people are quoting.
+
+For a July 5 start, written notice has to be with staff by Monday, May 10. For an August 2 start, it is Monday, June 7. I would like the start dates settled at the kickoff tomorrow so that I can send notices on time. I will draft the notice wording by Friday, May 7.
+
+Amara
+
+> From: Amara Okafor
+> Date: Friday, April 30, 2027, 9:40 AM
+> v1 shows notices going out on May 24, which is too late for a July 5 start.
+
+================================================================
+MESSAGE 9 OF 14
+From: Kenji Watanabe
+To: Sofia Martinez; Amara Okafor; Jamie Rivera; Tomasz Kowalski
+Cc: Priya Nair
+Date: Monday, May 3, 2027, 8:40 AM
+Subject: RE: Rollout budget: training and cover costs
+
+All, an update on timing, and I'm adding Priya for visibility.
+
+The Finance committee has moved to Monday, May 17. I now need the sign-off pack by Friday, May 14, and I will confirm approval by Friday, May 21. Please disregard the earlier dates of May 7 and May 14.
+
+Kenji
+
+> From: Kenji Watanabe
+> Date: Friday, April 30, 2027, 11:30 AM
+> the Finance committee meets Monday, May 10. I need the sign-off pack by Friday, May 7, and I'll confirm approval by Friday, May 14.
+
+================================================================
+MESSAGE 10 OF 14
+From: Priya Nair
+To: Kenji Watanabe; Sofia Martinez; Amara Okafor; Jamie Rivera; Tomasz Kowalski
+Date: Monday, May 3, 2027, 9:05 AM
+Subject: RE: Rollout budget: training and cover costs
+
+Thanks Kenji, and thanks all. I've caught up on the thread.
+
+Please treat $36,000 as the cap unless we have a clear case for going above it. Jamie is leading, so please send questions about the budget to Jamie. I'll be in another meeting at the kickoff tomorrow, so I'll rely on Jamie's recap.
+
+Priya
+
+> From: Kenji Watanabe
+> Date: Monday, May 3, 2027, 8:40 AM
+> The Finance committee has moved to Monday, May 17.
+
+================================================================
+MESSAGE 11 OF 14
+From: Sofia Martinez
+To: Kenji Watanabe; Amara Okafor; Jamie Rivera; Tomasz Kowalski; Priya Nair
+Date: Monday, May 3, 2027, 9:50 AM
+Subject: RE: Rollout budget: training and cover costs
+Attachment: rollout-budget-v2.xlsx
+
+Hi all,
+
+Attached is the revised budget, which matches rollout plan v2. The new total is $39,500:
+
+Training $15,500 (was $12,000)
+Scheduling software $6,500 (no change)
+Temporary cover $10,800 (was $9,000, because Dispatch will run two groups)
+IT setup $5,200 (was $4,500)
+Communications $1,500 (was $2,000, because I've dropped the printed posters)
+
+Jamie, you'll have the cover detail from me later this week.
+
+Sofia
+
+> From: Priya Nair
+> Date: Monday, May 3, 2027, 9:05 AM
+> Please treat $36,000 as the cap unless we have a clear case for going above it.
+
+================================================================
+MESSAGE 12 OF 14
+From: Kenji Watanabe
+To: Sofia Martinez; Amara Okafor; Jamie Rivera; Tomasz Kowalski; Priya Nair
+Date: Monday, May 3, 2027, 10:30 AM
+Subject: RE: Rollout budget: training and cover costs
+
+Sofia,
+
+That is $3,500 over the envelope, and nothing in it is approved. The training increase is the item I question most. I want to know whether the rollout really needs it, or whether the existing training could be extended. I also want the reasons for the $1,800 on cover and the $700 on IT.
+
+Jamie, I'd like your view on training before the committee pack is built.
+
+Kenji
+
+> From: Sofia Martinez
+> Date: Monday, May 3, 2027, 9:50 AM
+> The new total is $39,500
+
+================================================================
+MESSAGE 13 OF 14
+From: Tomasz Kowalski
+To: Kenji Watanabe
+Cc: Jamie Rivera
+Date: Monday, May 3, 2027, 11:15 AM
+Subject: RE: Rollout budget: training and cover costs
+
+Kenji,
+
+On the $700 for IT: it is firm. It covers the extra four phone seats and the rota tool change. If Dispatch could reuse existing handsets, it might come down, but I don't know the contract position yet. I'm keeping this between us until I do.
+
+Tomasz
+
+> From: Kenji Watanabe
+> Date: Monday, May 3, 2027, 10:30 AM
+> I also want the reasons for the $1,800 on cover and the $700 on IT.
+
+================================================================
+MESSAGE 14 OF 14
+From: Priya Nair
+To: Jamie Rivera
+Cc: Kenji Watanabe; Sofia Martinez; Amara Okafor
+Date: Monday, May 3, 2027, 1:45 PM
+Subject: RE: Rollout budget: training and cover costs
+
+Jamie, over to you. Please reply to Kenji's question about the training budget. Keep it factual. I'm out for the rest of the day, and I'll expect you to run the discussion at the kickoff.
+
+Priya
+
+> From: Kenji Watanabe
+> Date: Monday, May 3, 2027, 10:30 AM
+> Jamie, I'd like your view on training before the committee pack is built.
+
+[End of thread]

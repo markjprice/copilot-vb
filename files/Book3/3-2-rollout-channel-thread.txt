@@ -1,0 +1,208 @@
+Teams channel: Four-day week rollout > General
+Export of messages from Tuesday, April 27, 2027, 9:00 AM to Thursday, April 29, 2027, 8:30 AM
+Times are shown in the reader's local time. Reactions are listed under the message they belong to.
+Fictional sample conversation for Microsoft Copilot Visual Bible, Book 3, Chapter 3.2. All people are invented.
+
+Members posting in this export: Priya Nair (sponsor), Sofia Martinez (Operations), Amara Okafor (HR), Kenji Watanabe (Finance), Tomasz Kowalski (IT). Jamie Rivera (project lead) is away until Thursday morning.
+
+================================================================
+TUESDAY, APRIL 27, 2027
+================================================================
+
+[Tue, Apr 27, 2027 9:02 AM] Priya Nair
+Welcome to the Four-day week rollout channel, everyone. Leadership has approved extending the four-day week to Billing and Dispatch. Jamie Rivera is leading the project and is away until Thursday morning. Sofia's first draft plan is in the Files tab (rollout-plan-v1.docx). Please read it and add your comments here.
+
+[Tue, Apr 27, 2027 9:10 AM] Sofia Martinez
+Thanks Priya. Quick summary of v1: both teams start Monday, July 5, four 8-hour days, same pay, and a review after 12 weeks. The budget comes to $34,000. Comments welcome, especially on dates.
+
+[Tue, Apr 27, 2027 9:14 AM] Amara Okafor
+Good to be here. One flag from HR: the Working Hours Policy caps a working day at 9 hours (rule 3.3), so a 4 x 10 pattern isn't possible for either team without an exception. Is v1 4 x 8?
+
+[Tue, Apr 27, 2027 9:16 AM] Sofia Martinez
+Yes, 4 x 8, same pay.
+
+[Tue, Apr 27, 2027 9:19 AM] Kenji Watanabe
+Hi all. Finance note up front: the rollout budget is fixed at $36,000. That's the envelope the leadership team gave us. Nothing above that without a new case to the committee.
+
+[Tue, Apr 27, 2027 9:22 AM] Priya Nair
+Thanks Kenji. To be clear on the pattern so nobody spends time on it: Decision: both teams move to four 8-hour days on the same pay. That's what leadership approved and we're not reopening it.
+    Reactions: thumbs-up (Amara Okafor, Sofia Martinez, Tomasz Kowalski, Kenji Watanabe)
+
+[Tue, Apr 27, 2027 9:25 AM] Tomasz Kowalski
+Hi everyone, Tomasz from IT. Reading v1 now. Question for Sofia: where does the Dispatch team sit? Is it still the old phone system on the second floor?
+
+[Tue, Apr 27, 2027 9:41 AM] Sofia Martinez
+Reading Kenji's note: we're at $34,000 in v1, so there's $2,000 of headroom. Good.
+
+[Tue, Apr 27, 2027 9:48 AM] Sofia Martinez
+Yes Tomasz, second floor, old system.
+
+[Tue, Apr 27, 2027 10:05 AM] Amara Okafor
+Looking at the timings in v1. Both teams start July 5. The policy needs 8 weeks' written notice (rule 5.1), so notices need to go out by Monday, May 10. v1 says May 24 for notices, which is too late. I'd suggest we send them Friday, May 7.
+
+[Tue, Apr 27, 2027 10:08 AM] Priya Nair
+Agreed Amara. Go ahead and send notices Friday, May 7.
+
+[Tue, Apr 27, 2027 10:11 AM] Sofia Martinez
+Great, thank you both.
+
+[Tue, Apr 27, 2027 10:20 AM] Tomasz Kowalski
+Hold on. Have the start dates actually been confirmed with the Billing and Dispatch leads? I'd hate to give notice for a date that moves.
+
+[Tue, Apr 27, 2027 10:26 AM] Priya Nair
+Good point, Tomasz. Amara, please hold the notices until we've settled the start dates. I shouldn't have said go ahead.
+
+[Tue, Apr 27, 2027 10:29 AM] Amara Okafor
+OK, holding. I'll draft the wording so it's ready.
+    Reactions: thumbs-up (Priya Nair)
+
+[Tue, Apr 27, 2027 11:40 AM] Kenji Watanabe
+Separate thing while I'm here: Billing's month-end close is the last three working days of each month. Just flagging.
+    Reactions: thumbs-up (Sofia Martinez)
+
+[Tue, Apr 27, 2027 1:15 PM] Sofia Martinez
+Does anyone have the Billing headcount handy? I have 14 in v1 but it might be 15.
+
+[Tue, Apr 27, 2027 1:30 PM] Amara Okafor
+HR records say 14 permanent plus one on a fixed-term contract until June, so 14 or 15 depending on how you count.
+
+[Tue, Apr 27, 2027 1:34 PM] Sofia Martinez
+Thanks, I'll say 14 plus 1 fixed-term.
+
+[Tue, Apr 27, 2027 3:10 PM] Priya Nair
+Quick reminder for everyone: please keep comments on v1 in this channel, not in email, until Jamie is back. Thanks!
+
+================================================================
+WEDNESDAY, APRIL 28, 2027
+================================================================
+
+[Wed, Apr 28, 2027 8:35 AM] Tomasz Kowalski
+Morning. I looked at the Dispatch setup. Screenshot attached. It's not what v1 assumes.
+    Attachment: dispatch-seats.png (screenshot, not included in this text file)
+
+[Wed, Apr 28, 2027 8:37 AM] Tomasz Kowalski
+In short, there's more to configure than v1 says. I'll put numbers in the IT line once I've checked.
+
+[Wed, Apr 28, 2027 9:05 AM] Sofia Martinez
+Thanks Tomasz. Here's a thought: we could push Dispatch to August, so IT has time. Billing stays July 5. Thoughts?
+
+[Wed, Apr 28, 2027 9:12 AM] Amara Okafor
+From an HR view that gives more time for notice, which helps. I'm not against it.
+    Reactions: thumbs-up (Priya Nair, Tomasz Kowalski)
+
+[Wed, Apr 28, 2027 9:20 AM] Kenji Watanabe
+A later start for Dispatch also moves their cost into a different quarter. Not saying no.
+
+[Wed, Apr 28, 2027 9:31 AM] Priya Nair
+Interesting. Let's keep it on the list for the kickoff.
+
+[Wed, Apr 28, 2027 10:02 AM] Sofia Martinez
+Another idea: for Dispatch, instead of everyone being off on Friday, we could rotate the day off. Group A takes Monday, Group B takes Friday. Keeps the phones covered.
+
+[Wed, Apr 28, 2027 10:10 AM] Amara Okafor
+I like that. It fits the minimum cover idea from the trial.
+
+[Wed, Apr 28, 2027 10:14 AM] Tomasz Kowalski
+Not sure the Dispatch rota tool supports two groups without a change.
+
+[Wed, Apr 28, 2027 10:18 AM] Priya Nair
+Let's discuss at the kickoff. I like where this is going.
+
+[Wed, Apr 28, 2027 11:05 AM] Kenji Watanabe
+@Jamie Rivera when you're back: can the Finance sign-off pack reach me by Friday, May 7? The committee meets Monday, May 10, and I need the pack in front of me first.
+
+[Wed, Apr 28, 2027 11:12 AM] Priya Nair
+Jamie's away today, I'll make sure they see this.
+
+[Wed, Apr 28, 2027 11:20 AM] Sofia Martinez
+The pack will need cover costs from me. I'll send Jamie the cover cost figures by Monday, May 3.
+    Reactions: thumbs-up (Kenji Watanabe)
+
+[Wed, Apr 28, 2027 11:45 AM] Sofia Martinez
+On training: v1 has $12,000, which is a half day for everyone plus a one-day course for six team leaders. I think Dispatch needs more. A two-day course for the nine leaders and shift supervisors would bring training to $15,500, so +$3,500.
+
+[Wed, Apr 28, 2027 11:52 AM] Kenji Watanabe
+That would put us over the $36,000 cap, wouldn't it? I'd need to see the case.
+
+[Wed, Apr 28, 2027 11:58 AM] Sofia Martinez
+Total would be about $37,500 I think, more once cover is counted.
+
+[Wed, Apr 28, 2027 12:03 PM] Kenji Watanabe
+Fine, do it your way. It's not my call, but I haven't approved anything.
+
+[Wed, Apr 28, 2027 12:10 PM] Amara Okafor
+Kenji, I read that as a bit sharp. Is there a concern with the training itself?
+
+[Wed, Apr 28, 2027 12:20 PM] Kenji Watanabe
+No concern with training as such. I just can't approve spend I haven't seen justified. Send me the case.
+
+[Wed, Apr 28, 2027 12:25 PM] Sofia Martinez
+Understood. Jamie can pull the case together when they're back, I'm sure.
+
+[Wed, Apr 28, 2027 1:00 PM] Priya Nair
+I've booked the kickoff: Tuesday, May 4, 10:00 AM, 45 minutes, on Teams. Jamie will send the formal invitation.
+
+[Wed, Apr 28, 2027 1:05 PM] Priya Nair
+@Jamie Rivera when you're back, could you draft the agenda and send the invitation by Friday? Agenda items as questions, please.
+
+[Wed, Apr 28, 2027 2:15 PM] Tomasz Kowalski
+I'll complete the IT readiness checklist for Billing by Friday, May 14.
+
+[Wed, Apr 28, 2027 2:20 PM] Priya Nair
+Thanks Tomasz, noted.
+
+[Wed, Apr 28, 2027 2:45 PM] Amara Okafor
+@Jamie Rivera FYI, no action needed from you: I've asked the HR Director about written approval for same pay (rule 3.4). Waiting for a reply.
+
+[Wed, Apr 28, 2027 3:30 PM] Tomasz Kowalski
+Does anyone know if the Dispatch handsets are still on the old supplier contract? It matters for the cost.
+
+[Wed, Apr 28, 2027 3:50 PM] Sofia Martinez
+I spoke to the Billing and Dispatch leads this morning and they're both fine with July.
+
+[Wed, Apr 28, 2027 4:10 PM] Amara Okafor
+Great.
+
+[Wed, Apr 28, 2027 4:30 PM] Sofia Martinez
+Coffee is on me if we hit the July date.
+
+[Wed, Apr 28, 2027 4:35 PM] Tomasz Kowalski
+Deal.
+
+================================================================
+THURSDAY, APRIL 29, 2027
+================================================================
+
+[Thu, Apr 29, 2027 7:50 AM] Tomasz Kowalski
+Early one. On the rota tool: I checked, and it can run two groups with one configuration change. I take back what I said yesterday.
+
+[Thu, Apr 29, 2027 7:55 AM] Sofia Martinez
+Brilliant, thank you.
+    Reactions: thumbs-up (Amara Okafor, Priya Nair)
+
+[Thu, Apr 29, 2027 8:02 AM] Sofia Martinez
+So the working assumption until the kickoff says otherwise: Billing July 5, Dispatch August 2, and a rotating day off for Dispatch. I'll reflect it in v2.
+    Reactions: thumbs-up (Priya Nair, Amara Okafor, Tomasz Kowalski)
+
+[Thu, Apr 29, 2027 8:05 AM] Amara Okafor
+Noted. Remember the notices need to follow the dates, not lead them.
+
+[Thu, Apr 29, 2027 8:10 AM] Kenji Watanabe
+Reminder: pack by May 7 please.
+
+[Thu, Apr 29, 2027 8:12 AM] Sofia Martinez
+Also I'll drop the printed posters from the comms line. That's $500 saved.
+
+[Thu, Apr 29, 2027 8:15 AM] Priya Nair
+Jamie is back this morning. Welcome back @Jamie Rivera, the thread above is yours to catch up on. The main things for you are the Finance pack, and the agenda and invitation by Friday.
+
+[Thu, Apr 29, 2027 8:18 AM] Amara Okafor
+Welcome back Jamie!
+
+[Thu, Apr 29, 2027 8:20 AM] Tomasz Kowalski
+Welcome back!
+
+[Thu, Apr 29, 2027 8:24 AM] Kenji Watanabe
+Jamie, please confirm the May 7 pack date works when you've caught up.
+
+[End of export]

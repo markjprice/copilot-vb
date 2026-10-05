@@ -1,0 +1,80 @@
+KICKOFF PREP NOTES: Four-day week rollout
+Fictional sample file for Microsoft Copilot Visual Bible, Book 3, Chapter 3.3. All people are invented.
+
+These notes were gathered by Jamie Rivera on Monday, May 3, 2027, at 5:30 PM from four places: the meeting invitation, the project channel (April 27 to 29), the email thread "Rollout budget: training and cover costs" (April 30 to May 3), and two files in the project folder (rollout-plan-v1.docx and rollout-plan-v2.docx). They are quotes and short summaries. Nothing here has been checked.
+
+----------------------------------------------------------------
+1. THE MEETING
+----------------------------------------------------------------
+
+Source: Meeting invitation, sent Friday, April 30.
+Title: Four-day week rollout kickoff
+When: Tuesday, May 4, 2027, 10:00 to 10:45 AM, on Teams
+Required: Jamie Rivera (organizer), Amara Okafor (HR), Kenji Watanabe (Finance), Sofia Martinez (Operations), Tomasz Kowalski (IT)
+Optional: Priya Nair (sponsor)
+Text of the invitation: "First meeting of the rollout project. We need to settle when each team starts, how we stay within budget, and who owns each milestone. Please read rollout-plan-v2 before the meeting."
+
+----------------------------------------------------------------
+2. WHAT PEOPLE HAVE SAID: PROJECT CHANNEL
+----------------------------------------------------------------
+
+Tue, Apr 27, Priya: "Decision: both teams move to four 8-hour days on the same pay. That's what leadership approved and we're not reopening it."
+
+Tue, Apr 27, Kenji: "the rollout budget is fixed at $36,000. That's the envelope the leadership team gave us. Nothing above that without a new case to the committee."
+
+Tue, Apr 27, Amara: "The policy needs 8 weeks' written notice (rule 5.1), so notices need to go out by Monday, May 10."
+
+Tue, Apr 27, Priya, 10:08 AM: "Agreed Amara. Go ahead and send notices Friday, May 7."
+Tue, Apr 27, Priya, 10:26 AM: "Amara, please hold the notices until we've settled the start dates. I shouldn't have said go ahead."
+
+Tue, Apr 27, Kenji: "Billing's month-end close is the last three working days of each month. Just flagging." (One thumbs-up from Sofia. No replies.)
+
+Wed, Apr 28, Sofia: "we could push Dispatch to August, so IT has time. Billing stays July 5."
+
+Wed, Apr 28, Sofia: "for Dispatch, instead of everyone being off on Friday, we could rotate the day off. Group A takes Monday, Group B takes Friday."
+
+Wed, Apr 28, Tomasz, 10:14 AM: "Not sure the Dispatch rota tool supports two groups without a change."
+Thu, Apr 29, Tomasz, 7:50 AM: "it can run two groups with one configuration change. I take back what I said yesterday."
+
+Wed, Apr 28, Sofia: "A two-day course for the nine leaders and shift supervisors would bring training to $15,500, so +$3,500."
+Wed, Apr 28, Kenji: "That would put us over the $36,000 cap, wouldn't it? I'd need to see the case."
+Wed, Apr 28, Kenji: "Fine, do it your way. It's not my call, but I haven't approved anything."
+
+Wed, Apr 28, Tomasz: "I'll complete the IT readiness checklist for Billing by Friday, May 14."
+
+Thu, Apr 29, Sofia: "So the working assumption until the kickoff says otherwise: Billing July 5, Dispatch August 2, and a rotating day off for Dispatch."
+
+----------------------------------------------------------------
+3. WHAT PEOPLE HAVE SAID: EMAIL THREAD
+----------------------------------------------------------------
+
+Fri, Apr 30, Kenji: "the Finance committee meets Monday, May 10. I need the sign-off pack by Friday, May 7, and I'll confirm approval by Friday, May 14."
+
+Fri, Apr 30, Tomasz: "The IT figure needs to be $5,200, not $4,500. Dispatch has 14 phone seats, not 10, and the rota tool needs one configuration change."
+
+Mon, May 3, 8:12 AM, Amara: "For a July 5 start, written notice has to be with staff by Monday, May 10. For an August 2 start, it is Monday, June 7. I would like the start dates settled at the kickoff tomorrow so that I can send notices on time."
+
+Mon, May 3, 8:40 AM, Kenji: "The Finance committee has moved to Monday, May 17. I now need the sign-off pack by Friday, May 14, and I will confirm approval by Friday, May 21. Please disregard the earlier dates of May 7 and May 14."
+
+Mon, May 3, 9:05 AM, Priya: "Please treat $36,000 as the cap unless we have a clear case for going above it."
+
+Mon, May 3, 9:50 AM, Sofia: "Attached is the revised budget, which matches rollout plan v2. The new total is $39,500."
+
+Mon, May 3, 10:30 AM, Kenji: "That is $3,500 over the envelope, and nothing in it is approved."
+
+----------------------------------------------------------------
+4. FILES IN THE PROJECT FOLDER
+----------------------------------------------------------------
+
+rollout-plan-v1.docx (Sofia, April 23). Both teams start July 5. Budget $34,000. Everyone off on Fridays.
+rollout-plan-v2.docx (Sofia, May 3). Billing July 5, Dispatch August 2. Dispatch uses two groups with different days off. Budget $39,500.
+rollout-budget-v2.xlsx (attached to Sofia's email on May 3). Not in the project folder yet, so not covered by these notes.
+
+----------------------------------------------------------------
+5. MY OWN LIST FOR TOMORROW
+----------------------------------------------------------------
+
+- Start with the goal in two minutes.
+- Save time for start dates, budget, and owners.
+- Priya may not be able to attend.
+- Transcribe the meeting so I can write the recap. Say so first.
