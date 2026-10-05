@@ -1,12 +1,16 @@
-# Bonus Books for *Claude Visual Bible*
+# Bonus Books for *Microsoft Copilot Visual Bible*
 
-## [Beyond Your First AI](beyond/README.md)
+## [Make Copilot Part of Your Work](integrate/README.md)
 
-[![Beyond Your First AI](beyond/Bonus-Chapter-Beyond-Your-First-AI-Hero.png)](beyond/README.md)
+[![Make Copilot Part of Your Work](integrate/Hero.png)](integrate/README.md)
 
 ## [Profession-Specific Prompts](professions/README.md)
 
 [![Profession-Specific Prompts](professions/Hero.png)](professions/README.md)
+
+## [Beyond Your First AI](beyond/README.md)
+
+[![Beyond Your First AI](beyond/Bonus-Chapter-Beyond-Your-First-AI-Hero.png)](beyond/README.md)
 
 ## [Local AI Models](local-models/README.md)
 
