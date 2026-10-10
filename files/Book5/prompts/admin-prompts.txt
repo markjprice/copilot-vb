@@ -1,0 +1,54 @@
+CHAPTER 5.3 PROMPTS: WORKFLOWS FOR ADMINISTRATORS AND EXECUTIVE ASSISTANTS
+Fictional sample file for Microsoft Copilot Visual Bible, Book 5, Chapter 5.3. Text copied from the online chapter.
+
+HOW TO USE THIS FILE
+Copy only the text between the two long lines of dashes. Do not copy the headings, the dashes, or the notes. Replace anything in [square brackets] with your own details, or with the suggested values in the notes at the end.
+
+----------------------------------------------------------------
+PROMPT 1  (section: Workflow 1: Prepare a daily briefing)
+----------------------------------------------------------------
+Prepare a briefing for [manager's name] for [date], using their calendar as shared with me and the files linked in each invitation.
+For each meeting, give: the time and place or link, who's attending, the purpose in one line, what they need to read or decide, and a link to each document.
+Then list: gaps of 30 minutes or more, any back-to-back meetings in different places, and anything in the calendar with no agenda.
+Keep it to one page. Use only what's in the calendar and the linked files. Mark anything missing with [CHECK].
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 2  (section: Workflow 2: Coordinate calendars, agendas, and follow-ups)
+----------------------------------------------------------------
+Which actions from the last month's meetings are overdue or have no update?
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 3  (section: Workflow 3: Organize files and routine communication)
+----------------------------------------------------------------
+Find the latest version of the board paper on [topic]. Tell me where it's stored, who last changed it, and when.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 4  (section: Workflow 3: Organize files and routine communication)
+----------------------------------------------------------------
+Compare these two versions of the agenda, and list what changed.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 5  (section: Workflow 3: Organize files and routine communication)
+----------------------------------------------------------------
+List the documents in this folder that haven't been changed in over a year.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 6  (What to ask next)
+----------------------------------------------------------------
+Looking at tomorrow's calendar, where is the day most likely to go wrong? Consider travel between locations, meetings with no break, and meetings with no agenda or papers.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 7  (section: Workflow 2: Coordinate calendars, agendas, and follow-ups)
+----------------------------------------------------------------
+No meetings before 9 AM or after 5 PM. Keep Friday afternoons free. Leave 15 minutes between meetings, and 30 minutes when the location changes.
+----------------------------------------------------------------
+
+NOTES (do not paste)
+- Practice material: manager-calendar-tomorrow.xlsx has one fictional day for a fictional director, with one private entry, an overrunning gap, back-to-back meetings in different places, and one meeting with no agenda. manager-standing-preferences.txt is the "short, private page of standing preferences" from the Good practice box.
+- Suggested fill-ins: [manager's name] = Elena Voss; [date] = Wednesday, October 20, 2027. Add: "Use only the attached calendar. Don't include entries marked private."

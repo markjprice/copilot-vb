@@ -1,0 +1,43 @@
+CHAPTER 5.5 PROMPTS: WORKFLOWS FOR MARKETING AND COMMUNICATION
+Fictional sample file for Microsoft Copilot Visual Bible, Book 5, Chapter 5.5. Text copied from the online chapter.
+
+HOW TO USE THIS FILE
+Copy only the text between the two long lines of dashes. Do not copy the headings, the dashes, or the notes. Replace anything in [square brackets] with your own details, or with the suggested values in the notes at the end.
+
+----------------------------------------------------------------
+PROMPT 1  (section: Workflow 1: Research audiences and competitors)
+----------------------------------------------------------------
+Research how [three named competitors] describe their [product or service] to [audience]. Use only their own websites, published materials, and official announcements from the last 12 months. For each one, give their main message, the three benefits they stress, their stated prices if published, and the exact wording of their headline claim. Give a link for every point. If you can't find something, say so. Don't use review sites or opinion pieces.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 2  (section: Workflow 2: Repurpose approved source material)
+----------------------------------------------------------------
+Using only the attached approved case study, write:
+1. A 150-word summary for our newsletter.
+2. Three short social posts, each making a different point from the case study.
+3. A 60-word version for our website's home page.
+Follow the attached style guide. Use only facts, figures, and quotations that appear in the case study, with the same wording for any quotation. Don't add benefits, statistics, or claims that aren't in it. After each version, list the sentences in the case study that it's based on.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 3  (section: Workflow 3: Review evidence, claims, consent, and brand voice)
+----------------------------------------------------------------
+Review the attached draft against the attached sources and style guide. Don't rewrite it. List:
+1. Every factual claim, statistic, and comparison, and whether a source supports it. Quote the source sentence, or write [NO SOURCE].
+2. Every quotation, testimonial, named person, named customer, and image of a person.
+3. Words that promise a result, such as "guarantees," "proven," "best," or "always."
+4. Places where the tone or wording doesn't follow the style guide.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 4  (What to ask next)
+----------------------------------------------------------------
+Read this post as a journalist or a regulator would. Which statement would you challenge first, and what evidence would you ask for?
+----------------------------------------------------------------
+
+NOTES (do not paste)
+- Practice material: approved-case-study.docx (an approved, published fictional case study), brand-style-guide.docx, and draft-newsletter-post.docx (a draft with planted problems for the review prompt).
+- For the repurposing prompt, attach approved-case-study.docx and brand-style-guide.docx.
+- For the review prompt, attach draft-newsletter-post.docx, approved-case-study.docx, and brand-style-guide.docx.
+- For the competitor research prompt, use real, published sources only. There is no sample file for it. Use three real companies you know, or skip it.

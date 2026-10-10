@@ -1,0 +1,55 @@
+CHAPTER 5.2 PROMPTS: WORKFLOWS FOR MANAGERS AND PROJECT LEADERS
+Fictional sample file for Microsoft Copilot Visual Bible, Book 5, Chapter 5.2. Text copied from the online chapter.
+
+HOW TO USE THIS FILE
+Copy only the text between the two long lines of dashes. Do not copy the headings, the dashes, or the notes. Replace anything in [square brackets] with your own details, or with the suggested values in the notes at the end.
+
+----------------------------------------------------------------
+PROMPT 1  (section: Workflow 1: Prepare a decision)
+----------------------------------------------------------------
+I need to decide [the decision] by [date]. Using what's been written about this in email, chats, meetings, and files I can access, prepare a one-page brief with:
+1. The decision, in one sentence.
+2. Two or three options, with the main benefit, cost, and risk of each, and the evidence for each point.
+3. What each person involved has said, with a source.
+4. What we don't know, and who could tell us.
+Don't recommend an option. Mark anything you're unsure about with [CHECK].
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 2  (section: Workflow 1: Prepare a decision)
+----------------------------------------------------------------
+Which option is best supported by the evidence, and what would have to be true for each of the others to be the better choice?
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 3  (section: Workflow 3: Track risks, dependencies, and commitments)
+----------------------------------------------------------------
+From meeting recaps, the project channel, and email about [project] in the last two weeks, make three lists:
+1. Commitments: who promised what to whom, and by when. Mark any that are past their date with no update.
+2. Dependencies: work that's waiting on something from another person or team.
+3. Risks: concerns that anyone has raised, whether or not anyone responded.
+Quote the source for each item. Include commitments that I made.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 4  (What to ask next)
+----------------------------------------------------------------
+Does this brief give more space to some people's views than others? Whose position is supported by the least evidence, and who hasn't been heard from at all?
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 5  (section: Workflow 2: Produce a plan or a status report)
+----------------------------------------------------------------
+Compare with the attached previous report. List what changed, and anything that was promised last time and isn't mentioned this time.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 6  (From Chapter 3.9: status report prompt (the chapter says to reuse it; change "the rollout project" to your project))
+----------------------------------------------------------------
+Draft a status report for the rollout project for the week ending [date]. Use the action list, the project channel, and email about the project from the last seven days. For each milestone, give a status of on track, at risk, or late, with the evidence for it and a link to the source. List actions completed this week, actions due next week, and anything waiting on a decision. If you can't find evidence for a status, write [NO EVIDENCE] instead of guessing.
+----------------------------------------------------------------
+
+NOTES (do not paste)
+- Practice material: project-material-pack.txt has emails, chat messages, meeting recaps, and a previous status report for a fictional project ("Customer Summit 2027"). Upload or paste it if you can't use your own team's information. The prompts say "email, chats, meetings, and files I can access"; with the pack, add "Use only the attached project-material-pack.txt."
+- Suggested fill-ins for the decision brief: [the decision] = which venue to book for the Customer Summit; [date] = Friday, October 29, 2027.
+- Suggested fill-in for the commitments prompt: [project] = Customer Summit 2027, with the last two weeks as shown in the pack.

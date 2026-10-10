@@ -1,0 +1,33 @@
+CHAPTER 5.1 PROMPTS: BUILD A PERSONAL COPILOT WORK SYSTEM
+Fictional sample file for Microsoft Copilot Visual Bible, Book 5, Chapter 5.1. Text copied from the online chapter.
+
+HOW TO USE THIS FILE
+Copy only the text between the two long lines of dashes. Do not copy the headings, the dashes, or the notes. Replace anything in [square brackets] with your own details, or with the suggested values in the notes at the end.
+
+----------------------------------------------------------------
+PROMPT 1  (section: Inventory your repeated work and information sources)
+----------------------------------------------------------------
+Look at my calendar and my sent email for the last four weeks. List the tasks I seem to repeat, such as recurring meetings I prepare for, reports or updates I send regularly, and requests I answer more than once. For each one, say how often it happens and what evidence you used. Don't include one-off items.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 2  (section: Set up a daily starting point)
+----------------------------------------------------------------
+Prepare my briefing for today. Use my calendar, my email since yesterday afternoon, and the channels I follow. Give me four short sections:
+1. Today's meetings, with anything I need to prepare.
+2. Messages that are waiting for a reply from me, most urgent first.
+3. Deadlines today and tomorrow.
+4. Anything I was mentioned in that I haven't opened.
+Keep it under 200 words. Give a link to each item. If you're unsure whether something needs a reply, list it and say so.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 3  (What to ask next)
+----------------------------------------------------------------
+Here are the routines I plan to hand to Copilot: [paste your list]. For each one, what is most likely to go wrong in the first month, and how would I notice?
+----------------------------------------------------------------
+
+NOTES (do not paste)
+- No sample data is needed to run Prompt 1 with a work account: it reads your own calendar and sent email. With a personal account, work from your own Outlook.com calendar and mail, or skip it.
+- work-inventory.xlsx is the empty table. work-inventory-example.xlsx has 18 invented rows, for screenshots or for comparing with your own.
+- The book's Try it now step 1 names the file 5-1-work-inventory.xlsx, and the Sample files box names it work-inventory.xlsx. The file in this folder is work-inventory.xlsx.

@@ -1,0 +1,22 @@
+STANDING PREFERENCES: Elena Voss (fictional)
+Fictional sample file for Microsoft Copilot Visual Bible, Book 5, Chapter 5.3. This is the "short, private page" of standing preferences from the Good practice box. Paste the relevant part into a prompt when you need it.
+
+Meetings
+- No meetings before 9 AM or after 5 PM.
+- Keep Friday afternoons free.
+- Leave 15 minutes between meetings, and 30 minutes when the location changes.
+- Prefers Teams for internal calls and in-person for anything involving a customer's senior staff.
+
+Papers
+- Papers should reach Elena the afternoon before. One page of summary first, then the detail.
+- She reads on paper for board papers. Everything else on screen.
+
+People who always get a quick reply
+- Naomi Park (Marketing), Kenji Watanabe (Finance), Hassan Idris (Dispatch).
+
+Tone
+- Direct and warm. Short sentences. Signs off with "Thanks" and not "Best regards".
+- Never use "circle back", "touch base", or exclamation marks.
+
+Never include in a briefing or a prompt
+- Meetings marked private, and the titles of HR meetings about named individuals. Say "HR meeting" and leave the name out.

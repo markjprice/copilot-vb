@@ -1,0 +1,78 @@
+CUSTOMER ACCOUNT HISTORY: Northgate Dental Group
+Fictional sample file for Microsoft Copilot Visual Bible, Book 5, Chapter 5.6. All people, companies, and prices are invented.
+
+This file stands in for "my emails, meetings, and shared files with them from the last six months". You are Sam Okoro, an account manager at Brightline Practice Software (fictional). Today is Monday, October 18, 2027. You meet the customer on Thursday, October 21, 2027, to talk about renewing their subscription.
+
+ACCOUNT FACTS (from the customer record)
+- Customer: Northgate Dental Group, one practice, 14 staff.
+- Main contact: Dana Whitfield, Practice Operations Manager. Senior contact: Dr. Amrit Kaur, Practice Director (reads reports, doesn't use the software day to day).
+- Customer since December 1, 2024. Plan: Practice Standard, 10 seats, $4,800 a year. Renews December 1, 2027.
+- Previous account manager: Jules Brandt (moved to the partner team on September 6, 2027). Sam took over the account on September 6.
+
+================================================================
+TIMELINE (newest last)
+================================================================
+
+[Email] Mon, Apr 19, 2027. Dana to Jules. Subject: Appointments report is missing canceled appointments.
+"The monthly appointments report leaves out canceled appointments, so the numbers don't match our own count. Dr. Kaur reads this report at the partners' meeting on the first Tuesday of each month. Please can you look at it?"
+
+[Email] Wed, Apr 21, 2027. Jules to Dana.
+"Thanks for flagging this. It's a known issue with the export. Our product team plans to fix it next quarter. In the meantime, I've attached a manual workaround."
+
+[Ticket #4471, opened Apr 21, 2027] Reporting export omits canceled appointments. Status: Open. Last update Jul 14, 2027: "Waiting for product team."
+
+[Email] Mon, Jun 7, 2027. Dana to Jules. Subject: Training for our new receptionist.
+"We have a new receptionist starting on June 21. Could you arrange a training session?"
+
+[Email] Thu, Jun 10, 2027. Jules to Dana.
+"I'll arrange a training session in the last week of June."
+
+[Training session, Tue, Jun 29, 2027] Held by Jules, 90 minutes, 3 attendees. Dana rated it "very useful".
+
+[Email] Mon, Jul 12, 2027. Dana to Jules. Subject: RE: Appointments report.
+"I'm raising the canceled appointments problem again. We are still doing a manual count each month. Is there a date for the fix?"
+
+[Email] Tue, Jul 13, 2027. Jules to Dana.
+"I understand the frustration. The product team is still planning to fix this next quarter. I'll let you know as soon as I have a date."
+
+[Email] Wed, Aug 18, 2027. Dana to Jules. Subject: Invoice for August.
+"Our invoice charges us for 12 seats. We have 10. Please can you correct this?"
+
+[Email] Fri, Aug 20, 2027. Jules to Dana.
+"Apologies. You're right, you have 10 seats. I'll issue a credit note for the difference within 10 working days."
+
+[Credit note issued Mon, Sep 20, 2027]. (Ten working days from August 20 was Friday, September 3.)
+
+[Email] Thu, Sep 2, 2027. Dana to Sam, copied to Jules. Subject: RE: Appointments report.
+"This is the third time I'm asking about the canceled appointments report. Dr. Kaur has started asking me why the numbers change. I need an actual date."
+
+[Email] Mon, Sep 6, 2027. Sam to Dana.
+"I'm taking over from Jules. I'll get you a date for the report fix by the end of October."
+
+[Email] Tue, Sep 14, 2027. Dana to Sam. Subject: Second location.
+"We're thinking about opening a second practice, Northgate East, in spring. Could you send me a quote for what that would cost?"
+
+[Email] Tue, Sep 28, 2027. Sam to Dana. Subject: RE: Second location.
+"Attached is a quote for 6 additional seats at Northgate East: $2,880 a year, pro-rated from the start date."
+
+[Call, Tue, Sep 28, 2027] Sam and Dana, 20 minutes. Dana said the report problem "is the main reason we might look at other software." She didn't mention the credit note.
+
+[Ticket #4633, opened Sep 30, 2027] Login problem for the new receptionist. Closed Oct 1, 2027. Resolved by reset.
+
+[Email] Fri, Oct 8, 2027. Dana to Sam. Subject: Renewal.
+"We're due to renew on December 1. Could we meet to talk through the renewal and the second location?"
+
+[Email] Mon, Oct 11, 2027. Sam to Dana.
+"Yes. How about Thursday, October 21, at 2 PM on Teams?"
+
+[Email] Mon, Oct 11, 2027. Dana to Sam.
+"Thursday works."
+
+================================================================
+OPEN ITEMS (from the ticket system, Oct 18, 2027)
+================================================================
+- Ticket #4471: Open since April 21, 2027 (180 days). No date from the product team.
+- No other tickets open.
+
+NOTES (do not paste)
+- The author answer key lists what a good brief should find.

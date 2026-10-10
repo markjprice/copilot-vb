@@ -1,0 +1,46 @@
+CHAPTER 5.6 PROMPTS: WORKFLOWS FOR SALES AND CUSTOMER SUCCESS
+Fictional sample file for Microsoft Copilot Visual Bible, Book 5, Chapter 5.6. Text copied from the online chapter.
+
+HOW TO USE THIS FILE
+Copy only the text between the two long lines of dashes. Do not copy the headings, the dashes, or the notes. Replace anything in [square brackets] with your own details, or with the suggested values in the notes at the end.
+
+----------------------------------------------------------------
+PROMPT 1  (section: Workflow 1: Prepare for a customer conversation)
+----------------------------------------------------------------
+I'm meeting [customer contact] at [company] on [date] about [purpose]. Using my emails, meetings, and shared files with them from the last six months, prepare a one-page brief:
+1. Who I'm meeting, their role, and when we last spoke.
+2. What they've bought or use, and since when.
+3. Open issues, complaints, or requests, with the date and current status of each.
+4. What we promised them, and whether each promise was kept.
+5. Three questions I should ask.
+Give a source for each point. Keep facts from the record separate from your own suggestions, and label the suggestions.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 2  (section: Workflow 1: Prepare for a customer conversation)
+----------------------------------------------------------------
+Search the web for news about [company] from the last three months that might affect this conversation. Give a link for each item.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 3  (section: Workflow 2: Summarize account history and agreed actions)
+----------------------------------------------------------------
+Summarize this account's history over the last two years as a timeline: purchases, renewals, issues, and commitments, with the date and source of each. Then list what's currently open.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 4  (section: Workflow 3: Draft individualized follow-up without automated spam)
+----------------------------------------------------------------
+Draft a follow-up email to [contact] after today's meeting. Thank them briefly. Confirm these agreed actions: [list, with owners and dates]. Answer the question they asked about [topic] with this information: [your answer]. Mention [one specific thing they said they cared about]. Friendly and direct, under 150 words. Don't offer anything that isn't in this list. Don't add a discount, a deadline, or a meeting that I haven't mentioned.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 5  (What to ask next)
+----------------------------------------------------------------
+Based on this account's history, what would this customer say we do well, and what would they say we've been slow or unclear about? Give the evidence for each.
+----------------------------------------------------------------
+
+NOTES (do not paste)
+- Practice material: customer-account-history.txt (emails, call notes, and tickets for a fictional customer over six months) and meeting-notes-for-follow-up.txt (notes from a meeting, for the follow-up prompt).
+- Suggested fill-ins for the preparation prompt: [customer contact] = Dana Whitfield; [company] = Northgate Dental Group; [date] = Thursday, October 21, 2027; [purpose] = renewal of the practice-management subscription.
+- For the follow-up prompt, use the notes in meeting-notes-for-follow-up.txt. Keep "discussed" separate from "agreed".

@@ -1,0 +1,102 @@
+PROJECT MATERIAL PACK: Customer Summit 2027
+Fictional sample file for Microsoft Copilot Visual Bible, Book 5, Chapter 5.2. All people, companies, and prices are invented.
+
+This pack stands in for "email, chats, meetings, and files I can access", for readers who can't use their own team's information. It was gathered on Friday, October 22, 2027. You are Jordan Ellis, the project leader. Larkfield Software's customer summit is planned for March 9 and 10, 2028. The decision is which venue to book. The sponsor is Naomi Park, Vice President of Marketing.
+
+People
+- Jordan Ellis: project leader (you)
+- Rhea Castillo: events manager
+- Tom Abrahams: finance business partner
+- Lena Fischer: marketing lead
+- Marcus Boyd: sales director
+- Gareth Lowe: facilities manager
+- Naomi Park: sponsor
+
+================================================================
+A. EMAIL
+================================================================
+
+[Email 1] Fri, Oct 8, 2027, 9:12 AM. From Rhea Castillo to Jordan Ellis. Subject: Venue shortlist
+Jordan, I've got three options with quotes. (A) Harborview Conference Center: capacity 320, $41,000 including catering for 250 guests, $5,000 deposit due Friday, November 5. (B) Our own HQ auditorium: no room charge, capacity 180, catering about $12,000, AV run by our own staff. (C) Riverside Hotel ballroom: capacity 260, $36,500, $8,000 deposit due Friday, October 29. I'll build the comparison once you tell me the budget.
+
+[Email 2] Fri, Oct 8, 2027, 11:40 AM. From Tom Abrahams to Jordan Ellis. Subject: RE: Venue shortlist
+The budget for the summit is $45,000 in total, covering venue, catering, AV, and speaker travel. I'll confirm in writing by Wednesday, October 20 that the speaker travel budget of $9,000 is inside that figure. Nothing is approved until I do.
+
+[Email 3] Tue, Oct 12, 2027, 2:05 PM. From Marcus Boyd to Jordan Ellis. Subject: Summit attendance
+Sales estimate for customer attendance is 210 plus our own staff. Jordan, could you send me the revised attendee forecast by Friday, October 15 so I can tell the regional teams how many invitations they have?
+
+[Email 4] Thu, Oct 14, 2027, 4:30 PM. From Jordan Ellis to Marcus Boyd. Subject: RE: Summit attendance
+Will do. I'll get the forecast to you by Friday.
+
+[Email 5] Mon, Oct 18, 2027, 10:15 AM. From Rhea Castillo to Jordan Ellis. Subject: Riverside Hotel: date held?
+I spoke to the Riverside Hotel's events team this morning about holding March 9 and 10 until the deposit is due. Their coordinator said, "Should be fine for Thursday." I took that to mean they will confirm the hold by Thursday. I haven't got anything in writing.
+
+[Email 6] Wed, Oct 20, 2027, 5:02 PM. From Rhea Castillo to Jordan Ellis. Subject: Harborview revised quote
+Harborview has revised its quote after I asked for the AV package to be included. It is now $43,500 including catering for 250 guests and AV. The $5,000 deposit date is unchanged.
+
+[Email 7] Thu, Oct 21, 2027, 8:50 AM. From Gareth Lowe to Rhea Castillo, copied to Jordan Ellis. Subject: HQ auditorium in March
+Rhea, I can't confirm the auditorium for March 9 and 10 yet. The building works on the east wing are due to finish in "late February, if all goes well." I'll know more after the contractor's progress meeting on November 3.
+
+================================================================
+B. PROJECT CHANNEL (Teams: "Customer Summit 2027")
+================================================================
+
+Mon, Oct 11, 2027, 9:30 AM, Lena Fischer: "Reminder that marketing's registration data from last year's summit shows 190 customers attended. If we add the new Nordic region, I think 240 is possible, but that's a guess."
+
+Mon, Oct 11, 2027, 9:41 AM, Rhea Castillo: "So the HQ auditorium is probably too small if Lena is right. We'd need to turn people away."
+
+Tue, Oct 12, 2027, 1:15 PM, Lena Fischer: "Has anyone checked how the Riverside Hotel's wifi copes with a large event? A couple of online reviews from other conferences say the network failed once attendees went past 200 devices."
+
+Tue, Oct 12, 2027, 3:20 PM, Marcus Boyd: "Sales will need to know the venue by early November to start invitations. Harborview is close to the airport, which our overseas customers will like."
+
+Thu, Oct 14, 2027, 11:05 AM, Tom Abrahams: "For the record, I'd want the deposit to come out of this year's budget, not next year's. That means paying before the end of the quarter."
+
+Fri, Oct 15, 2027, 4:45 PM, Jordan Ellis: "Thanks all. Decision is due by Friday, October 29, because the Riverside deposit falls due that day."
+
+Mon, Oct 18, 2027, 10:30 AM, Rhea Castillo: "Reminder that I'm still waiting for the attendee forecast so I can check catering minimums."
+
+Wed, Oct 20, 2027, 2:10 PM, Lena Fischer: "Naomi hasn't weighed in on the venue yet. Does anyone know which she prefers?" (No replies.)
+
+Thu, Oct 21, 2027, 9:55 AM, Marcus Boyd: "Great news on Harborview, looks like it's all booked." (No other message mentions a booking. Rhea's emails say only that a quote has been revised.)
+
+================================================================
+C. MEETING RECAPS
+================================================================
+
+[Recap 1] Planning meeting, Mon, Oct 11, 2027, 10:00 to 10:45 AM. Attendees: Jordan, Rhea, Lena, Tom, Marcus. Notes by Rhea.
+- Three venues on the shortlist.
+- Decision date set: Friday, October 29.
+- Tom to confirm the $45,000 budget includes the speaker travel by Wednesday, October 20.
+- Marcus to send the sales attendee estimate. (Sent by email on October 12.)
+- Jordan to send Marcus the revised attendee forecast by Friday, October 15.
+- Lena to ask the Riverside Hotel about wifi capacity. (No update recorded.)
+
+[Recap 2] Planning meeting, Mon, Oct 18, 2027, 10:00 to 10:30 AM. Attendees: Jordan, Rhea, Lena. Notes by Rhea.
+- Rhea reported that the Riverside Hotel will hold the date "until Thursday."
+- Harborview to revise its quote with AV included.
+- Gareth to say whether the HQ auditorium is available. (Outstanding.)
+- Speaker invitations to go out by Friday, October 22. (See Previous status report.)
+
+================================================================
+D. FILES
+================================================================
+
+[File: Summit-venue-comparison.xlsx, last changed Mon, Oct 18, 2027 by Rhea Castillo]
+Venue | Capacity | Price | Deposit due | Notes
+Harborview Conference Center | 320 | $41,000 (catering for 250) | Nov 5 | Near airport
+HQ auditorium | 180 | $12,000 (catering only) | None | Date not confirmed
+Riverside Hotel ballroom | 260 | $36,500 | Oct 29 | Wifi not checked; AV extra
+
+[File: Previous status report, Customer Summit 2027, week ending Fri, Oct 15, 2027, by Jordan Ellis]
+Summary: Project on track.
+- Venue shortlist: on track. Three options, decision due October 29.
+- Budget: on track. $45,000 total (Finance to confirm speaker travel is included).
+- Speaker invitations: on track. Invitations will go out by Friday, October 22.
+- Sales forecast: on track. Revised attendee forecast to Marcus by October 15.
+- Open risks: none.
+Actions due next week: Tom to confirm budget (Oct 20). Lena to check Riverside wifi.
+
+================================================================
+NOTES (do not paste)
+- Today's date for the practice: Friday, October 22, 2027. "The last two weeks" means October 8 to 22.
+- The author answer key lists what a good brief should find.

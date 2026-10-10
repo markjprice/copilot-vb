@@ -1,0 +1,27 @@
+MEETING NOTES: Northgate Dental Group renewal call
+Fictional sample file for Microsoft Copilot Visual Bible, Book 5, Chapter 5.6. All people, companies, and prices are invented.
+
+These are your notes (Sam Okoro, Brightline Practice Software) from the call with Dana Whitfield on Thursday, October 21, 2027, 2:00 to 2:40 PM, on Teams. Use them for the follow-up email prompt. Keep "discussed" separate from "agreed".
+
+AGREED
+- Sam will confirm a fix date for the canceled appointments report with the product team, and tell Dana by Thursday, October 28.
+- Dana will send the list of staff and seats needed at each location by Friday, November 5.
+- Sam will send the renewal quote, including Northgate East, by Monday, November 8.
+- The renewal call will be on Thursday, November 11, at 2 PM on Teams.
+
+DISCUSSED, NOT AGREED
+- A discount for covering both locations. Dana asked. Sam said he would need to check what he is allowed to offer. Nothing offered.
+- Moving from monthly to quarterly invoices.
+- Whether Dr. Kaur should join the November call. Dana will ask her.
+
+DANA'S QUESTION
+- Dana asked whether Northgate East could use the same login domain as the main practice. Information to give her: yes, both locations sit under one account, with seats added per location. (Sam confirmed this with the product team on October 20.)
+
+ONE THING ONLY THIS CUSTOMER SAID
+- "Dr. Kaur reads that report at the partners' meeting on the first Tuesday of the month, and it's embarrassing when the numbers are wrong. The next one is November 2."
+
+DO NOT INCLUDE IN THE FOLLOW-UP
+- Any discount, deadline, or meeting beyond the ones above.
+- The comment Dana made after the call ended about a competitor's price. (Not for the email.)
+
+Suggested fill-ins for the follow-up prompt: [contact] = Dana Whitfield; [list, with owners and dates] = the four AGREED items; [topic] = login domain for Northgate East; [your answer] = the information above; [one specific thing they said they cared about] = the partners' meeting on November 2.

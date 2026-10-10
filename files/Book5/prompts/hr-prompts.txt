@@ -1,0 +1,46 @@
+CHAPTER 5.7 PROMPTS: WORKFLOWS FOR HR AND RECRUITMENT
+Fictional sample file for Microsoft Copilot Visual Bible, Book 5, Chapter 5.7. Text copied from the online chapter.
+
+HOW TO USE THIS FILE
+Copy only the text between the two long lines of dashes. Do not copy the headings, the dashes, or the notes. Replace anything in [square brackets] with your own details, or with the suggested values in the notes at the end.
+
+----------------------------------------------------------------
+PROMPT 1  (section: Workflow 1: Prepare role and interview materials)
+----------------------------------------------------------------
+Draft a job description for [role] using the attached duties and our attached template. Separate essential requirements from desirable ones. For each essential requirement, say which duty it relates to. Use plain language. Don't add requirements that aren't in the duties list, such as a degree or a number of years of experience. Don't describe the ideal candidate's personality.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 2  (section: Workflow 1: Prepare role and interview materials)
+----------------------------------------------------------------
+Review this job description. List any words or requirements that could discourage qualified people from applying, or that might disadvantage a group, such as by age, gender, disability, or background. For each one, say why, and suggest neutral wording. List any requirement that isn't linked to a duty.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 3  (section: Workflow 1: Prepare role and interview materials)
+----------------------------------------------------------------
+For each essential requirement in this job description, write two interview questions that ask the candidate to describe what they've done in a relevant situation. For each question, list what a strong answer would include. Don't write questions about age, family, health, nationality, religion, or anything else unrelated to the duties.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 4  (section: Workflow 2: Summarize policies and onboarding content)
+----------------------------------------------------------------
+Summarize the attached [policy name] for employees in plain language, on one page. For each point, give the section number of the policy it comes from. Keep any condition or exception that the policy states. Where the policy says "may" or "at the manager's discretion," keep that wording. Don't interpret, and don't give examples that aren't in the policy. End with: "This summary doesn't replace the policy. If they differ, the policy applies."
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 5  (section: Workflow 2: Summarize policies and onboarding content)
+----------------------------------------------------------------
+Using the attached role description and our onboarding checklist, draft a first-month plan for a new [role]. Show what happens on day one, in week one, and in weeks two to four. For each item, say who's responsible. Mark anything that needs setting up before the start date.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 6  (What to ask next)
+----------------------------------------------------------------
+Here is our rule for using AI in recruitment: [paste your paragraph]. Describe five situations where a busy hiring manager might be unsure whether something is allowed. For each one, suggest wording that would make the rule clearer.
+----------------------------------------------------------------
+
+NOTES (do not paste)
+- Practice material: job-duties-list.docx and job-description-template.docx (for the job description prompt), job-description-draft-to-review.docx (a draft with planted wording problems, for the review prompt), remote-working-policy.docx (for the summary prompt), and onboarding-checklist.docx (for the first-month plan).
+- Suggested fill-ins: [role] = Customer Operations Coordinator; [policy name] = Remote and Hybrid Working Policy.
+- These are fictional. Don't use real candidate or employee information with any of these prompts.
