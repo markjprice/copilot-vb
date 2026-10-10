@@ -94,7 +94,7 @@ Run it by hand for a week. When it's right, schedule it for a time shortly befor
 Two places in Copilot Home support a daily start:
 
 - **Automations** shows your scheduled routines and their latest results. Open it first each morning, and read what's waiting for you.
-- **Today** is a view that Microsoft is testing. It brings together email, meetings, and tasks you may have missed, without a prompt from you. It's in private preview. [VERIFY: Confirm the status of the Today view and what it shows.]
+- **Today** is a view that Microsoft is testing. It brings together email, meetings, and tasks you may have missed, without a prompt from you. It's in private preview.
 
 If Today reaches your account, compare it with your own briefing for a week. Keep whichever one you trust more. A view you didn't design can still miss the things that are important to you.
 
@@ -118,7 +118,7 @@ Keep the page next to the register of automations you made in Chapter 4.12. The 
 
 Build your inventory, choose your routines, and set up a daily starting point:
 
-1. Open `work-inventory.xlsx`, or create a table with the six columns from this chapter.
+1. Open `5-1-work-inventory.xlsx`, or create a table with the six columns from this chapter.
 2. Look through your calendar, sent email, and task list for the last four weeks. Add every task you did more than once. Aim for at least 15 rows.
 3. With a work account, send the prompt from the "Inventory your repeated work and information sources" section, and add anything it finds that you missed.
 4. List your information sources, and mark which ones Copilot can reach.
@@ -141,4 +141,6 @@ You should now have an inventory of your repeated work, a short list of routines
 
 > **Real-world example**: A practice manager at a veterinary clinic lists 22 repeated tasks. She crosses out six, including anything about staff pay and client complaints. She picks three routines: a morning briefing, a Friday summary of the week's supplier emails, and a monthly comparison of two stock reports. She starts with the Friday summary, because it's weekly, only she reads it, and she dislikes doing it. After three weeks, she schedules it. She leaves the stock comparison until she has learned how the first routine behaves.
 
-Your system is specific to you, but much of it will resemble the systems of people who do similar work. The next eight chapters give worked examples by role. *Chapter 5.2, Workflows for managers and project leaders*, begins with the work of preparing decisions, reporting progress, and keeping track of commitments.
+Your system is specific to you, but much of it will resemble the systems of people who do similar work. The next eight chapters give worked examples by role. [*Chapter 5.2, Workflows for managers and project leaders*](05-02-Workflows-for-managers-and-project-leaders.md), begins with the work of preparing decisions, reporting progress, and keeping track of commitments.
+
+[Go to next chapter >>](05-02-Workflows-for-managers-and-project-leaders.md)

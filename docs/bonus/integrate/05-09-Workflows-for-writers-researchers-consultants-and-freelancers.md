@@ -150,4 +150,6 @@ You should now have a Notebook for one client with only permitted material, a so
 
 > **Real-world example**: A freelance policy researcher is commissioned by a charity to write a report on rural transport. Her contract doesn't mention AI, so she emails the charity to ask. They agree to her using it for public research, and ask her not to upload their donor survey, which contains personal details. She builds a Notebook from public reports only, keeps a source log, and works on the survey in Excel on her own computer. Her report includes a short note on method that says how AI was used and that she checked every source.
 
-The role chapters have each described the risks that belong to one kind of work. Many of those risks are shared. *Chapter 5.10, Protect people, information, and professional trust*, brings them together into one set of checks that applies whatever your role.
+The role chapters have each described the risks that belong to one kind of work. Many of those risks are shared. [*Chapter 5.10, Protect people, information, and professional trust*](05-10-Protect-people-information-and-professional-trust.md), brings them together into one set of checks that applies whatever your role.
+
+[Go to next chapter >>](05-10-Protect-people-information-and-professional-trust.md)

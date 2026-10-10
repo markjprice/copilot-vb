@@ -2,7 +2,7 @@
 
 Administrators and executive assistants keep other people's work moving. You prepare the day, guard the calendar, chase the follow-ups, and know where everything is filed. Much of that is gathering and arranging, which Copilot does quickly. The role also has a feature that most others lack: you often act for someone else, with access to their mailbox, their calendar, and their confidences. That changes what Copilot can see and what you should let it do. In this chapter, you'll see three workflows for daily briefings, for calendars, agendas, and follow-ups, and for files and routine communication. By the end, you'll have a daily briefing that works within the limits of your access.
 
-> **Plan note**: These workflows work best with a work account and a Microsoft 365 Copilot license. Copilot in Outlook works in your own main mailbox. It doesn't work in shared or delegate mailboxes, which affects assistants who manage someone else's inbox. This chapter explains how to work within that limit. [VERIFY: Confirm the current position on delegate and shared mailboxes.]
+> **Plan note**: These workflows work best with a work account and a Microsoft 365 Copilot license. Copilot in Outlook works in your own main mailbox. It doesn't work in shared or delegate mailboxes, which affects assistants who manage someone else's inbox. This chapter explains how to work within that limit.
 
 ## Where Copilot fits in an administrator's work
 
@@ -113,7 +113,7 @@ Set up a daily briefing that respects the limits of your access:
 6. Note what Copilot couldn't see, such as items in their mailbox, and decide how you'll cover those.
 7. Save the prompt. When it has worked for a week, consider scheduling it as a draft for you to edit.
 
-If you don't support another person, do the same for your own day, and use the result as your starting point from Chapter 5.1.
+If you don't support another person, do the same for your own day, and use the result as your starting point from *Chapter 5.1*.
 
 You should now have a one-page briefing that's been checked and edited by you, a list of what Copilot couldn't reach, and an agreed set of limits.
 
@@ -128,4 +128,6 @@ You should now have a one-page briefing that's been checked and edited by you, a
 
 > **Real-world example**: An executive assistant to a hospital director drafts each day's briefing with a saved prompt. One morning, the draft lists a 4 PM meeting with its full title: a review of a named consultant's conduct. The title had been typed into the calendar entry by someone else. She removes the line from the briefing, tells the director in person, and asks the meeting's organizer to rename the entry. She adds a line to her prompt: "Don't include meetings marked private, or any meeting whose title names an individual."
 
-Briefings and diaries depend on words. Many roles depend on numbers. *Chapter 5.4, Workflows for analysts, finance, and operations*, looks at preparing data, producing recurring analysis, and finding anomalies without handing over the final judgment.
+Briefings and diaries depend on words. Many roles depend on numbers. [*Chapter 5.4, Workflows for analysts, finance, and operations*](05-04-Workflows-for-analysts-finance-and-operations.md), looks at preparing data, producing recurring analysis, and finding anomalies without handing over the final judgment.
+
+[Go to next chapter >>](05-04-Workflows-for-analysts-finance-and-operations.md)

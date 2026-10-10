@@ -144,4 +144,6 @@ You should now have three or more channel versions of one approved source, each 
 
 > **Real-world example**: A communications officer at a regional water company asks Copilot to turn an approved annual report into social posts. One post says the company "has eliminated leaks across the region." The report says leakage fell by 12%. She corrects the post, and adds a line to her saved prompt: "Don't strengthen any claim. If the source gives a number, use the number." She also records the claim and the page of the report it came from.
 
-Marketing speaks to many people at once. Sales and customer success speak to one customer at a time, where the details of a single relationship count. *Chapter 5.6, Workflows for sales and customer success*, covers preparing for customer conversations, summarizing account history, and writing follow-ups that are individual.
+Marketing speaks to many people at once. Sales and customer success speak to one customer at a time, where the details of a single relationship count. [*Chapter 5.6, Workflows for sales and customer success*](05-06-Workflows-for-sales-and-customer-success.md), covers preparing for customer conversations, summarizing account history, and writing follow-ups that are individual.
+
+[Go to next chapter >>](05-06-Workflows-for-sales-and-customer-success.md)

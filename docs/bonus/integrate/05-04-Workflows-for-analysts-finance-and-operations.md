@@ -141,4 +141,6 @@ You should now have a validation report that agrees with the source, checked sum
 
 > **Real-world example**: A management accountant at a furniture maker uses Analyst to review a year of supplier payments. It flags a payment that's exactly twice the usual monthly amount. She doesn't mention it to anyone until she has opened the invoices. The supplier had sent one invoice covering two months, at the company's own request. She notes the reason against the item. The same review flags a second payment she can't explain, and that one turns out to be a duplicate.
 
-Numbers support decisions inside an organization. The next role speaks to people outside it, where a wrong claim can be seen by thousands. *Chapter 5.5, Workflows for marketing and communication*, covers research, repurposing approved material, and checking what you publish.
+Numbers support decisions inside an organization. The next role speaks to people outside it, where a wrong claim can be seen by thousands. [*Chapter 5.5, Workflows for marketing and communication*](05-05-Workflows-for-marketing-and-communication.md), covers research, repurposing approved material, and checking what you publish.
+
+[Go to next chapter >>](05-05-Workflows-for-marketing-and-communication.md)

@@ -117,7 +117,7 @@ One routine is the beginning of a system. Three habits keep it alive.
 - When was each one last measured?
 - Is there one to switch off?
 
-**Expect Copilot to change.** The menus, the plans, and the features described in this book will move. Microsoft has reorganized the Copilot app more than once, and it may again. What you've built doesn't depend on any one screen. A clear brief, a checked source, a review before sending, and a measured result work with whatever the app looks like next year. When a feature changes, check the book's online companion page, retest the routines that used it, and carry on. [VERIFY: Add the online companion page URL.]
+**Expect Copilot to change.** The menus, the plans, and the features described in this book will move. Microsoft has reorganized the Copilot app more than once, and it may again. What you've built doesn't depend on any one screen. A clear brief, a checked source, a review before sending, and a measured result work with whatever the app looks like next year. When a feature changes, check the book's online companion page, retest the routines that used it, and carry on.
 
 ## Try it now
 
@@ -152,4 +152,6 @@ You began this book by asking Copilot a single focused question and checking the
 
 That's more than a tour of features. Features change, and some of the ones described here will look different by the time you read this. What you've built is a way of working: brief clearly, check the result, keep a person responsible, and measure whether it helped. That will serve you with the next version of Copilot, and with whatever tool comes after it.
 
-The 30-day plan gives you one routine. Run it again for the next task, and the one after that. Keep the routines that earn their place, and switch off the ones that don't. For changes to plans, menus, and preview features after this book went to print, see the online companion page. [VERIFY: Add the online companion page URL.] Throughout, the rule has stayed the same: Copilot proposes, and you decide.
+The 30-day plan gives you one routine. Run it again for the next task, and the one after that. Keep the routines that earn their place, and switch off the ones that don't. For changes to plans, menus, and preview features after this book went to print, see the online companion page. Throughout, the rule has stayed the same: Copilot proposes, and you decide.
+
+[<< Go back to *Book 5* Introduction](README.md)

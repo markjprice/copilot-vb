@@ -2,7 +2,7 @@
 
 Teaching and training take a lot of preparation. For every hour in front of learners, there are plans to write, materials to make, activities to design, and versions to adapt for people who learn at different speeds. Copilot can produce a first draft of almost any of these. What it produces has to be right, because learners trust what they're taught and often can't tell when it's wrong. It also has to be usable by every learner, and it has to fit the rules of your school, college, or organization. In this chapter, you'll see three workflows for developing plans and supporting materials, adapting explanations and practice activities, and checking the result. By the end, you'll have a session plan with a handout and a set of practice questions, checked for accuracy and accessibility.
 
-> **Plan note**: These workflows use Chat, Word, PowerPoint, and file uploads, which work with every plan covered in this book. If you work in a school, college, or university, your institution decides which Copilot features staff and students may use, and many have a policy on AI. Read it before you start. Copilot for students has age limits set by Microsoft and by your institution. [VERIFY: Confirm the current age limits and education licensing.]
+> **Plan note**: These workflows use Chat, Word, PowerPoint, and file uploads, which work with every plan covered in this book. If you work in a school, college, or university, your institution decides which Copilot features staff and students may use, and many have a policy on AI. Read it before you start. Copilot for students has age limits set by Microsoft and by your institution.
 
 ## Where Copilot fits in teaching and training
 
@@ -151,4 +151,6 @@ You should now have a timed session plan, a handout, eight practice questions wi
 
 > **Real-world example**: A trainer who runs health and safety courses for a building company asks Copilot for a quiz on working at height. One answer gives a maximum ladder height that he doesn't recognize. He checks the current regulations, and finds that the figure comes from guidance that was replaced several years ago. He corrects the answer, and adds a line to his prompt: "Use only the attached current regulations. Don't use general knowledge." He now checks every figure in a quiz against the regulations before each course.
 
-Teachers and trainers often work within an institution's rules. The next group of roles often work alone, for several clients at once, with nobody else to set the rules for them. *Chapter 5.9, Workflows for writers, researchers, consultants, and freelancers*, covers research, drafting, and protecting what belongs to your clients and to you.
+Teachers and trainers often work within an institution's rules. The next group of roles often work alone, for several clients at once, with nobody else to set the rules for them. [*Chapter 5.9, Workflows for writers, researchers, consultants, and freelancers*](05-09-Workflows-for-writers-researchers-consultants-and-freelancers.md), covers research, drafting, and protecting what belongs to your clients and to you.
+
+[Go to next chapter >>](05-09-Workflows-for-writers-researchers-consultants-and-freelancers.md)

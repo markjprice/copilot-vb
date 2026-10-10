@@ -134,4 +134,6 @@ You should now have a one-page preparation brief with checked facts, a three-par
 
 > **Real-world example**: An account manager at a software company prepares for a renewal call with a brief from Copilot. It shows that the customer raised the same reporting problem in three emails over five months, and that each reply promised an update "next quarter." She hadn't seen the pattern, because two of the replies came from a colleague. She opens the call by acknowledging the delay and giving a date she has confirmed with the product team. The customer renews.
 
-Customer conversations are about commitments between organizations. The next role deals with commitments between an organization and its own people, where the stakes for individuals are highest. *Chapter 5.7, Workflows for HR and recruitment*, covers preparing role and interview materials, summarizing policies, and keeping employment decisions with people.
+Customer conversations are about commitments between organizations. The next role deals with commitments between an organization and its own people, where the stakes for individuals are highest. [*Chapter 5.7, Workflows for HR and recruitment*](05-07-Workflows-for-HR-and-recruitment.md), covers preparing role and interview materials, summarizing policies, and keeping employment decisions with people.
+
+[Go to next chapter >>](05-07-Workflows-for-HR-and-recruitment.md)

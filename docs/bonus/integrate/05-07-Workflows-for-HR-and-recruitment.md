@@ -146,4 +146,6 @@ You should now have a job description with requirements tied to duties, a set of
 
 > **Real-world example**: A recruitment lead at a logistics firm uses Copilot to redraft a warehouse supervisor's job description. The review flags "must be physically fit" as a requirement that isn't tied to a duty. She asks the hiring manager, who explains that the job involves regular lifting. She replaces the phrase with the specific task and weight, which is fairer to candidates and clearer about the job. When the hiring manager later asks whether Copilot could "do a first sift" of the 80 applications, she says no, and arranges for two people to read them against the criteria.
 
-HR prepares people for their work inside an organization. Teaching and training prepare people more broadly, and they bring their own duties of accuracy and care. *Chapter 5.8, Workflows for educators and trainers*, covers planning, adapting materials, and checking them before they reach learners.
+HR prepares people for their work inside an organization. Teaching and training prepare people more broadly, and they bring their own duties of accuracy and care. [*Chapter 5.8, Workflows for educators and trainers*](05-08-Workflows-for-educators-and-trainers.md), covers planning, adapting materials, and checking them before they reach learners.
+
+[Go to next chapter >>](05-08-Workflows-for-educators-and-trainers.md)

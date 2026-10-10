@@ -12,7 +12,7 @@ Three things make it hard to judge Copilot's value without measuring.
 
 **New tools are more interesting than old ones.** A routine can seem better because it's new. That effect fades, and the routine has to be worth keeping after it has.
 
-**Saved time doesn't always turn into anything.** One analyst quoted by Computerworld warned that organizations "can automate 20 minutes of work but simply spend that time elsewhere." If 20 saved minutes disappear into email, the routine has changed how the time was used and nothing else. [VERIFY: Confirm the wording and source of this quotation.]
+**Saved time doesn't always turn into anything.** One analyst quoted by Computerworld warned that organizations "can automate 20 minutes of work but simply spend that time elsewhere." If 20 saved minutes disappear into email, the routine has changed how the time was used and nothing else.
 
 Measuring doesn't need to be elaborate. A few numbers, recorded honestly for a few weeks, tell you more than any amount of impression.
 
@@ -68,7 +68,7 @@ Net time saved is the baseline time minus the total of these.
 - For features that use AI credits on personal plans, note how many each run takes, if your account shows it.
 - Add a share of your subscription or license, if you're judging whether a plan is worth paying for.
 
-On a work account, ask your administrator what a Copilot Credit costs your organization, so that you can turn credits into money. [VERIFY: Confirm how users can see the monetary value of credits.]
+On a work account, ask your administrator what a Copilot Credit costs your organization, so that you can turn credits into money.
 
 > **Watch out**: Measuring only the time to produce a first draft will make almost any Copilot routine look good. The draft is the fastest part. Include review and rework every time, or your figures will tell you what you hoped to hear.
 
@@ -166,4 +166,6 @@ You should now have a baseline, a trial record, a comparison, and a decision wit
 
 > **Real-world example**: An operations manager at a catering company believes that her daily Copilot briefing saves her half an hour each morning. She times it for two weeks. The briefing takes two minutes to read, but she still scans her inbox for 20 minutes afterward, because she doesn't trust it to catch supplier changes. Net saving: almost nothing. She adds a line to the prompt that lists any message from a supplier about a delivery, checks it against her inbox for a week, and finds that it catches them all. Her inbox scan drops to five minutes. Without the measurement, she'd have kept both habits.
 
-You have a system, the checks to run it responsibly, and a way to measure it. The final chapter puts them on a calendar. *Chapter 5.12, Complete a 30-day Copilot adoption plan*, takes one recurring problem from first idea to a measured, working routine in four weeks.
+You have a system, the checks to run it responsibly, and a way to measure it. The final chapter puts them on a calendar. [*Chapter 5.12, Complete a 30-day Copilot adoption plan*](05-12-Complete-a-30-day-Copilot-adoption-plan.md), takes one recurring problem from first idea to a measured, working routine in four weeks.
+
+[Go to next chapter >>](05-12-Complete-a-30-day-Copilot-adoption-plan.md)

@@ -188,4 +188,6 @@ You should now have one piece of work that has passed all four gates, a note of 
 
 > **Real-world example**: A team leader at a housing association asks Copilot to draft a letter to a tenant about rent arrears, and pastes in the tenant's payment history and a case note that mentions a recent bereavement. The draft is accurate. At the privacy gate, she sees that the task needed only the amount owed and the dates. At the consequences gate, she sees that this is a letter about someone's home, to a person who is grieving. She writes the letter herself, uses Copilot only to check that the figures in it match the account, and phones the tenant before sending it.
 
-You now have a method for doing this work responsibly. One question remains, and it's the one your manager or your own bank balance will ask: is it worth it? *Chapter 5.11, Measure Copilot's real value*, shows you how to find out with evidence.
+You now have a method for doing this work responsibly. One question remains, and it's the one your manager or your own bank balance will ask: is it worth it? [*Chapter 5.11, Measure Copilot's real value*](05-11-Measure-Copilots-real-value.md), shows you how to find out with evidence.
+
+[Go to next chapter >>](05-11-Measure-Copilots-real-value.md)

@@ -119,7 +119,7 @@ Set up one management workflow with your own team's information:
 4. Check three items against their sources. For a commitment or a position, find where the person said it.
 5. Write down one view or fact that you know is missing, because it was never written down.
 6. Use the result to prepare one conversation or one decision. Don't forward it as it stands.
-7. If the prompt worked, save it, and add the routine to your one-page system from Chapter 5.1.
+7. If the prompt worked, save it, and add the routine to your one-page system from *Chapter 5.1*.
 
 You should now have one checked brief, report, or list, a note of what it missed, and a saved prompt.
 
@@ -134,4 +134,6 @@ You should now have one checked brief, report, or list, a note of what it missed
 
 > **Real-world example**: A project leader at a construction firm asks Copilot for the commitments made in the last two weeks of site meetings. The list shows that she herself promised a subcontractor a revised schedule ten days ago, and never sent it. It also marks a delivery as "confirmed," based on a message that said, "Should be fine for Thursday." She sends the schedule that afternoon, and phones the supplier to ask whether Thursday is certain.
 
-A manager's information often arrives through the person who organizes their diary, their meetings, and their correspondence. *Chapter 5.3, Workflows for administrators and executive assistants*, looks at Copilot from that side of the desk.
+A manager's information often arrives through the person who organizes their diary, their meetings, and their correspondence. [*Chapter 5.3, Workflows for administrators and executive assistants*](05-03-Workflows-for-administrators-and-executive-assistants.md), looks at Copilot from that side of the desk.
+
+[Go to next chapter >>](05-03-Workflows-for-administrators-and-executive-assistants.md)
