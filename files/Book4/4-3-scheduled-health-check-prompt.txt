@@ -1,0 +1,46 @@
+SCHEDULED AND EVENT-DRIVEN PROMPTS
+Fictional sample file for Microsoft Copilot Visual Bible, Book 4, Chapter 4.3.
+
+HOW TO USE THIS FILE
+Copy only the text between the two long lines of dashes. Do not copy the headings, the dashes, or the notes. Replace anything in [square brackets] as the chapter explains.
+
+The tested prompt from Chapter 4.2, with every parameter replaced by an instruction that works without you, wrapped in the scheduling request. Then the event-trigger prompt.
+
+----------------------------------------------------------------
+PROMPT 1: Schedule the tested prompt (paste into Cowork)
+----------------------------------------------------------------
+Every Monday at 8 AM, run this prompt and save the result as a draft for me to review. Don't send it to anyone.
+
+Outcome: Draft a weekly health check for the four-day week, for Priya Nair.
+
+Context: Three teams work a four-day week. The check covers the seven days ending last Sunday.
+
+Sources: Use only the file support-calls-current.xlsx in my Four-day week folder, and the action list on the page "Rollout plan."
+
+Constraints: No more than 200 words. Report each team separately. Don't include weekends.
+
+Format: One line of summary. Then a table with one row per team: calls received, answer rate, and average wait. Then a list of any day where average wait went above 60 seconds. Then a list of overdue actions with owners.
+
+Quality bar: Give the number of rows you used from the data file. If a team has no data for the week, say so instead of leaving it out. Mark anything you're unsure about with [CHECK].
+
+If you can't find the file, or it has no rows for last week, say so and stop. Don't estimate.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 2: Event trigger (paste into Cowork)
+----------------------------------------------------------------
+Whenever I get an email from Priya with "four-day week" in the subject, summarize it in three lines, list anything she's asking me to do, and draft a reply for my review. Don't send the reply.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 3: Check what was set up ("What to ask next")
+----------------------------------------------------------------
+Describe the schedule you created: when it runs, what it reads, what it produces, where the result goes, and what it's allowed to do without asking me.
+----------------------------------------------------------------
+
+NOTES (do not paste)
+- Put support-calls-current.xlsx and rollout-plan-action-list.docx in a OneDrive folder named "Four-day week". Rename the action list "Rollout plan.docx" if you want the page name to match exactly.
+- The "missing file" test: rename support-calls-current.xlsx for a moment, run Prompt 1 by hand, and check that Copilot says it couldn't find the file and stops. Then rename it back.
+- The "no rows for last week" test: the sample data ends on Friday, October 15, 2027. If you run Prompt 1 on today's real date, Copilot should find no rows for "last week" and stop. That is the correct behavior, and a good screenshot.
+- To get a real report from the sample data, replace "the seven days ending last Sunday" with "Monday, October 11, 2027 to Sunday, October 17, 2027" while testing by hand. Put the original wording back before you schedule it.
+- For the event trigger, you need a real email with "four-day week" in the subject. Send one to yourself from a second account, or change the sender in the prompt to your own name.

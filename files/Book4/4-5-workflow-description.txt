@@ -1,0 +1,47 @@
+HEALTH CHECK WORKFLOW
+Fictional sample file for Microsoft Copilot Visual Bible, Book 4, Chapter 4.5.
+
+HOW TO USE THIS FILE
+Copy only the text between the two long lines of dashes. Do not copy the headings, the dashes, or the notes. Replace anything in [square brackets] as the chapter explains.
+
+----------------------------------------------------------------
+PROMPT (paste into the Workflows agent)
+----------------------------------------------------------------
+Create a workflow that runs every Monday at 10 AM.
+
+1. Look in my OneDrive folder "Four-day week/Health checks" for a Word document created in the last three days.
+
+2. If there isn't one, send me a Teams message that says "No health check document found this week," and stop.
+
+3. If there is one, send me an approval request titled "Send this week's health check to Priya?" with a link to the document.
+
+4. If I approve, send an email to Priya Nair with the subject "Four-day week health check" and a link to the document. If I reject, do nothing more.
+
+5. In both cases, add an item to the SharePoint list "Health check log" with the date, the document name, and my decision.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+YOUR STEP LIST (the version you write before you describe the workflow)
+----------------------------------------------------------------
+Trigger: Every Monday at 10 AM.
+Action: Find this week's health check document in the Health checks folder.
+Condition: If there's no document dated this week, send me a message and stop.
+Approval: Send me an approval request with a link to the document.
+Condition: If I approve, continue. If I reject, stop.
+Action: Email the document link to Priya with a two-line message.
+Output: Add a row to a list with the date, the document name, my decision, and the time.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+QUESTIONS TO ASK (optional)
+----------------------------------------------------------------
+Here are the steps of a workflow I plan to build: [paste your list]. What situations have I missed? What happens on each path?
+
+Explain this workflow step by step in plain language. For each step, say what could cause it to fail, and what would happen next if it did.
+----------------------------------------------------------------
+
+NOTES (do not paste)
+- For testing, change "Priya Nair" to your own name so the email comes to you.
+- Put "TEST health check.docx" in OneDrive under Four-day week/Health checks. A created-in-the-last-three-days rule looks at the date the file was created, so use a file you copied in today. Copying the file again makes a new creation date.
+- Create a SharePoint list called "Health check log" with columns Title, Date, Document name, Decision. health-check-log.xlsx is a ready-made table with the same columns. You can import it as a list, or use it as a stand-in record.
+- The three paths to test: (1) document exists and you approve; (2) document exists and you reject; (3) delete or move the test document and run again.

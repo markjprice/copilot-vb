@@ -1,0 +1,52 @@
+DAY-OFF REQUEST TRACKER: APP DESCRIPTION
+Fictional sample file for Microsoft Copilot Visual Bible, Book 4, Chapter 4.9.
+
+HOW TO USE THIS FILE
+Copy only the text between the two long lines of dashes. Do not copy the headings, the dashes, or the notes. Replace anything in [square brackets] as the chapter explains.
+
+----------------------------------------------------------------
+PROMPT 1: App description (paste into Code)
+----------------------------------------------------------------
+Build a small app for requests to change a day off under our four-day week.
+
+Users: Staff in three support teams, and their three team managers.
+
+Staff can: submit a request with their name, team, usual day off, the week, the day they'd like instead, and an optional short note. They can see and withdraw their own requests. They can't see anyone else's requests.
+
+Managers can: see all requests for their own team, in date order. They can mark each as approved or declined and add a short comment. They can see a weekly view showing who's off on each day, with a warning when more than three people in a team are off on the same day.
+
+Rules: Only a manager can approve or decline. The app never approves a request automatically. A request can't be for a week that's already passed. Keep a record of who changed what and when.
+
+Data: Store names, teams, dates, and the optional note. Don't ask for a reason, and don't store any health or personal information.
+
+Out of scope: Don't send email. Don't change anyone's calendar. Don't connect to the HR system.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 2: Test data (paste into Code)
+----------------------------------------------------------------
+Add 20 made-up requests across the three teams, with invented names, for testing.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 3: Report a problem (example)
+----------------------------------------------------------------
+When I use the app as a member of staff in the Billing team, the weekly view shows the names of people in all three teams. Staff should see only their own requests and no weekly view. Only managers should see the weekly view, and only for their own team. Fix this, and tell me what you changed.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 4: If you do not have Code (paste into Copilot Chat)
+----------------------------------------------------------------
+Here's a description of an app I'd like built: [paste the description above]. What's missing or unclear? What questions would a developer ask me?
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 5: Think about misuse ("What to ask next")
+----------------------------------------------------------------
+What could go wrong with this app once people are using it? Consider wrong data, people seeing things they shouldn't, and what happens if its owner leaves.
+----------------------------------------------------------------
+
+NOTES (do not paste)
+- day-off-requests-sample.xlsx has 20 fictional requests (R001 to R020), a sheet of team managers, and an About sheet. Load it instead of asking Copilot to invent data. It includes a duplicate, a past week, a blank required field, a very long note, a note with health detail, and four Billing requests for the same day, so that each test pass in the chapter has something to find. The author answer key lists them.
+- Retirement note example: "Switch off when the HR system adds day-off requests, or when fewer than five requests are made in a quarter."
+- Design point for testing: the warning fires when more than three people in a team are off on one day. Billing has 14 permanent staff and everyone is off on Fridays, and Dispatch has two groups of about six, so a naive "off on the same day" count could warn all the time. The sample data counts only requests for a swapped day. Mention this to Copilot if the warning looks wrong.

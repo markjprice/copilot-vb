@@ -1,0 +1,45 @@
+WEEKLY HEALTH CHECK PROMPTS
+Fictional sample file for Microsoft Copilot Visual Bible, Book 4, Chapter 4.2.
+
+HOW TO USE THIS FILE
+Copy only the text between the two long lines of dashes. Do not copy the headings, the dashes, or the notes. Replace anything in [square brackets] as the chapter explains.
+
+This file has two prompts: the prompt that asks Copilot to fold a conversation into one prompt, and the reusable template with its parameters.
+
+----------------------------------------------------------------
+PROMPT 1: Turn the conversation into one prompt
+----------------------------------------------------------------
+Look back over this conversation. Write one prompt that would have produced your final answer on the first try. Include every instruction and correction I gave along the way. Use the six parts of a brief: outcome, context, sources, constraints, format, and quality bar.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 2: Reusable template with parameters
+----------------------------------------------------------------
+Outcome: Draft a weekly health check for the four-day week, for [RECIPIENT].
+
+Context: Three teams work a four-day week. The check covers the week from [START DATE] to [END DATE].
+
+Sources: Use only [CALL DATA FILE] and the action list in [PLAN PAGE].
+
+Constraints: No more than 200 words. Report each team separately. Don't include weekends.
+
+Format: One line of summary. Then a table with one row per team: calls received, answer rate, and average wait. Then a list of any day where average wait went above 60 seconds. Then a list of overdue actions with owners.
+
+Quality bar: Give the number of rows you used from the data file. If a team has no data for the week, say so instead of leaving it out. Mark anything you're unsure about with [CHECK].
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+PROMPT 3: Ask Copilot to find weaknesses (optional, "What to ask next")
+----------------------------------------------------------------
+Here is a prompt I plan to reuse every week: [paste the prompt]. What could go wrong with it? What inputs or situations would make it produce a wrong or misleading result?
+----------------------------------------------------------------
+
+NOTES (do not paste)
+- Suggested values for the sample data in this book:
+  [RECIPIENT]       Priya Nair
+  [START DATE]      Monday, October 11, 2027
+  [END DATE]        Sunday, October 17, 2027
+  [CALL DATA FILE]  support-calls-current.xlsx (Chapter4.4 folder)
+  [PLAN PAGE]       rollout-plan-action-list.docx (Chapter4.4 folder; its title is "Rollout plan")
+- The sample call data covers September 20 to October 15, 2027, so the dates above are the newest full week in the file. If you leave the dates out, Copilot will use today's date and find no rows.
+- Expected results for that week are in the author answer key.

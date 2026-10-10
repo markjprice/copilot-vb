@@ -1,0 +1,59 @@
+MONDAY HEALTH CHECK: RECURRING COWORK BRIEF
+Fictional sample file for Microsoft Copilot Visual Bible, Book 4, Chapter 4.4.
+
+HOW TO USE THIS FILE
+Copy only the text between the two long lines of dashes. Do not copy the headings, the dashes, or the notes. Replace anything in [square brackets] as the chapter explains.
+
+----------------------------------------------------------------
+BRIEF (paste into Cowork)
+----------------------------------------------------------------
+Outcome: Prepare this week's four-day week health check for my review.
+
+Inputs: The newest workbook in my "Four-day week/Call data" folder, and the action list on the page "Rollout plan."
+
+Steps:
+
+1. For each of the three teams, calculate calls received, overall answer rate, and average wait for the seven days ending last Sunday.
+
+2. Add the results as a new row for each team in the workbook "Health check tracker," on the sheet "Weekly."
+
+3. List any day where a team's average wait went above 60 seconds.
+
+4. List overdue actions from the action list, with owners.
+
+5. Write a one-page Word document with a one-line summary, the table, the two lists, and the number of rows you read for each team.
+
+Deliverables: The updated tracker workbook, and a new document called "Health check [date of the Monday]" in "Four-day week/Health checks."
+
+Exclusions: Don't send any email or message. Don't schedule meetings. Don't change or delete any earlier health check document. Don't edit any file outside the two I've named.
+
+If something is different: If there's no new call data since the last run, stop and tell me. If a team has fewer than three days of data, say so and don't calculate an average for it.
+
+Quality bar: Every figure comes from the call data. Mark anything you're unsure about with [CHECK].
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+SCHEDULE REQUEST (paste in the same conversation after the brief has worked by hand)
+----------------------------------------------------------------
+Run this task every Monday at 8 AM.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+QUESTION TO ASK NEXT
+----------------------------------------------------------------
+What does this task depend on that could change, such as file names, folder locations, sheet names, or column headings? For each one, what would happen if it changed?
+----------------------------------------------------------------
+
+NOTES (do not paste)
+Set up your folders in OneDrive first:
+  Four-day week/Call data/support-calls-current.xlsx
+  Four-day week/Health check tracker.xlsx   (use health-check-tracker.xlsx and rename it)
+  Four-day week/Rollout plan.docx           (use rollout-plan-action-list.docx and rename it)
+  Four-day week/Health checks/              (empty folder)
+
+About the dates:
+- The brief says "the seven days ending last Sunday". The sample data runs from September 20 to October 15, 2027, so on a real date in 2026 or later Cowork will find no rows. For your first manual run, change that phrase in Step 1 to "Monday, October 11, 2027 to Sunday, October 17, 2027", and name the output "Health check October 18, 2027". Put the original wording back before you schedule it.
+- The tracker already has three earlier weeks (weeks ending September 26, October 3, and October 10), so a new run adds the week ending October 17.
+- The week ending October 10 shows Billing with fewer than 3 days of data. Use it to see the "fewer than three days" rule at work. To test it again, ask Cowork to run the brief for the week of October 4 to October 10, 2027.
+- To test "no new data since the last run", run the brief twice without changing the call data. The second run should stop and say so, and it should update the existing row for the week and not add a duplicate.
+- Billing has no Friday rows on purpose (Billing does not work Fridays).
