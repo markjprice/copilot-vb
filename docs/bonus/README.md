@@ -1,8 +1,8 @@
 # Bonus Books for *Microsoft Copilot Visual Bible*
 
-## [Make Copilot Part of Your Work](integrate/README.md)
+## [Book 5 - Make Copilot Part of Your Work](integrate/README.md)
 
-[![Make Copilot Part of Your Work](integrate/Book%205%20hero.png)](integrate/README.md)
+[![Book 5 - Make Copilot Part of Your Work](integrate/Book%205%20hero.png)](integrate/README.md)
 
 ## [Profession-Specific Prompts](professions/README.md)
 

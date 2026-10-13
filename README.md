@@ -9,10 +9,9 @@ Repository for the Packt Publishing book titled "Microsoft Copilot Visual Bible"
 - [Books and chapters](#books-and-chapters)
   - [Introduction](#introduction)
   - [Book 1 Ask Copilot (sample files)](#book-1-ask-copilot-sample-files)
-  - [Book 2 Create Real Work Results (sample files)](#book-2-create-real-work-results-sample-files)
-  - [Book 3 Automate Recurring Tasks (sample files)](#book-3-automate-recurring-tasks-sample-files)
-  - [Book 4  (sample files)](#book-4--sample-files)
-  - [Book 5  (sample files)](#book-5--sample-files)
+  - [Book 2 Get Real Work Results (sample files)](#book-2-get-real-work-results-sample-files)
+  - [Book 3 Work with Teams (sample files)](#book-3-work-with-teams-sample-files)
+  - [Book 4 Automate, Build, and Delegate (sample files)](#book-4-automate-build-and-delegate-sample-files)
   - [Epilogue](#epilogue)
 - [Bonus Books](#bonus-books)
 - [Interviews with me](#interviews-with-me)
@@ -55,23 +54,49 @@ My author page on Goodreads: https://www.goodreads.com/author/show/14224500.Mark
 - Chapter 1.9	Conduct deeper research with Researcher
 - Chapter 1.10	Turn answers into Copilot Pages
 - Chapter 1.11	Organize continuing work with Notebooks, Memory, and history
-- Chapter 1.12	Project –
+- Chapter 1.12	Project – Turn a question into a checked recommendation
 
-## Book 2 Create Real Work Results ([sample files](/files/Book2/))
-- Chapter 2.1 
+## Book 2 Get Real Work Results ([sample files](/files/Book2/))
+- Chapter 2.1 Choose between Chat, Cowork, and the Office apps in Copilot Home
+- Chapter 2.2	Give Cowork a safe and complete task brief
+- Chapter 2.3	Draft, revise, and verify a Word document from notes and sources
+- Chapter 2.4	Analyze data and create formulas in Excel
+- Chapter 2.5	Find deeper insights with Analyst
+- Chapter 2.6	Create and improve slides, notes, and delivery for a PowerPoint presentation
+- Chapter 2.7	Capture and develop ideas in OneNote
+- Chapter 2.8	Create and work with images and PDFs
+- Chapter 2.9	Edit Word, Excel, and PowerPoint files without leaving Copilot
+- Chapter 2.10	Project – Produce a complete executive briefing
 
-## Book 3 Automate Recurring Tasks ([sample files](/files/Book3/))
-- Chapter 3.1 
+## Book 3 Work with Teams ([sample files](/files/Book3/))
+- Chapter 3.1 Understand permissions, sharing, and Work IQ
+- Chapter 3.2	Catch up on Teams chats and channels
+- Chapter 3.3	Use Copilot during a Teams meeting
+- Chapter 3.4	Produce a meeting recap and follow-up
+- Chapter 3.5	Draft better email and tame email threads in Outlook
+- Chapter 3.6	Prepare and manage the calendar
+- Chapter 3.7	Collaborate with Pages, Loop, and shared Notebooks
+- Chapter 3.8	Work with OneDrive and SharePoint content
+- Chapter 3.9 Project – Plan and run an end-to-end team project
 
-## Book 4  ([sample files](/files/Book4/))
-- Chapter 4.1 
-
-## Book 5  ([sample files](/files/Book5/))
-- Chapter 5.1 
+## Book 4 Automate, Build, and Delegate ([sample files](/files/Book4/))
+- Chapter 4.1 Choose the smallest suitable automation
+- Chapter 4.2	Save and share reusable prompts
+- Chapter 4.3	Schedule prompts and event-driven automations
+- Chapter 4.4	Delegate recurring work to Cowork
+- Chapter 4.5	Build a no-code workflow
+- Chapter 4.6	Find and evaluate plugins and agents
+- Chapter 4.7	Build and test a specialized agent
+- Chapter 4.8	Add connectors, tools, and actions
+- Chapter 4.9	Build a small app with Copilot Code
+- Chapter 4.10	Meet Autopilot: a persistent agent that keeps working
+- Chapter 4.11	Understand Copilot Studio, MCP, and multi-agent systems
+- Chapter 4.12	Project – Make automation reliable and safe
 
 ## Epilogue
 
 # [Bonus Books](docs/bonus/README.md)
+- [Book 5 - Make Copilot Part of Your Work](integrate/README.md)
 - [Beyond Your First AI](docs/bonus/beyond/README.md)
 - [Profession-Specific Prompts](docs/bonus/professions/README.md)
 - [Local AI Models](docs/bonus/local-models/README.md)
