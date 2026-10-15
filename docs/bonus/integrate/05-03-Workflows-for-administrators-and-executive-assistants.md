@@ -16,9 +16,9 @@ Administrators and executive assistants keep other people's work moving. You pre
 
 ## Understand what Copilot can see when you work for someone else
 
-Chapter 3.1 explained that Copilot searches as you, with your permissions. For an assistant, that has three consequences. Figure 5.3.1 shows them.
+*Chapter 3.1* explained that Copilot searches as you, with your permissions. For an assistant, that has three consequences. *Figure 5.3A* shows them:
 
-*Figure 5.3.1: When you work for someone else, Copilot uses your access, which is only part of theirs.* [Diagram 5.3-A]
+*Figure 5.3A: When you work for someone else, Copilot uses your access, which is only part of theirs.*
 
 **Copilot sees what your account can open.** If your manager has shared their calendar with you, Copilot can usually use what you can see there. It can't see their private appointments, their mailbox, or files that haven't been shared with you, unless you've been given access.
 
@@ -71,7 +71,10 @@ Scheduling for someone else is a negotiation between several people's time. Copi
 
 Three practices help in this role:
 
-- **Give Copilot your manager's rules.** Add them to the prompt, or keep them in a saved prompt: "No meetings before 9 AM or after 5 PM. Keep Friday afternoons free. Leave 15 minutes between meetings, and 30 minutes when the location changes."
+- **Give Copilot your manager's rules.** Add them to the prompt, or keep them in a saved prompt:
+```
+No meetings before 9 AM or after 5 PM. Keep Friday afternoons free. Leave 15 minutes between meetings, and 30 minutes when the location changes.
+```
 - **Ask for options.** "Find three possible times" gives you something to choose from. One suggestion gives you nothing to compare.
 - **Track follow-ups in one list.** After a meeting, ask for the actions with owners and dates, mark the unclear ones, and add them to one tracker. Then ask weekly: `Which actions from the last month's meetings are overdue or have no update?`
 
@@ -95,7 +98,7 @@ For files:
 - `Compare these two versions of the agenda, and list what changed.`
 - `List the documents in this folder that haven't been changed in over a year.`
 
-For messages, keep a few saved prompts for the ones you send most: confirming a meeting, declining an invitation, asking for papers, thanking a visitor. Mark the parameters, as in Chapter 4.2, and add your manager's preferences for tone.
+For messages, keep a few saved prompts for the ones you send most: confirming a meeting, declining an invitation, asking for papers, thanking a visitor. Mark the parameters, as in *Chapter 4.2*, and add your manager's preferences for tone.
 
 A request to tidy a shared folder needs care. Ask Copilot to list what it would move or rename, and review the list. Don't let an automation move or delete files in a space that other people rely on.
 
@@ -117,7 +120,9 @@ If you don't support another person, do the same for your own day, and use the r
 
 You should now have a one-page briefing that's been checked and edited by you, a list of what Copilot couldn't reach, and an agreed set of limits.
 
-> **What to ask next**: Ask Copilot to look for problems in the day itself: `Looking at tomorrow's calendar, where is the day most likely to go wrong? Consider travel between locations, meetings with no break, and meetings with no agenda or papers.`
+> **What to ask next**: Ask Copilot to look for problems in the day itself: 
+> 
+> `Looking at tomorrow's calendar, where is the day most likely to go wrong? Consider travel between locations, meetings with no break, and meetings with no agenda or papers.`
 
 ### Check the result
 

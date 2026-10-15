@@ -2,20 +2,20 @@
 
 Reading about a method and using it are different. This last chapter is a plan for the next 30 days, in which you take one recurring problem from your own work and turn it into a routine that you've tested, made safe, and measured. It uses what you've already learned and adds nothing new. Each week has one job, a small amount of time each day, and something to show at the end. In this chapter, you'll see the four weeks laid out, with what to do and what to check in each. By the end of the 30 days, you'll have one working routine with evidence behind it, and a second one chosen.
 
-> **Sample files**: This chapter uses `adoption-plan.docx` from the `Book5/Chapter5.12` folder. It's a four-week planner with space for each week's tasks, results, and notes. You'll also use `value-tracker.xlsx` from Chapter 5.11 and `workflow-canvas.docx` from Chapter 4.12.
+> **Sample files**: This chapter uses [`5-12-adoption-plan.docx`](../../../files/Book5/). It's a four-week planner with space for each week's tasks, results, and notes. You'll also use [`5-11-value-tracker.xlsx`](../../../files/Book5/5-11-value-tracker.xlsx) from *Chapter 5.11* and [`4-12-workflow-canvas.docx`](../../../files/Book4/4-12-workflow-canvas.docx) from *Chapter 4.12*.
 
 ## See the four weeks
 
-Figure 5.12.1 shows the plan.
+*Figure 5.12A* shows the plan:
 
-*Figure 5.12.1: Four weeks from a chosen problem to a measured routine. Each week ends with something you can point to.* [Diagram 5.12-A]
+*Figure 5.12A: Four weeks from a chosen problem to a measured routine. Each week ends with something you can point to.*
 
 | Week | Your job | You'll finish with | Draws on |
 | --- | --- | --- | --- |
-| **1** | Choose one recurring, low-risk problem, and measure how it goes now | A chosen task, a baseline, and a test for success | Chapters 5.1, 4.1, and 5.11 |
-| **2** | Test prompts, and write down the manual process | A saved prompt that works three times, and a written process | Chapters 1.5, 1.6, and 4.2 |
-| **3** | Create a repeatable workflow with review gates | A completed canvas, and a routine running on the right rung | Chapters 4.3 to 4.5, 4.12, and 5.10 |
-| **4** | Measure the results, refine the routine, and choose the next opportunity | A comparison with the baseline, a decision, and your next task | Chapter 5.11 |
+| **1** | Choose one recurring, low-risk problem, and measure how it goes now | A chosen task, a baseline, and a test for success | *Chapters 5.1*, *4.1*, and *5.11* |
+| **2** | Test prompts, and write down the manual process | A saved prompt that works three times, and a written process | *Chapters 1.5*, *1.6*, and *4.2* |
+| **3** | Create a repeatable workflow with review gates | A completed canvas, and a routine running on the right rung | *Chapters 4.3* to *4.5*, *4.12*, and *5.10* |
+| **4** | Measure the results, refine the routine, and choose the next opportunity | A comparison with the baseline, a decision, and your next task | *Chapter 5.11* |
 
 Allow 15 to 20 minutes on most working days, plus the time the task itself takes. Put that time in your calendar now. A plan with no time attached to it doesn't get done.
 
@@ -27,9 +27,9 @@ The first week is about choosing well and recording where you're starting from. 
 
 Follow these steps in week 1:
 
-1. Open your inventory and your short list from Chapter 5.1. If you haven't made them, do that first.
+1. Open your inventory and your short list from *Chapter 5.1*. If you haven't made them, do that first.
 2. Choose one task, using the four tests from that chapter: frequent, low-risk, yours, and annoying. Weekly or daily is best, so that you get several runs within the month.
-3. Score it against the questions in Chapter 4.1. If a mistake would be serious and hard to spot, or if the task involves a decision about a person, choose a different one.
+3. Score it against the questions in *Chapter 4.1*. If a mistake would be serious and hard to spot, or if the task involves a decision about a person, choose a different one.
 4. Write the purpose of the routine in one sentence: what it does, for whom, how often, and who checks it.
 5. Do the task by hand, as you normally would, and time it. Record the time, any rework, any errors, and how the recipient found the result, in the baseline sheet of `value-tracker.xlsx`.
 6. Repeat the measurement each time the task comes up this week.
@@ -48,10 +48,10 @@ Follow these steps in week 2:
 
 1. Write down the manual process as a numbered list: where the information comes from, what you do with it, what you check, and where the result goes. Include the judgment calls, such as "I leave out anything the client hasn't confirmed."
 2. Mark each step that only a person should do. Those stay with you.
-3. Write a brief for Copilot, using the six parts from Chapter 1.5. Put your judgment calls into the constraints and the quality bar.
+3. Write a brief for Copilot, using the six parts from *Chapter 1.5*. Put your judgment calls into the constraints and the quality bar.
 4. Run it, and compare the result with what you'd have produced by hand.
-5. Improve it with the follow-up techniques from Chapter 1.6. Ask what Copilot assumed. Fix one problem at a time.
-6. Fold your corrections into a single prompt, as in Chapter 4.2. Mark the parameters.
+5. Improve it with the follow-up techniques from *Chapter 1.6*. Ask what Copilot assumed. Fix one problem at a time.
+6. Fold your corrections into a single prompt, as in *Chapter 4.2*. Mark the parameters.
 7. Test the prompt in a new chat on each occasion that the task comes up this week. Aim for three runs that need no follow-up.
 8. Add at least one line to the quality bar that makes a failure visible, such as a row count or a statement of what's missing.
 9. Save the prompt with a clear name and today's date.
@@ -68,15 +68,15 @@ In the third week, you decide how far up the automation ladder this task should 
 
 Follow these steps in week 3:
 
-1. Decide the rung, using the ladder from Chapter 4.1. For many first routines, a saved prompt that you run yourself at a set time is the right answer. Move to a scheduled draft only if the prompt has stopped changing.
-2. Open `workflow-canvas.docx`, and fill in all eight boxes for the routine: trigger, inputs, actions, permissions, approval, deliverable, failure handling, and quality check.
+1. Decide the rung, using the ladder from *Chapter 4.1*. For many first routines, a saved prompt that you run yourself at a set time is the right answer. Move to a scheduled draft only if the prompt has stopped changing.
+2. Open `4-12-workflow-canvas.docx`, and fill in all eight boxes for the routine: trigger, inputs, actions, permissions, approval, deliverable, failure handling, and quality check.
 3. Look at box 5, the approval. Make sure a person reads the result before it reaches anyone else. If the output goes only to you, your own review is the gate.
-4. Pass the routine through the four gates from Chapter 5.10: privacy, rights, accuracy, and consequences. Change the prompt or the inputs if a gate finds a problem.
-5. If you're scheduling it, replace the parameters, test what happens when a source is missing, and set it up as a draft, as in Chapter 4.3.
-6. Run the routine as designed on each occasion this week. Time each part, and record the results on the trial sheet of `value-tracker.xlsx`.
+4. Pass the routine through the four gates from *Chapter 5.10*: privacy, rights, accuracy, and consequences. Change the prompt or the inputs if a gate finds a problem.
+5. If you're scheduling it, replace the parameters, test what happens when a source is missing, and set it up as a draft, as in *Chapter 4.3*.
+6. Run the routine as designed on each occasion this week. Time each part, and record the results on the trial sheet of `5-11-value-tracker.xlsx`.
 7. Test one failure on purpose. Remove or rename an input, and check that the routine stops and tells you.
-8. Add the routine to your register of automations from Chapter 4.12, with its owner and a review date.
-9. Attach the routine to a moment in your week, as Chapter 5.1 suggested.
+8. Add the routine to your register of automations from *Chapter 4.12*, with its owner and a review date.
+9. Attach the routine to a moment in your week, as *Chapter 5.1* suggested.
 
 **At the end of week 3**, you should have a completed canvas, a routine running on the rung you chose, at least one tested failure, and the first trial measurements.
 
@@ -89,12 +89,12 @@ In the final week, you find out whether the routine is worth keeping, improve it
 Follow these steps in week 4:
 
 1. Keep running the routine, and keep recording time, rework, errors, and cost.
-2. Ask the recipient the one question from Chapter 5.11: is this more useful, less useful, or about the same as before?
+2. Ask the recipient the one question from *Chapter 5.11*: is this more useful, less useful, or about the same as before?
 3. At the end of the week, compare the trial with the baseline on the summary sheet.
 4. Apply the test that you wrote in week 1. Decide: keep, improve, or stop.
 5. If you're keeping or improving it, make one refinement. Choose the correction you made most often during review, and build it into the prompt.
 6. Decide what the saved time is for, and put it in your calendar.
-7. Update your one-page system from Chapter 5.1 with the routine, its result, and the date you'll measure it again.
+7. Update your one-page system from *Chapter 5.1* with the routine, its result, and the date you'll measure it again.
 8. Write three lines on what you learned: what worked, what took longer than you expected, and what you'd do differently.
 9. Choose your next task from the short list. Use what you learned to choose a better one.
 
@@ -123,9 +123,9 @@ One routine is the beginning of a system. Three habits keep it alive.
 
 Start the 30-day plan today:
 
-1. Open `adoption-plan.docx`, and write today's date at the top. Write the date 30 days from now beside it.
+1. Open `5-12-adoption-plan.docx`, and write today's date at the top. Write the date 30 days from now beside it.
 2. Put 15 to 20 minutes in your calendar on each working day for the next four weeks. Label each week with its job: choose, test, build, and measure.
-3. Open your short list from Chapter 5.1, and choose your task with the four tests.
+3. Open your short list from *Chapter 5.1*, and choose your task with the four tests.
 4. Write its purpose in one sentence.
 5. Write your test for success.
 6. Do the task by hand at the next opportunity, time it, and record your first baseline measurement.
@@ -133,7 +133,9 @@ Start the 30-day plan today:
 
 You should now have a dated plan, time set aside in your calendar, a chosen task with a purpose and a test for success, and your first measurement.
 
-> **What to ask next**: Ask Copilot to check your choice before you commit a month to it: `For the next 30 days, I plan to turn this task into a Copilot routine: [your one-sentence purpose]. What could make this a poor choice for a first routine? What should I find out in the first week?`
+> **What to ask next**: Ask Copilot to check your choice before you commit a month to it: 
+> 
+> `For the next 30 days, I plan to turn this task into a Copilot routine: [your one-sentence purpose]. What could make this a poor choice for a first routine? What should I find out in the first week?`
 
 ### Check the result
 

@@ -14,9 +14,9 @@ If your work is built on numbers, you already know that a figure is only as good
 | Drafting commentary from figures you've checked | The explanation of why a figure moved |
 | Listing unusual values for you to investigate | Any figure that's reported, filed, or paid |
 
-Figure 5.4.1 shows the path that every workflow in this chapter follows.
+*Figure 5.4A* shows the path that every workflow in this chapter follows:
 
-*Figure 5.4.1: Data passes through checks before analysis, and through approval before anyone relies on it.* [Diagram 5.4-A]
+*Figure 5.4A: Data passes through checks before analysis, and through approval before anyone relies on it.*
 
 ## Workflow 1: Prepare and validate data
 
@@ -56,7 +56,7 @@ A monthly report asks the same questions of new data each time. That makes it a 
 | --- | --- |
 | **When** | Each period, after validation has passed |
 | **Inputs** | The validated data, the previous period's report, and the budget or target |
-| **Tool** | Copilot in Excel for a workbook you maintain. Analyst for a one-time or cross-file analysis (Chapter 2.5). A recurring Cowork task once the method is stable (Chapter 4.4) |
+| **Tool** | Copilot in Excel for a workbook you maintain. Analyst for a one-time or cross-file analysis (*Chapter 2.5*). A recurring Cowork task once the method is stable (*Chapter 4.4*) |
 | **Check** | One figure by hand, the unusual rows, and the totals (Chapter 2.4). Every figure in the commentary against the workbook |
 | **Stays with you** | The method, the explanation of each variance, and sign-off |
 
@@ -72,7 +72,7 @@ Using only the figures on the "Summary" sheet, draft commentary for the monthly 
 
 **Don't let Copilot explain what it can't know.** A model will readily write "driven by seasonal demand" beside a variance. That's a guess. The reason a figure moved is in the business, in the people who placed the orders or approved the overtime. The **[REASON NEEDED]** marker sends you to ask them.
 
-Use a fact sheet, as in Chapter 2.10, when the same figures appear in a workbook, a report, and a set of slides.
+Use a fact sheet, as in *Chapter 2.10*, when the same figures appear in a workbook, a report, and a set of slides.
 
 > **Watch out**: Commentary drafted by Copilot can state a cause as though it were a finding. "Costs rose because of supplier price increases" reads as fact. If nobody has confirmed it, it's an invention with your name on it. Check every "because," "due to," and "driven by" in a draft. Each one needs a source that a person can name.
 
@@ -124,13 +124,15 @@ Add checks and a sign-off point to one recurring analysis:
 3. Compare the row count and the control total with the source system. If they differ, find out why before you continue.
 4. Run your analysis as usual, or ask Copilot to produce the summary figures. Check one figure by hand, and check that the parts add up to the total.
 5. Send the commentary prompt from this chapter, with your own threshold.
-6. Find every statement of cause in the draft. Replace any that you can't support with **[REASON NEEDED]**, and note who could supply the reason.
+6. Find every statement of cause in the draft. Replace any that you can't support with `[REASON NEEDED]`, and note who could supply the reason.
 7. Run the anomaly prompt. Choose two flagged items, and look each one up in the source records.
 8. Write down where the method, the validation report, and the approval are recorded.
 
 You should now have a validation report that agrees with the source, checked summary figures, commentary with unsupported causes marked, and two anomalies that you've investigated yourself.
 
-> **What to ask next**: Ask Copilot what could make this analysis wrong without anyone noticing: `What changes in the source data, such as renamed categories, new codes, or a different export layout, would make this analysis produce wrong results while still looking normal?`
+> **What to ask next**: Ask Copilot what could make this analysis wrong without anyone noticing:
+> 
+> `What changes in the source data, such as renamed categories, new codes, or a different export layout, would make this analysis produce wrong results while still looking normal?`
 
 ### Check the result
 

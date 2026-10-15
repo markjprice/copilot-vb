@@ -16,9 +16,9 @@ A manager's work is mostly other people's information. You read updates, sit in 
 
 Copilot could produce words on every subject in the right-hand column. Keep them with yourself anyway, because your team needs to know that a person considered them.
 
-Figure 5.2.1 shows the pattern behind every workflow in this chapter.
+*Figure 5.2A* shows the pattern behind every workflow in this chapter.
 
-*Figure 5.2.1: A management workflow runs from evidence to a decision that a person has reviewed and owns.* [Diagram 5.2-A]
+*Figure 5.2A: A management workflow runs from evidence to a decision that a person has reviewed and owns.*
 
 ## Workflow 1: Prepare a decision
 
@@ -28,7 +28,7 @@ Managers are often asked to decide with partial information and little time. A d
 | --- | --- |
 | **When** | A decision is due, such as whether to delay a project or which supplier to choose |
 | **Inputs** | Email, chats, meeting recaps, and files about the topic. Any figures from a workbook you trust |
-| **Tool** | Copilot Chat. Researcher, if outside evidence is needed (Chapter 1.9) |
+| **Tool** | Copilot Chat. Researcher, if outside evidence is needed (*Chapter 1.9*) |
 | **Check** | Open the source for each fact you'll rely on. Confirm each person's position with them |
 | **Stays with you** | The decision, and explaining it to the people it affects |
 
@@ -45,7 +45,7 @@ Don't recommend an option. Mark anything you're unsure about with [CHECK].
 
 Asking Copilot not to recommend keeps the brief from leaning toward one answer before you've thought. If you'd like a second opinion afterward, ask for one separately: `Which option is best supported by the evidence, and what would have to be true for each of the others to be the better choice?`
 
-The same approach prepares you for a meeting. Chapter 3.3 covers briefs and agendas in detail.
+The same approach prepares you for a meeting. *Chapter 3.3* covers briefs and agendas in detail.
 
 > **Watch out**: A brief built from messages reflects who wrote the most. The colleague who sends long emails will seem to have the strongest case, and the one who raised a concern once, in a corridor, won't appear at all. Before you decide, ask yourself whose view is missing from the brief, and go and ask them.
 
@@ -57,18 +57,18 @@ Plans and status reports follow a fixed shape, which makes them good candidates 
 | --- | --- |
 | **When** | Weekly or monthly, on a fixed day |
 | **Inputs** | The action list or task board, the project channel, and the previous report |
-| **Tool** | A saved prompt (Chapter 4.2), then a scheduled draft (Chapter 4.3). The Planner agent, if your team uses Planner |
+| **Tool** | A saved prompt (*Chapter 4.2*), then a scheduled draft (*Chapter 4.3*). The Planner agent, if your team uses Planner |
 | **Check** | Each status against its source. Speak to the owner of anything marked at risk or late |
 | **Stays with you** | The summary line, and the conversation with each owner |
 
-Chapter 3.9 gave a full prompt for a status report, including the instruction to write **[NO EVIDENCE]** where Copilot can't find support for a status. Reuse it here.
+*Chapter 3.9* gave a full prompt for a status report, including the instruction to write `[NO EVIDENCE]` where Copilot can't find support for a status. Reuse it here.
 
 Two additions help a manager in particular:
 
 - **Compare with last time.** Add: "Compare with the attached previous report. List what changed, and anything that was promised last time and isn't mentioned this time." Dropped items are where problems hide.
 - **Write for the reader.** Ask for a second version for your own manager: three lines on progress, risks, and what you need from them.
 
-For a new plan, start from the goal, as in Chapter 3.9, and ask for deliverables, milestones, dependencies, and proposed owners. Then take the draft to the team. A plan that people helped to shape is one they'll follow.
+For a new plan, start from the goal, as in *Chapter 3.9*, and ask for deliverables, milestones, dependencies, and proposed owners. Then take the draft to the team. A plan that people helped to shape is one they'll follow.
 
 ## Workflow 3: Track risks, dependencies, and commitments
 
@@ -78,7 +78,7 @@ A manager carries a long list of open items in their head: what was promised, wh
 | --- | --- |
 | **When** | Weekly, before your team meeting or one-to-ones |
 | **Inputs** | Meeting recaps, the project channel, email, and the action list |
-| **Tool** | Copilot Chat, or a project Notebook that holds the recaps and plans (Chapter 3.7) |
+| **Tool** | Copilot Chat, or a project Notebook that holds the recaps and plans (*Chapter 3.7*) |
 | **Check** | Each commitment against the message or recap where it was made |
 | **Stays with you** | Raising each item with the person concerned |
 
@@ -103,9 +103,9 @@ Managing people brings you information that needs more protection than a project
 - **Don't ask Copilot to assess a person.** A prompt such as "Summarize how Sam has performed this quarter" produces a confident paragraph from fragments of messages. It isn't a fair or complete record, and in a work account, the prompt and the answer are stored.
 - **Write feedback yourself.** You can ask Copilot to check a draft for clarity or tone. The observations and the judgment have to be yours.
 - **Keep sensitive notes out of shared spaces.** One-to-one notes, absence details, and personal circumstances don't belong in a team Notebook or a shared Page.
-- **Remember what Copilot can now find.** Chapter 3.1 explained oversharing. As a manager, you probably hold files that your team shouldn't see. Check where they're stored and who can open them.
+- **Remember what Copilot can now find.** *Chapter 3.1* explained oversharing. As a manager, you probably hold files that your team shouldn't see. Check where they're stored and who can open them.
 
-Chapter 5.7 covers employment decisions in more detail, and Chapter 5.10 sets out the general rules.
+[*Chapter 5.7*](05-07-Workflows-for-HR-and-recruitment.md) covers employment decisions in more detail, and [*Chapter 5.10*](05-10-Protect-people-information-and-professional-trust.md) sets out the general rules.
 
 > **Good practice**: Tell your team how you use Copilot. Say that you use it to gather updates and draft reports, that you check what it produces, and that you don't use it to judge anyone's work. People are more open in channels and meetings when they know how their words will be used.
 
@@ -114,16 +114,18 @@ Chapter 5.7 covers employment decisions in more detail, and Chapter 5.10 sets ou
 Set up one management workflow with your own team's information:
 
 1. Choose the workflow that would help you most this week: a decision brief, a status report, or a commitments list.
-2. Copy the prompt for that workflow from this chapter or from Chapter 3.9, and fill in your own project and dates.
+2. Copy the prompt for that workflow from this chapter or from *Chapter 3.9*, and fill in your own project and dates.
 3. Run it in Copilot Chat.
 4. Check three items against their sources. For a commitment or a position, find where the person said it.
 5. Write down one view or fact that you know is missing, because it was never written down.
 6. Use the result to prepare one conversation or one decision. Don't forward it as it stands.
-7. If the prompt worked, save it, and add the routine to your one-page system from *Chapter 5.1*.
+7. If the prompt worked, save it, and add the routine to your one-page system from [*Chapter 5.1*](05-01-Build-a-personal-Copilot-work-system.md).
 
 You should now have one checked brief, report, or list, a note of what it missed, and a saved prompt.
 
-> **What to ask next**: Ask Copilot to test the brief for balance: `Does this brief give more space to some people's views than others? Whose position is supported by the least evidence, and who hasn't been heard from at all?`
+> **What to ask next**: Ask Copilot to test the brief for balance: 
+> 
+> `Does this brief give more space to some people's views than others? Whose position is supported by the least evidence, and who hasn't been heard from at all?`
 
 ### Check the result
 

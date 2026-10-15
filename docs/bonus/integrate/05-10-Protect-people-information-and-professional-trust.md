@@ -4,9 +4,9 @@ Throughout this book, you've met warnings one at a time: check the source, don't
 
 ## Pass every piece of work through four gates
 
-Before a piece of Copilot-assisted work leaves your hands, it should pass four checks. Figure 5.10.1 shows them as gates.
+Before a piece of Copilot-assisted work leaves your hands, it should pass four checks. *Figure 5.10A* shows them as gates:
 
-*Figure 5.10.1: Four gates between your work and the people who'll rely on it: privacy, rights, accuracy, and consequences.* [Diagram 5.10-A]
+*Figure 5.10A: Four gates between your work and the people who'll rely on it: privacy, rights, accuracy, and consequences.*
 
 | Gate | The question | When it applies |
 | --- | --- | --- |
@@ -30,11 +30,11 @@ The safest information is information that you never put into a prompt. The prin
 | Describing a colleague's health condition to get advice on a rota | "One team member can't work mornings for the next month." |
 | Uploading a whole contract to ask about one clause | The clause, with the parties' names removed |
 
-**Use the right account.** Work information belongs in your work account, where your organization's protections apply. Chapter 1.2 explained the difference.
+**Use the right account.** Work information belongs in your work account, where your organization's protections apply. *Chapter 1.2* explained the difference.
 
 **Know what needs most care.** Some kinds of personal information are protected more strictly in law in many countries, and cause more harm if exposed. They include health, race or ethnic origin, religion, political views, sexual orientation, trade union membership, criminal records, and information about children. Keep these out of prompts unless your organization has approved a specific use, in a specific tool.
 
-**Think about where the result goes.** Chapter 3.8 showed that a summary can carry information to people who couldn't open the source. Before you share a result, ask who could open the sources it came from, and whether your readers are among them.
+**Think about where the result goes.** *Chapter 3.8* showed that a summary can carry information to people who couldn't open the source. Before you share a result, ask who could open the sources it came from, and whether your readers are among them.
 
 **Never enter these**, whatever the account:
 
@@ -57,7 +57,7 @@ This gate has two sides: what goes in, and what comes out.
 **What comes out.** You're responsible for what you publish or deliver.
 
 - **Similarity.** Generated text or images can resemble existing work. For anything public, check distinctive phrases, and don't ask Copilot to imitate a named living writer, an artist, or a brand.
-- **Attribution.** If a result draws on a source, credit the source. Chapter 1.8 showed how to trace a claim to its origin.
+- **Attribution.** If a result draws on a source, credit the source. *Chapter 1.8* showed how to trace a claim to its origin.
 - **Ownership.** The law on who owns AI-assisted work varies between countries, and it's still developing. If ownership is important, for a client deliverable or a product, take advice.
 - **Your organization's rules.** Many organizations have a policy on generated images, on disclosure, or on using AI for published content. Follow it.
 
@@ -65,14 +65,14 @@ When you're unsure whether you have the right to use something, the answer is to
 
 ## Gate 3: Check factual accuracy, bias, and suitability
 
-Accuracy has been a theme since Chapter 1.1. This gate adds two more questions.
+Accuracy has been a theme since *Chapter 1.1*. This gate adds two more questions.
 
 **Is it accurate?** Apply what you've learned:
 
-- Open the source for every fact you'll rely on (Chapter 1.8).
-- Check figures by hand, and make totals agree (Chapter 2.4).
+- Open the source for every fact you'll rely on (*Chapter 1.8*).
+- Check figures by hand, and make totals agree (*Chapter 2.4*).
 - Find each quotation in its original.
-- Look for claims of cause that nobody has confirmed (Chapter 5.4).
+- Look for claims of cause that nobody has confirmed ([*Chapter 5.4*](05-04-Workflows-for-analysts-finance-and-operations.md)).
 
 **Is it fair?** A model learns from text written by people, and it can reproduce their assumptions. **Bias** in an answer may appear as:
 
@@ -122,11 +122,11 @@ Ownership also means not hiding behind the tool. "The AI got it wrong" explains 
 
 Trust depends on people knowing what they're dealing with. You don't need to label every email. You do need to be honest when it's relevant.
 
-- **Tell people when it changes what they should assume.** If a draft recap was generated from a transcript, say so, because readers should check it more carefully (Chapter 3.4).
+- **Tell people when it changes what they should assume.** If a draft recap was generated from a transcript, say so, because readers should check it more carefully (*Chapter 3.4*).
 - **Answer truthfully when asked.** If a client or a colleague asks whether you used AI, tell them, and tell them how you checked the result.
 - **Don't present generated content as something it isn't.** A generated image isn't a photograph of an event. A generated quotation isn't something a person said.
 - **Follow the rules of your setting.** Some employers, clients, publishers, courts, and schools require disclosure. Some forbid AI for certain work.
-- **Tell people when they're dealing with an agent.** Chapter 4.10 made this point about Autopilot. It applies to any agent that answers on your behalf.
+- **Tell people when they're dealing with an agent.** *Chapter 4.10* made this point about Autopilot. It applies to any agent that answers on your behalf.
 
 Being open also helps you. A colleague who knows that your summary came from Copilot will tell you when it's wrong. One who thinks you wrote it may assume that you know something they don't.
 
@@ -159,7 +159,7 @@ A code of practice answers six questions:
 - **When do I tell people that I used AI?**
 - **Who do I tell when something goes wrong?**
 
-If your organization has an AI policy, your code should fit inside it. If you lead a team, write the code together, as Chapter 5.7 suggested for recruitment.
+If your organization has an AI policy, your code should fit inside it. If you lead a team, write the code together, as [*Chapter 5.7*](05-07-Workflows-for-HR-and-recruitment.md) suggested for recruitment.
 
 ## Try it now
 
@@ -176,7 +176,9 @@ Pass one piece of work through the four gates, and write your code of practice:
 
 You should now have one piece of work that has passed all four gates, a note of what the gates found, and a one-page code of practice with a named contact.
 
-> **What to ask next**: Ask Copilot to test your code against hard cases: `Here is my code of practice for using AI at work: [paste it]. Describe five realistic situations where I might be tempted to break it, or where it doesn't say what to do. For each one, suggest a clearer rule.`
+> **What to ask next**: Ask Copilot to test your code against hard cases: 
+> 
+> `Here is my code of practice for using AI at work: [paste it]. Describe five realistic situations where I might be tempted to break it, or where it doesn't say what to do. For each one, suggest a clearer rule.`
 
 ### Check the result
 

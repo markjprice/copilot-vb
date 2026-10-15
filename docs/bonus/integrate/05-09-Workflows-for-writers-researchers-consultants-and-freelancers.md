@@ -16,9 +16,9 @@ If you work independently, you're the researcher, the writer, the project manage
 
 For independent professionals, the right-hand column is the product. Clients pay for your judgment and your voice. Use Copilot on the work around them.
 
-Figure 5.9.1 shows the path of a client project.
+*Figure 5.9A* shows the path of a client project.
 
-*Figure 5.9.1: A client project runs from the brief through evidence, draft, and verification to the client's review. You own each stage.* [Diagram 5.9-A]
+*Figure 5.9A: A client project runs from the brief through evidence, draft, and verification to the client's review. You own each stage.*
 
 ## Workflow 1: Research and organize source material
 
@@ -28,8 +28,8 @@ Research for a client project produces a pile of material: reports, articles, in
 | --- | --- |
 | **When** | At the start of a project, and as material arrives |
 | **Inputs** | Public sources, and client documents that you're permitted to use with AI |
-| **Tool** | A Notebook for each client or project (Chapter 1.11). Researcher or Chat for public sources (Chapters 1.8 and 1.9) |
-| **Check** | Every source opened. Every claim you'll use traced to a primary source. A source log kept (Chapter 1.12) |
+| **Tool** | A Notebook for each client or project (*Chapter 1.11*). Researcher or Chat for public sources (*Chapters 1.8* and *1.9*) |
+| **Check** | Every source opened. Every claim you'll use traced to a primary source. A source log kept (*Chapter 1.12*) |
 | **Stays with you** | Which sources to trust, and what they add up to |
 
 Set up each project the same way:
@@ -38,13 +38,13 @@ Set up each project the same way:
 2. **Notebook instructions that state the rules.** For example: "Use only the references in this notebook. Give the reference for every point. Say when the references don't cover something."
 3. **A source log from the first day**, with what you checked and when.
 
-For public research, use the source-based questions from Chapter 1.8 and the research brief from Chapter 1.9. Then ask the Notebook questions that organize what you have:
+For public research, use the source-based questions from *Chapter 1.8* and the research brief from *Chapter 1.9*. Then ask the Notebook questions that organize what you have:
 
 - `Group the sources by the position they take on [question]. Which sources disagree, and about what?`
 - `What do these sources not cover that a reader would expect?`
 - `List every statistic in these sources, with its original source and date.`
 
-For interviews and your own notes, the cautions from Chapter 2.7 apply. Copilot turns "she seemed doubtful about the timeline" into "she rejected the timeline." Check each summary against your notes, and keep the notes.
+For interviews and your own notes, the cautions from *Chapter 2.7* apply. Copilot turns "she seemed doubtful about the timeline" into "she rejected the timeline." Check each summary against your notes, and keep the notes.
 
 Researchers and writers have a particular duty over quotations and citations. Never use a quotation that you haven't found in its original source, word for word. Never cite a work that you haven't opened. Copilot can invent both.
 
@@ -56,7 +56,7 @@ Independent work involves a lot of writing around the writing: proposals, scopes
 | --- | --- |
 | **When** | Winning work, starting a project, and reporting on it |
 | **Inputs** | The client's request, your notes from conversations, your own past documents as examples, and your source log |
-| **Tool** | Copilot Chat or Word (Chapter 2.3). Saved prompts for documents you write often (Chapter 4.2) |
+| **Tool** | Copilot Chat or Word (*Chapter 2.3*). Saved prompts for documents you write often (*Chapter 4.2*) |
 | **Check** | Every fact against your source log. Every commitment, date, and price. The draft against the client's brief |
 | **Stays with you** | The argument, the recommendations, your voice, and your terms |
 
@@ -68,7 +68,7 @@ Draft a proposal in response to the attached request from [client]. Use the stru
 
 Leaving the price and terms for yourself is on purpose. They're your decisions, and a figure that Copilot invents may end up in a document you send.
 
-The **[ASK CLIENT]** markers are often the most valuable part. An unclear requirement that's found at the proposal stage costs an email. Found at delivery, it costs a rewrite.
+The `[ASK CLIENT]` markers are often the most valuable part. An unclear requirement that's found at the proposal stage costs an email. Found at delivery, it costs a rewrite.
 
 **For reports**, separate the structure from the substance. Ask Copilot to check your outline against the brief, and to draft the routine sections, such as the method and the summary of sources. Write the findings and the recommendations yourself. Then ask Copilot to review:
 
@@ -116,7 +116,7 @@ Never put into a personal account: personal data about the client's customers or
 
 ## Keep your business information in order
 
-The same tools help with running your practice. A weekly prompt can list invoices to send, proposals awaiting a reply, and deadlines in the next two weeks, drawn from your own calendar and files. Use the personal work system from Chapter 5.1.
+The same tools help with running your practice. A weekly prompt can list invoices to send, proposals awaiting a reply, and deadlines in the next two weeks, drawn from your own calendar and files. Use the personal work system from [*Chapter 5.1*](05-01-Build-a-personal-Copilot-work-system.md).
 
 Keep your own business records, such as contracts, invoices, and tax documents, apart from client project Notebooks. For tax and legal questions, Copilot can help you prepare questions for an accountant or a lawyer. It doesn't replace one.
 
@@ -139,7 +139,9 @@ Set up one client project safely, and write your own AI policy:
 
 You should now have a Notebook for one client with only permitted material, a source log, a draft checked against its brief, and a half-page AI policy.
 
-> **What to ask next**: Ask Copilot to prepare you for a client's questions: `A client asks, "Did you use AI to write this report?" Based on my policy, draft an honest answer in three sentences. Then list two follow-up questions they might ask.`
+> **What to ask next**: Ask Copilot to prepare you for a client's questions: 
+> 
+> `A client asks, "Did you use AI to write this report?" Based on my policy, draft an honest answer in three sentences. Then list two follow-up questions they might ask.`
 
 ### Check the result
 

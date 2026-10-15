@@ -15,9 +15,9 @@ HR and recruitment work affects people's livelihoods. A decision to hire, promot
 | Building an onboarding plan and checklist | Any decision about pay, promotion, discipline, or dismissal |
 | Drafting standard letters from an approved template | Any conversation about someone's health, conduct, or circumstances |
 
-Figure 5.7.1 shows the boundary that this chapter is built around.
+*Figure 5.7A* shows the boundary that this chapter is built around:
 
-*Figure 5.7.1: Copilot's preparation surrounds the decision. The decision itself, and the conversation with the person, stay inside a human boundary.* [Diagram 5.7-A]
+*Figure 5.7A: Copilot's preparation surrounds the decision. The decision itself, and the conversation with the person, stay inside a human boundary.*
 
 ## Workflow 1: Prepare role and interview materials
 
@@ -27,7 +27,7 @@ Clear, fair materials improve a recruitment process before any candidate is invo
 | --- | --- |
 | **When** | A role is being opened or redesigned |
 | **Inputs** | The hiring manager's list of duties and requirements, your organization's job description template, and the pay band if it's published |
-| **Tool** | Copilot Chat or Copilot in Word (Chapter 2.3) |
+| **Tool** | Copilot Chat or Copilot in Word (*Chapter 2.3*) |
 | **Check** | Every requirement against what the job needs. Wording for bias. Compliance with your organization's policy and local law |
 | **Stays with you** | What the role requires, and approval of the final text |
 
@@ -61,7 +61,7 @@ Policies are long and written with care, and staff need quick answers. Onboardin
 | --- | --- |
 | **When** | A policy is published or changed, or a new starter is expected |
 | **Inputs** | The approved policy documents, and the role's details for onboarding |
-| **Tool** | Copilot Chat or Word for summaries. A policy agent for recurring questions (Chapter 4.7) |
+| **Tool** | Copilot Chat or Word for summaries. A policy agent for recurring questions (*Chapter 4.7*) |
 | **Check** | Each statement in a summary against the policy's wording. Approval by the policy's owner |
 | **Stays with you** | What the policy means for an individual, and any exception |
 
@@ -73,7 +73,7 @@ Summarize the attached [policy name] for employees in plain language, on one pag
 
 The instruction to keep "may" and "at the manager's discretion" is important. A summary that turns "may be granted" into "you can have" creates an entitlement that the policy never gave.
 
-Have the policy's owner approve the summary before it's shared. If staff ask the same questions repeatedly, build an agent on the approved policy, with the tests from Chapter 4.7. Its instructions should refuse questions about individual cases and direct people to HR.
+Have the policy's owner approve the summary before it's shared. If staff ask the same questions repeatedly, build an agent on the approved policy, with the tests from *Chapter 4.7*. Its instructions should refuse questions about individual cases and direct people to HR.
 
 For onboarding, ask for a plan by day and week:
 
@@ -112,8 +112,8 @@ HR holds some of the most sensitive data in any organization.
 
 - **Use only your work account**, with the protections your organization has set.
 - **Give Copilot the minimum.** Most preparation needs no personal data. A job description, a policy summary, and an onboarding template involve no named individual.
-- **Check where files are stored.** HR files in a widely shared location are the oversharing problem from Chapter 3.1 at its most serious.
-- **Remember that prompts are records.** Chapter 3.1 explained that work prompts are stored. A prompt about a named employee may be disclosable if that person asks to see their data.
+- **Check where files are stored.** HR files in a widely shared location are the oversharing problem from *Chapter 3.1* at its most serious.
+- **Remember that prompts are records.** *Chapter 3.1* explained that work prompts are stored. A prompt about a named employee may be disclosable if that person asks to see their data.
 - **Follow retention rules.** Candidate and employee data must be deleted on schedule. Notes and summaries made with Copilot are part of that data.
 
 > **Good practice**: Write your team's rule in one paragraph, and share it with hiring managers: what Copilot may prepare, what it may not do, and who to ask. Managers under time pressure will be tempted to paste twenty applications into a chat and ask for the best five. A clear rule, given before the vacancy opens, is easier to follow than a correction afterward.
@@ -135,7 +135,9 @@ If you don't work in HR, do steps 1 to 5 for a role in your own team, and share 
 
 You should now have a job description with requirements tied to duties, a set of structured interview questions, a policy summary checked against the original, and a one-paragraph statement of your boundary.
 
-> **What to ask next**: Ask Copilot to test your boundary statement: `Here is our rule for using AI in recruitment: [paste your paragraph]. Describe five situations where a busy hiring manager might be unsure whether something is allowed. For each one, suggest wording that would make the rule clearer.`
+> **What to ask next**: Ask Copilot to test your boundary statement: 
+> 
+> `Here is our rule for using AI in recruitment: [paste your paragraph]. Describe five situations where a busy hiring manager might be unsure whether something is allowed. For each one, suggest wording that would make the rule clearer.`
 
 ### Check the result
 

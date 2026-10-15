@@ -2,7 +2,7 @@
 
 It's tempting to assume that a task done with Copilot is a task done better. Often it is. Sometimes the time saved on drafting is spent on checking, the errors take longer to fix than the original work would have taken, or the output is produced faster and read by nobody. You can't tell which from impressions. A routine that seems quick may cost you more than the manual version, and one that seems fiddly may be saving an hour a week. In this chapter, you'll record a baseline before you change anything, measure five things during a trial, and use the results to decide whether to keep, improve, or stop a routine. By the end, you'll have evidence about one of your own Copilot routines, and a decision based on it.
 
-> **Sample files**: This chapter uses `value-tracker.xlsx` from the `Book5/Chapter5.11` folder. It has a sheet for the baseline, a sheet for the trial, and a summary that calculates the comparison.
+> **Sample files**: This chapter uses [`5-11-value-tracker.xlsx`](../../../files/Book5/5-11-value-tracker.xlsx). It has a sheet for the baseline, a sheet for the trial, and a summary that calculates the comparison.
 
 ## Understand why impressions mislead
 
@@ -16,9 +16,9 @@ Three things make it hard to judge Copilot's value without measuring.
 
 Measuring doesn't need to be elaborate. A few numbers, recorded honestly for a few weeks, tell you more than any amount of impression.
 
-Figure 5.11.1 shows the process.
+*Figure 5.11A* shows the process:
 
-*Figure 5.11.1: Measure before you change anything, run a trial, measure again, and then decide to keep, improve, or stop.* [Diagram 5.11-A]
+*Figure 5.11A: Measure before you change anything, run a trial, measure again, and then decide to keep, improve, or stop.*
 
 ## Establish a baseline before automating
 
@@ -32,7 +32,7 @@ Record the baseline for one task over at least three occasions. For each occasio
 | **Rework** | Whether you or anyone else had to correct it afterward, and how long that took | A note at the time, and again a week later |
 | **Accuracy** | Errors found, by you or by the recipient | Count them |
 | **Satisfaction** | Whether the result did its job for the person who received it | Ask them, with one question |
-| **Frequency** | How often the task happens | From your inventory in Chapter 5.1 |
+| **Frequency** | How often the task happens | From your inventory in *Chapter 5.1* |
 
 Use a timer. Estimates of how long a task takes are often wrong.
 
@@ -42,9 +42,9 @@ If you've already started using Copilot for the task, you can still build a base
 
 ## Measure time, rework, accuracy, satisfaction, and cost
 
-During the trial, measure the same things, plus the cost of using Copilot. Be thorough about time. Figure 5.11.2 shows what to include.
+During the trial, measure the same things, plus the cost of using Copilot. Be thorough about time. *Figure 5.11B* shows what to include:
 
-*Figure 5.11.2: The time a Copilot routine takes includes preparing, waiting, reviewing, and fixing. Compare the whole of it with the manual time.* [Diagram 5.11-B]
+*Figure 5.11B: The time a Copilot routine takes includes preparing, waiting, reviewing, and fixing. Compare the whole of it with the manual time.*
 
 **Time.** Count all of it:
 
@@ -94,7 +94,7 @@ At the end of the trial, compare the figures and make one of three decisions.
 | **Improve** | It's close, or one measure is poor while the others are good | Change one thing, and run another short trial |
 | **Stop** | It costs more time than it saves, more errors are reaching people, recipients find it less useful, or nobody uses the output | Go back to the manual method, or drop the task |
 
-A worked example, for the weekly health check from Book 4:
+A worked example, for the weekly health check from *Book 4*:
 
 | Measure | Baseline (manual) | Trial (recurring Cowork task) |
 | --- | --- | --- |
@@ -107,14 +107,14 @@ A worked example, for the weekly health check from Book 4:
 
 Net time saved is about 24 minutes a week, less roughly 8 minutes a week of maintenance, with similar accuracy. That's a routine to keep, with a note to reduce the fixing time. If the review had taken 30 minutes, or if two errors had reached the reader, the decision would be different.
 
-The decision to stop is as valuable as the decision to keep. A routine that doesn't work uses your time, your attention, and your credits. Stopping it frees all three for one that does. Chapter 4.12 listed the signs that an automation should be switched off, and this chapter gives you the evidence.
+The decision to stop is as valuable as the decision to keep. A routine that doesn't work uses your time, your attention, and your credits. Stopping it frees all three for one that does. *Chapter 4.12* listed the signs that an automation should be switched off, and this chapter gives you the evidence.
 
 Some results point to improvement:
 
-- **Review takes too long.** Add checks to the prompt that make errors visible, such as row counts, as in Chapter 4.2.
+- **Review takes too long.** Add checks to the prompt that make errors visible, such as row counts, as in *Chapter 4.2*.
 - **Fixing takes too long.** Find the correction you make most often, and build it into the prompt.
 - **Recipients don't value it.** Ask what they need. The answer may be a shorter report, or none.
-- **The cost is high.** Lower the reasoning effort, narrow the sources, or run it less often, as in Chapter 4.4.
+- **The cost is high.** Lower the reasoning effort, narrow the sources, or run it less often, as in *Chapter 4.4*.
 
 > **Good practice**: Decide what the saved time is for. If a routine saves you 30 minutes a week, put a 30-minute block in your calendar for something that has been waiting, such as a conversation with a customer, a piece of planning, or leaving on time. Time that isn't assigned to anything is absorbed without trace.
 
@@ -142,7 +142,7 @@ Your organization's administrators have reports on Copilot usage and credit cons
 
 Measure one routine against its baseline, and decide what to do with it:
 
-1. Open `value-tracker.xlsx`. Choose one routine from your system in Chapter 5.1, ideally one that you haven't yet handed to Copilot.
+1. Open [`5-11-value-tracker.xlsx`](../../../files/Book5/5-11-value-tracker.xlsx). Choose one routine from your system in [*Chapter 5.1*](05-01-Build-a-personal-Copilot-work-system.md), ideally one that you haven't yet handed to Copilot.
 2. Write your test in advance: what result would make you keep the routine, and what would make you stop.
 3. Do the task by hand, and time it. Record the time, any rework, any errors, and the recipient's view. Repeat on two more occasions if you can. If the task is already automated, do it by hand once to get a figure.
 4. Run the task with Copilot. Time each part separately: preparing, waiting, reviewing, and fixing.

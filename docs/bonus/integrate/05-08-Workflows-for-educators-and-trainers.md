@@ -23,7 +23,7 @@ A good session starts from what learners should be able to do by the end. Give C
 | --- | --- |
 | **When** | Planning a lesson, a workshop, or a course |
 | **Inputs** | The learning objectives, the syllabus or specification, the time available, what learners already know, and your own source materials |
-| **Tool** | Copilot Chat for the plan. Word for handouts (Chapter 2.3). PowerPoint for slides (Chapter 2.6) |
+| **Tool** | Copilot Chat for the plan. Word for handouts (Chapter 2.3). PowerPoint for slides (*Chapter 2.6*) |
 | **Check** | Every fact, example, and answer. The fit with the syllabus. The timing |
 | **Stays with you** | What to teach, and your knowledge of the group |
 
@@ -99,7 +99,7 @@ Materials for learners need three checks before use.
 **Accessibility.** Every learner should be able to use the material.
 
 - Run **Check Accessibility** on the **Review** tab in Word and PowerPoint.
-- Add alt text to images and diagrams, as in Chapter 2.8.
+- Add alt text to images and diagrams, as in *Chapter 2.8*.
 - Use heading styles, so that screen readers can navigate.
 - Check contrast and font size. Don't rely on color alone to carry meaning.
 - Ask Copilot about reading level: `What reading level is this handout? List the sentences and words that are hardest, and suggest simpler versions.`
@@ -140,7 +140,9 @@ Prepare one session with a plan, a handout, and practice questions, and check th
 
 You should now have a timed session plan, a handout, eight practice questions with answers you've checked, three versions of one explanation, and a handout with no accessibility problems.
 
-> **What to ask next**: Ask Copilot where learners are likely to go wrong: `What are the most common misunderstandings that learners have about [topic]? For each one, suggest a question I could ask that would reveal it.`
+> **What to ask next**: Ask Copilot where learners are likely to go wrong: 
+> 
+> `What are the most common misunderstandings that learners have about [topic]? For each one, suggest a question I could ask that would reveal it.`
 
 ### Check the result
 

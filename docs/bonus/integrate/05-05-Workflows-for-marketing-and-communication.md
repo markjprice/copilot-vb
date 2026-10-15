@@ -24,7 +24,7 @@ Good communication starts with knowing who you're talking to and what else they'
 | --- | --- |
 | **When** | Before a campaign, a launch, or a change of message |
 | **Inputs** | Public sources on the web. Your own research, survey results, and customer feedback, with personal details removed |
-| **Tool** | Copilot Chat with web search (Chapter 1.8). Researcher for a fuller study (Chapter 1.9). Analyst for survey data (Chapter 2.5) |
+| **Tool** | Copilot Chat with web search (*Chapter 1.8*). Researcher for a fuller study (*Chapter 1.9*). Analyst for survey data (*Chapter 2.5*) |
 | **Check** | Every source opened. Dates checked. Each claim about a competitor traced to the competitor's own published material |
 | **Stays with you** | What you conclude, and how you describe competitors in public |
 
@@ -44,15 +44,15 @@ Be wary of one thing in particular. If you ask Copilot to "describe our typical 
 
 Your organization probably has more good content than it uses. A report, a case study, or a recorded talk can become a dozen smaller pieces. This is where Copilot saves the most time for the least risk, because the facts are already approved.
 
-Figure 5.5.1 shows the pattern.
+Figure 5.5A shows the pattern:
 
-*Figure 5.5.1: One approved source becomes several channel versions. Each version is checked against the source before it's published.* [Diagram 5.5-A]
+*Figure 5.5A: One approved source becomes several channel versions. Each version is checked against the source before it's published.*
 
 | | |
 | --- | --- |
 | **When** | A piece of content has been approved and is ready to share more widely |
 | **Inputs** | The approved source, your style guide, and a few examples of your past content for each channel |
-| **Tool** | Copilot Chat, or a Notebook that holds the source and the style guide (Chapter 1.11) |
+| **Tool** | Copilot Chat, or a Notebook that holds the source and the style guide (*Chapter 1.11*) |
 | **Check** | Each version against the source, line by line. Each version against the style guide |
 | **Stays with you** | Which version to use, and the approval to publish |
 
@@ -70,7 +70,7 @@ The last instruction makes checking quick. For each version, you can go straight
 
 Shortening changes meaning. A case study that says "response times fell by 20% in the first quarter for this customer" can become "cuts response times by 20%" in a social post. The first is a fact about one customer. The second is a promise to every reader. Look for this in every short version.
 
-For voice, examples work better than adjectives, as Chapter 1.5 explained. Give Copilot three pieces you've published and liked, and ask it to match their sentence length and tone.
+For voice, examples work better than adjectives, as *Chapter 1.5* explained. Give Copilot three pieces you've published and liked, and ask it to match their sentence length and tone.
 
 ## Workflow 3: Review evidence, claims, consent, and brand voice
 
@@ -96,7 +96,7 @@ Review the attached draft against the attached sources and style guide. Don't re
 
 Then make the four checks yourself:
 
-- **Evidence.** For each claim, is there a source, and does it say this? Remove anything marked **[NO SOURCE]**, or find the source.
+- **Evidence.** For each claim, is there a source, and does it say this? Remove anything marked `[NO SOURCE]`, or find the source.
 - **Claims.** Would a regulator or a customer read this as a promise? Many countries have rules about advertising claims, and stricter ones for health, finance, and products for children. Ask your legal or compliance contact when a claim is new.
 - **Consent.** Do you have permission, in writing, for each quotation, testimonial, customer name, and photograph? Is the permission still current, and does it cover this channel?
 - **Brand voice.** Does it sound like your organization? Read it aloud.
@@ -133,7 +133,9 @@ Turn one approved source into channel versions, and review them before use:
 
 You should now have three or more channel versions of one approved source, each compared with the original, and one that has been through all four checks.
 
-> **What to ask next**: Ask Copilot to read the content as a skeptical outsider would: `Read this post as a journalist or a regulator would. Which statement would you challenge first, and what evidence would you ask for?`
+> **What to ask next**: Ask Copilot to read the content as a skeptical outsider would: 
+> 
+> `Read this post as a journalist or a regulator would. Which statement would you challenge first, and what evidence would you ask for?`
 
 ### Check the result
 
