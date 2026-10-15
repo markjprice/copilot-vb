@@ -2,15 +2,15 @@
 
 Knowing how to use Copilot and using it every week are different things. You can learn a tool, try it for two weeks, and then drift back to your old habits, because nothing in your week reminds you to use it. A work system fixes that. It's a short list of routines, each tied to a moment in your day, week, or month, where Copilot does a defined job and you check the result. In this chapter, you'll take an inventory of your repeated work, find the best places for Copilot, choose one low-risk process to start with, and set up a daily starting point. By the end, you'll have a one-page plan of where Copilot fits in your work.
 
-> **Sample files**: This chapter uses `work-inventory.xlsx` from the `Book5/Chapter5.1` folder. It's an empty table with the columns described in this chapter.
+> **Sample files**: This chapter uses [`5-1-work-inventory.xlsx`](../../../files/Book5/5-1-work-inventory.xlsx). It's an empty table with the columns described in this chapter.
 
 ## Inventory your repeated work and information sources
 
 You can't choose where Copilot fits until you can see what you do. You may be surprised by how much of your work repeats.
 
-Figure 5.1.1 shows the path from an inventory to a habit.
+*Figure 5.1A* shows the path from an inventory to a habit:
 
-*Figure 5.1.1: From an inventory of your work to a habit. Most tasks on the inventory go no further than the first stage, and that's the intention.* [Diagram 5.1-A]
+*Figure 5.1A: From an inventory of your work to a habit. Most tasks on the inventory go no further than the first stage, and that's the intention.*
 
 Build your inventory from evidence. Look back over the last four weeks of your calendar, your sent email, and your task list. For each task you did more than once, record six things:
 
@@ -22,6 +22,8 @@ Build your inventory from evidence. Look back over the last four weeks of your c
 | **Sources** | Where the information comes from | Team channel, project plan, my notes |
 | **Output** | What you produce, and who receives it | An email to my manager |
 | **If it's wrong** | What would happen | She'd act on a wrong status |
+
+*Table 5.1A: *
 
 With a work account, Copilot can help you find tasks you've forgotten.
 
@@ -39,11 +41,11 @@ Then list your **information sources**: the places you go to find things out. Yo
 
 An inventory of 20 or 30 tasks is too many to act on. Reduce it in two passes.
 
-**First, score each task.** Use the four questions from Chapter 4.1: how repeatable it is, the impact of a mistake, how easily you'd spot an error, and how urgent the result is. Add a fifth: can Copilot reach the sources? Cross out any task where a mistake would be serious and hard to spot, and any task that involves a decision about a person.
+**First, score each task.** Use the four questions from *Chapter 4.1*: how repeatable it is, the impact of a mistake, how easily you'd spot an error, and how urgent the result is. Add a fifth: can Copilot reach the sources? Cross out any task where a mistake would be serious and hard to spot, and any task that involves a decision about a person.
 
-**Second, sort what's left by rhythm.** A work system has three rhythms, as Figure 5.1.2 shows.
+**Second, sort what's left by rhythm.** A work system has three rhythms, as Figure 5.1B shows:
 
-*Figure 5.1.2: A personal work system has a daily, a weekly, and a monthly rhythm. Each needs only one or two routines.* [Diagram 5.1-B]
+*Figure 5.1B: A personal work system has a daily, a weekly, and a monthly rhythm. Each needs only one or two routines.*
 
 | Rhythm | Typical routines | What Copilot does | What you do |
 | --- | --- | --- | --- |
@@ -51,9 +53,11 @@ An inventory of 20 or 30 tasks is too many to act on. Reduce it in two passes.
 | **Weekly** | A week-ahead view, a status update, meeting preparation | Drafts from your sources | Check, correct, and send |
 | **Monthly** | A report, a review of your automations, a tidy-up of shared files | Compares, totals, and lists | Judge what it means |
 
+*Table 5.1B: *
+
 Choose one or two candidates for each rhythm. Six routines that you keep are worth more than twenty that you abandon.
 
-For each candidate, write one line about the benefit you expect. Be specific. "Saves time" tells you nothing. "Cuts the weekly update from 45 minutes to 15, and I stop forgetting the overdue items" gives you something to check later. Chapter 5.11 shows you how to measure it.
+For each candidate, write one line about the benefit you expect. Be specific. "Saves time" tells you nothing. "Cuts the weekly update from 45 minutes to 15, and I stop forgetting the overdue items" gives you something to check later. *Chapter 5.11* shows you how to measure it.
 
 ## Begin with one low-risk process
 
@@ -68,7 +72,7 @@ A good first process is:
 
 A week-ahead view of your own calendar is a good example. So is a summary of a channel you follow, or a first draft of an update that you always rewrite anyway.
 
-Start it on the lowest rung of the ladder from Chapter 4.1: a prompt you run by hand. Save it when it works, as in Chapter 4.2. Schedule it only when you've stopped changing it.
+Start it on the lowest rung of the ladder from *Chapter 4*.1: a prompt you run by hand. Save it when it works, as in *Chapter 4.2*. Schedule it only when you've stopped changing it.
 
 > **Watch out**: Don't begin with the task that worries you most or that has the highest stakes. If your first attempt involves a report to the board, a customer message, or a decision about a colleague, an early mistake will cost you more than the routine could save, and it may put you off the whole idea. Earn your own trust on small things first.
 
@@ -89,7 +93,7 @@ Prepare my briefing for today. Use my calendar, my email since yesterday afterno
 Keep it under 200 words. Give a link to each item. If you're unsure whether something needs a reply, list it and say so.
 ```
 
-Run it by hand for a week. When it's right, schedule it for a time shortly before you start work, as Chapter 4.3 showed. On a personal account, the briefing covers your own Outlook.com mail and calendar.
+Run it by hand for a week. When it's right, schedule it for a time shortly before you start work, as *Chapter 4.3* showed. On a personal account, the briefing covers your own Outlook.com mail and calendar.
 
 Two places in Copilot Home support a daily start:
 
@@ -98,7 +102,7 @@ Two places in Copilot Home support a daily start:
 
 If Today reaches your account, compare it with your own briefing for a week. Keep whichever one you trust more. A view you didn't design can still miss the things that are important to you.
 
-A briefing is a summary, so the cautions from Chapter 3.2 apply. It can miss an important message, or rank a routine one too highly. For the first few weeks, scan your inbox as well, and note what the briefing missed. Adjust the prompt until the two agree.
+A briefing is a summary, so the cautions from *Chapter 3.2* apply. It can miss an important message, or rank a routine one too highly. For the first few weeks, scan your inbox as well, and note what the briefing missed. Adjust the prompt until the two agree.
 
 ## Write your system on one page
 
@@ -110,7 +114,7 @@ A system that lives only in your head won't survive a busy month. Put it on one 
 - **Your first process**, with the benefit you expect and the date you started.
 - **A review date**, about a month away.
 
-Keep the page next to the register of automations you made in Chapter 4.12. The register lists what's running. This page explains why, and how the pieces fit into your week.
+Keep the page next to the register of automations you made in *Chapter 4.12*. The register lists what's running. This page explains why, and how the pieces fit into your week.
 
 > **Good practice**: Attach each routine to something you already do. "After I open my laptop, I read the briefing." "Before the Monday team meeting, I run the week-ahead prompt." A routine tied to an existing habit gets done. A routine you have to remember separately usually doesn't.
 
@@ -118,11 +122,11 @@ Keep the page next to the register of automations you made in Chapter 4.12. The 
 
 Build your inventory, choose your routines, and set up a daily starting point:
 
-1. Open `5-1-work-inventory.xlsx`, or create a table with the six columns from this chapter.
+1. Open [`5-1-work-inventory.xlsx`](../../../files/Book5/5-1-work-inventory.xlsx), or create a table with the six columns from this chapter.
 2. Look through your calendar, sent email, and task list for the last four weeks. Add every task you did more than once. Aim for at least 15 rows.
 3. With a work account, send the prompt from the "Inventory your repeated work and information sources" section, and add anything it finds that you missed.
 4. List your information sources, and mark which ones Copilot can reach.
-5. Score each task with the four questions from Chapter 4.1. Cross out the ones that should stay entirely with you.
+5. Score each task with the four questions from *Chapter 4*.1. Cross out the ones that should stay entirely with you.
 6. From what's left, choose one or two routines for each rhythm: daily, weekly, and monthly.
 7. Choose your first process, using the four tests in the "Begin with one low-risk process" section. Write the benefit you expect in one specific sentence.
 8. Send the daily briefing prompt, and compare the result with your inbox and calendar. Adjust the prompt once.
@@ -130,7 +134,9 @@ Build your inventory, choose your routines, and set up a daily starting point:
 
 You should now have an inventory of your repeated work, a short list of routines by rhythm, one first process with an expected benefit, a tested briefing prompt, and a one-page description of your system.
 
-> **What to ask next**: Ask Copilot to look at your short list with a skeptical eye: `Here are the routines I plan to hand to Copilot: [paste your list]. For each one, what is most likely to go wrong in the first month, and how would I notice?`
+> **What to ask next**: Ask Copilot to look at your short list with a skeptical eye:
+> 
+> `Here are the routines I plan to hand to Copilot: [paste your list]. For each one, what is most likely to go wrong in the first month, and how would I notice?`
 
 ### Check the result
 
@@ -144,3 +150,13 @@ You should now have an inventory of your repeated work, a short list of routines
 Your system is specific to you, but much of it will resemble the systems of people who do similar work. The next eight chapters give worked examples by role. [*Chapter 5.2, Workflows for managers and project leaders*](05-02-Workflows-for-managers-and-project-leaders.md), begins with the work of preparing decisions, reporting progress, and keeping track of commitments.
 
 [Go to next chapter >>](05-02-Workflows-for-managers-and-project-leaders.md)
+
+If you'd prefer a different workflow, choose between all eight workflows:
+- [*Chapter 5.2, Workflows for managers and project leaders*](05-02-Workflows-for-managers-and-project-leaders.md)
+- [*Chapter 5.3, Workflows for administrators and executive assistants*](05-03-Workflows-for-administrators-and-executive-assistants.md)
+- [*Chapter 5.4, Workflows for analysts, finance, and operations*](05-04-Workflows-for-analysts-finance-and-operations.md)
+- [*Chapter 5.5, Workflows for marketing and communication*](05-05-Workflows-for-marketing-and-communication.md)
+- [*Chapter 5.6, Workflows for sales and customer success*](05-06-Workflows-for-sales-and-customer-success.md)
+- [*Chapter 5.7, Workflows for HR and recruitment*](05-07-Workflows-for-HR-and-recruitment.md)
+- [*Chapter 5.8, Workflows for educators and trainers*](05-08-Workflows-for-educators-and-trainers.md)
+- [*Chapter 5.9, Workflows for writers, researchers, consultants, and freelancers*](05-09-Workflows-for-writers-researchers-consultants-and-freelancers.md)

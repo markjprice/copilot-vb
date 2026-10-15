@@ -15,7 +15,6 @@ You've now used every tool *Microsoft Copilot Visual Bible* covers. You can ask 
 - [Which plan *Book 5* assumes](#which-plan-book-5-assumes)
 - [What you need before you start](#what-you-need-before-you-start)
 
-
 # What you'll learn in *Book 5*
 
 *Book 5* has twelve chapters:
@@ -45,7 +44,7 @@ The role chapters don't teach features again. They point back to the chapters wh
 
 The role chapters use short, fictional scenarios to show each workflow. Treat them as patterns. Your files, your colleagues, and your organization's rules are different, and the workflows will need adjusting to fit.
 
-> **Sample files**: The book's GitHub repository has a `Book5` folder with three templates: `work-inventory.xlsx` for *Chapter 5.1*, `value-tracker.xlsx` for *Chapter 5.11*, and `adoption-plan.docx` for *Chapter 5.12*: https://github.com/markjprice/copilot-vb/tree/main/files/Book5
+> **Sample files**: The book's GitHub repository has a `Book5` folder with three templates: `5-1-work-inventory.xlsx` for *Chapter 5.1*, `5-11-value-tracker.xlsx` for *Chapter 5.11*, and `5-12-adoption-plan.docx` for *Chapter 5.12*: https://github.com/markjprice/copilot-vb/tree/main/files/Book5
 
 # Which plan *Book 5* assumes
 

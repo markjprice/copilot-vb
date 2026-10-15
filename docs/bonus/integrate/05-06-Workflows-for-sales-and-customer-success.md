@@ -137,3 +137,13 @@ You should now have a one-page preparation brief with checked facts, a three-par
 Customer conversations are about commitments between organizations. The next role deals with commitments between an organization and its own people, where the stakes for individuals are highest. [*Chapter 5.7, Workflows for HR and recruitment*](05-07-Workflows-for-HR-and-recruitment.md), covers preparing role and interview materials, summarizing policies, and keeping employment decisions with people.
 
 [Go to next chapter >>](05-07-Workflows-for-HR-and-recruitment.md)
+
+If you'd prefer a different workflow, choose between all eight workflows:
+- [*Chapter 5.2, Workflows for managers and project leaders*](05-02-Workflows-for-managers-and-project-leaders.md)
+- [*Chapter 5.3, Workflows for administrators and executive assistants*](05-03-Workflows-for-administrators-and-executive-assistants.md)
+- [*Chapter 5.4, Workflows for analysts, finance, and operations*](05-04-Workflows-for-analysts-finance-and-operations.md)
+- [*Chapter 5.5, Workflows for marketing and communication*](05-05-Workflows-for-marketing-and-communication.md)
+- [*Chapter 5.6, Workflows for sales and customer success*](05-06-Workflows-for-sales-and-customer-success.md)
+- [*Chapter 5.7, Workflows for HR and recruitment*](05-07-Workflows-for-HR-and-recruitment.md)
+- [*Chapter 5.8, Workflows for educators and trainers*](05-08-Workflows-for-educators-and-trainers.md)
+- [*Chapter 5.9, Workflows for writers, researchers, consultants, and freelancers*](05-09-Workflows-for-writers-researchers-consultants-and-freelancers.md)

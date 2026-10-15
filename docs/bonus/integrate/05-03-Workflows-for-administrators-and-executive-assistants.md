@@ -131,3 +131,13 @@ You should now have a one-page briefing that's been checked and edited by you, a
 Briefings and diaries depend on words. Many roles depend on numbers. [*Chapter 5.4, Workflows for analysts, finance, and operations*](05-04-Workflows-for-analysts-finance-and-operations.md), looks at preparing data, producing recurring analysis, and finding anomalies without handing over the final judgment.
 
 [Go to next chapter >>](05-04-Workflows-for-analysts-finance-and-operations.md)
+
+If you'd prefer a different workflow, choose between all eight workflows:
+- [*Chapter 5.2, Workflows for managers and project leaders*](05-02-Workflows-for-managers-and-project-leaders.md)
+- [*Chapter 5.3, Workflows for administrators and executive assistants*](05-03-Workflows-for-administrators-and-executive-assistants.md)
+- [*Chapter 5.4, Workflows for analysts, finance, and operations*](05-04-Workflows-for-analysts-finance-and-operations.md)
+- [*Chapter 5.5, Workflows for marketing and communication*](05-05-Workflows-for-marketing-and-communication.md)
+- [*Chapter 5.6, Workflows for sales and customer success*](05-06-Workflows-for-sales-and-customer-success.md)
+- [*Chapter 5.7, Workflows for HR and recruitment*](05-07-Workflows-for-HR-and-recruitment.md)
+- [*Chapter 5.8, Workflows for educators and trainers*](05-08-Workflows-for-educators-and-trainers.md)
+- [*Chapter 5.9, Workflows for writers, researchers, consultants, and freelancers*](05-09-Workflows-for-writers-researchers-consultants-and-freelancers.md)

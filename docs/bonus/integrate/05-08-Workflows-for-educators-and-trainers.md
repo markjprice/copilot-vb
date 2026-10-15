@@ -154,3 +154,13 @@ You should now have a timed session plan, a handout, eight practice questions wi
 Teachers and trainers often work within an institution's rules. The next group of roles often work alone, for several clients at once, with nobody else to set the rules for them. [*Chapter 5.9, Workflows for writers, researchers, consultants, and freelancers*](05-09-Workflows-for-writers-researchers-consultants-and-freelancers.md), covers research, drafting, and protecting what belongs to your clients and to you.
 
 [Go to next chapter >>](05-09-Workflows-for-writers-researchers-consultants-and-freelancers.md)
+
+If you'd prefer a different workflow, choose between all eight workflows:
+- [*Chapter 5.2, Workflows for managers and project leaders*](05-02-Workflows-for-managers-and-project-leaders.md)
+- [*Chapter 5.3, Workflows for administrators and executive assistants*](05-03-Workflows-for-administrators-and-executive-assistants.md)
+- [*Chapter 5.4, Workflows for analysts, finance, and operations*](05-04-Workflows-for-analysts-finance-and-operations.md)
+- [*Chapter 5.5, Workflows for marketing and communication*](05-05-Workflows-for-marketing-and-communication.md)
+- [*Chapter 5.6, Workflows for sales and customer success*](05-06-Workflows-for-sales-and-customer-success.md)
+- [*Chapter 5.7, Workflows for HR and recruitment*](05-07-Workflows-for-HR-and-recruitment.md)
+- [*Chapter 5.8, Workflows for educators and trainers*](05-08-Workflows-for-educators-and-trainers.md)
+- [*Chapter 5.9, Workflows for writers, researchers, consultants, and freelancers*](05-09-Workflows-for-writers-researchers-consultants-and-freelancers.md)
