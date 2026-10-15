@@ -17,6 +17,8 @@ HR and recruitment work affects people's livelihoods. A decision to hire, promot
 
 *Figure 5.7A* shows the boundary that this chapter is built around:
 
+![Copilot's preparation surrounds the decision. The decision itself, and the conversation with the person, stay inside a human boundary](figure-5-7a.png)
+
 *Figure 5.7A: Copilot's preparation surrounds the decision. The decision itself, and the conversation with the person, stay inside a human boundary.*
 
 ## Workflow 1: Prepare role and interview materials

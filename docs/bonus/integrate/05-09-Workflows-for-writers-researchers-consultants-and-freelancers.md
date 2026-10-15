@@ -18,6 +18,8 @@ For independent professionals, the right-hand column is the product. Clients pay
 
 *Figure 5.9A* shows the path of a client project.
 
+![](figure-5-9a.png)
+
 *Figure 5.9A: A client project runs from the brief through evidence, draft, and verification to the client's review. You own each stage.*
 
 ## Workflow 1: Research and organize source material

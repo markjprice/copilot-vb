@@ -23,7 +23,7 @@ A good session starts from what learners should be able to do by the end. Give C
 | --- | --- |
 | **When** | Planning a lesson, a workshop, or a course |
 | **Inputs** | The learning objectives, the syllabus or specification, the time available, what learners already know, and your own source materials |
-| **Tool** | Copilot Chat for the plan. Word for handouts (Chapter 2.3). PowerPoint for slides (*Chapter 2.6*) |
+| **Tool** | Copilot Chat for the plan. Word for handouts (*Chapter 2.3*). PowerPoint for slides (*Chapter 2.6*) |
 | **Check** | Every fact, example, and answer. The fit with the syllabus. The timing |
 | **Stays with you** | What to teach, and your knowledge of the group |
 

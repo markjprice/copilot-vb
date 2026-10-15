@@ -44,7 +44,9 @@ Be wary of one thing in particular. If you ask Copilot to "describe our typical 
 
 Your organization probably has more good content than it uses. A report, a case study, or a recorded talk can become a dozen smaller pieces. This is where Copilot saves the most time for the least risk, because the facts are already approved.
 
-Figure 5.5A shows the pattern:
+*Figure 5.5A* shows the pattern:
+
+![One approved source becomes several channel versions. Each version is checked against the source before it's published](figure-5-5a.png)
 
 *Figure 5.5A: One approved source becomes several channel versions. Each version is checked against the source before it's published.*
 
@@ -101,7 +103,7 @@ Then make the four checks yourself:
 - **Consent.** Do you have permission, in writing, for each quotation, testimonial, customer name, and photograph? Is the permission still current, and does it cover this channel?
 - **Brand voice.** Does it sound like your organization? Read it aloud.
 
-Images need the same care. Chapter 2.8 covered the checks for rights, accuracy, branding, and accessibility. Add one for this role: never use a generated image of a person as though it showed a customer or a member of staff.
+Images need the same care. *Chapter 2.8* covered the checks for rights, accuracy, branding, and accessibility. Add one for this role: never use a generated image of a person as though it showed a customer or a member of staff.
 
 > **Good practice**: Keep a record of each published claim, with its source and the date it was checked. When a customer or a journalist asks where a figure came from, you can answer within minutes. The record also tells you when a claim is due for rechecking.
 

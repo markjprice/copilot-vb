@@ -16,6 +16,8 @@ If your work is built on numbers, you already know that a figure is only as good
 
 *Figure 5.4A* shows the path that every workflow in this chapter follows:
 
+![Data passes through checks before analysis, and through approval before anyone relies on it](figure-5-4a.png)
+
 *Figure 5.4A: Data passes through checks before analysis, and through approval before anyone relies on it.*
 
 ## Workflow 1: Prepare and validate data
@@ -70,7 +72,7 @@ Three practices keep a recurring analysis dependable.
 Using only the figures on the "Summary" sheet, draft commentary for the monthly report. For each line where the variance to budget is more than [threshold], state the figure and the size of the variance. Don't explain why it moved unless the reason is recorded in the "Notes" column. Where no reason is recorded, write [REASON NEEDED].
 ```
 
-**Don't let Copilot explain what it can't know.** A model will readily write "driven by seasonal demand" beside a variance. That's a guess. The reason a figure moved is in the business, in the people who placed the orders or approved the overtime. The **[REASON NEEDED]** marker sends you to ask them.
+**Don't let Copilot explain what it can't know.** A model will readily write "driven by seasonal demand" beside a variance. That's a guess. The reason a figure moved is in the business, in the people who placed the orders or approved the overtime. The `[REASON NEEDED]` marker sends you to ask them.
 
 Use a fact sheet, as in *Chapter 2.10*, when the same figures appear in a workbook, a report, and a set of slides.
 

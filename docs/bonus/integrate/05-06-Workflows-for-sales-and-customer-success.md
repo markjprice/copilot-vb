@@ -67,7 +67,12 @@ The recap techniques from *Chapter 3.4* apply, with one addition. With a custome
 
 The third list protects you. A recap that turns "I'll see what's possible" into "agreed a 10% discount" creates an obligation you didn't accept.
 
-For an account handover, ask for a history: `Summarize this account's history over the last two years as a timeline: purchases, renewals, issues, and commitments, with the date and source of each. Then list what's currently open.` Have the outgoing account manager read it and correct it. They know what the record leaves out.
+For an account handover, ask for a history:
+```
+Summarize this account's history over the last two years as a timeline: purchases, renewals, issues, and commitments, with the date and source of each. Then list what's currently open.
+```
+
+Have the outgoing account manager read it and correct it. They know what the record leaves out.
 
 > **Watch out**: Recording or transcribing a customer meeting needs the customer's agreement, and the rules differ between countries and industries. Ask before you start, explain what the recording is for, and be ready to take notes by hand instead. *Chapter 3.3* covers consent in more detail. Check your organization's policy for external meetings.
 
@@ -89,7 +94,7 @@ Give Copilot the specifics, so that the message can only be for this customer:
 Draft a follow-up email to [contact] after today's meeting. Thank them briefly. Confirm these agreed actions: [list, with owners and dates]. Answer the question they asked about [topic] with this information: [your answer]. Mention [one specific thing they said they cared about]. Friendly and direct, under 150 words. Don't offer anything that isn't in this list. Don't add a discount, a deadline, or a meeting that I haven't mentioned.
 ```
 
-Then make it yours. Change the opening line to something only you would write. Read the last two sentences for promises that Copilot added, as Chapter 3.5 warned.
+Then make it yours. Change the opening line to something only you would write. Read the last two sentences for promises that Copilot added, as *Chapter 3.5* warned.
 
 The words "without automated spam" need a note. Copilot makes it possible to produce hundreds of slightly varied messages in minutes. Three reasons not to:
 

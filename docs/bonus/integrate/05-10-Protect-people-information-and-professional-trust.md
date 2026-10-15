@@ -6,6 +6,8 @@ Throughout this book, you've met warnings one at a time: check the source, don't
 
 Before a piece of Copilot-assisted work leaves your hands, it should pass four checks. *Figure 5.10A* shows them as gates:
 
+![Four gates between your work and the people who'll rely on it: privacy, rights, accuracy, and consequences](figure-5-10a.png)
+
 *Figure 5.10A: Four gates between your work and the people who'll rely on it: privacy, rights, accuracy, and consequences.*
 
 | Gate | The question | When it applies |

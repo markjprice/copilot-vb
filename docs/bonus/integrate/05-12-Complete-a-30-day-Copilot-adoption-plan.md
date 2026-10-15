@@ -8,6 +8,8 @@ Reading about a method and using it are different. This last chapter is a plan f
 
 *Figure 5.12A* shows the plan:
 
+![Four weeks from a chosen problem to a measured routine. Each week ends with something you can point to](figure-5-12a.png)
+
 *Figure 5.12A: Four weeks from a chosen problem to a measured routine. Each week ends with something you can point to.*
 
 | Week | Your job | You'll finish with | Draws on |

@@ -18,6 +18,8 @@ Measuring doesn't need to be elaborate. A few numbers, recorded honestly for a f
 
 *Figure 5.11A* shows the process:
 
+![Measure before you change anything, run a trial, measure again, and then decide to keep, improve, or stop](figure-5-11a.png)
+
 *Figure 5.11A: Measure before you change anything, run a trial, measure again, and then decide to keep, improve, or stop.*
 
 ## Establish a baseline before automating
@@ -43,6 +45,8 @@ If you've already started using Copilot for the task, you can still build a base
 ## Measure time, rework, accuracy, satisfaction, and cost
 
 During the trial, measure the same things, plus the cost of using Copilot. Be thorough about time. *Figure 5.11B* shows what to include:
+
+![The time a Copilot routine takes includes preparing, waiting, reviewing, and fixing](figure-5-11b.png)
 
 *Figure 5.11B: The time a Copilot routine takes includes preparing, waiting, reviewing, and fixing. Compare the whole of it with the manual time.*
 
