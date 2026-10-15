@@ -18,6 +18,8 @@ Administrators and executive assistants keep other people's work moving. You pre
 
 *Chapter 3.1* explained that Copilot searches as you, with your permissions. For an assistant, that has three consequences. *Figure 5.3A* shows them:
 
+![When you work for someone else, Copilot uses your access, which is only part of theirs](figure-5-3a.png)
+
 *Figure 5.3A: When you work for someone else, Copilot uses your access, which is only part of theirs.*
 
 **Copilot sees what your account can open.** If your manager has shared their calendar with you, Copilot can usually use what you can see there. It can't see their private appointments, their mailbox, or files that haven't been shared with you, unless you've been given access.
@@ -40,7 +42,7 @@ A briefing gives your manager the day on one page. Copilot assembles the draft, 
 | --- | --- |
 | **When** | Each working day, before your manager starts |
 | **Inputs** | Their calendar as shared with you, the documents for each meeting, and messages forwarded or flagged for the day |
-| **Tool** | A saved prompt, then a scheduled draft (Chapters 4.2 and 4.3) |
+| **Tool** | A saved prompt, then a scheduled draft (*Chapters 4.2* and *4.3*) |
 | **Check** | Every time, room, link, and name against the calendar. Each document link opens |
 | **Stays with you** | The order, what to leave out, and anything sensitive you add by hand |
 
@@ -65,7 +67,7 @@ Scheduling for someone else is a negotiation between several people's time. Copi
 | --- | --- |
 | **When** | A meeting needs arranging, or has taken place |
 | **Inputs** | The attendees' calendars, the purpose of the meeting, and the recap or notes afterward |
-| **Tool** | Copilot in Outlook for finding times and drafting invitations (Chapter 3.6). Meeting recap for follow-ups (Chapter 3.4) |
+| **Tool** | Copilot in Outlook for finding times and drafting invitations (*Chapter 3.6*). Meeting recap for follow-ups (*Chapter 3.4*) |
 | **Check** | Time zones, travel time, each attendee's working days, and every name |
 | **Stays with you** | Which meeting gives way when two clash, and sending anything in your manager's name |
 
@@ -88,7 +90,7 @@ Assistants are often the person who knows where things are. Copilot can find and
 | --- | --- |
 | **When** | A document is needed, or a routine message has to go out |
 | **Inputs** | Shared folders and sites you can open. For messages, the facts and the recipient |
-| **Tool** | Copilot Chat and Copilot in OneDrive for finding and comparing files (Chapter 3.8). Copilot in Outlook for drafts (Chapter 3.5) |
+| **Tool** | Copilot Chat and Copilot in OneDrive for finding and comparing files (*Chapter 3.8*). Copilot in Outlook for drafts (*Chapter 3.5*) |
 | **Check** | That a file is the current version. Names, dates, and attachments in every message |
 | **Stays with you** | What's confidential, who may receive a file, and the tone for each recipient |
 

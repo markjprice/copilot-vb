@@ -18,6 +18,8 @@ Copilot could produce words on every subject in the right-hand column. Keep them
 
 *Figure 5.2A* shows the pattern behind every workflow in this chapter.
 
+![A management workflow runs from evidence to a decision that a person has reviewed and owns](figure-5-2a.png)
+
 *Figure 5.2A: A management workflow runs from evidence to a decision that a person has reviewed and owns.*
 
 ## Workflow 1: Prepare a decision

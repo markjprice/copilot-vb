@@ -10,6 +10,8 @@ You can't choose where Copilot fits until you can see what you do. You may be su
 
 *Figure 5.1A* shows the path from an inventory to a habit:
 
+![From an inventory of your work to a habit. Most tasks on the inventory go no further than the first stage, and that's the intention](figure-5-1a.png)
+
 *Figure 5.1A: From an inventory of your work to a habit. Most tasks on the inventory go no further than the first stage, and that's the intention.*
 
 Build your inventory from evidence. Look back over the last four weeks of your calendar, your sent email, and your task list. For each task you did more than once, record six things:
@@ -23,7 +25,7 @@ Build your inventory from evidence. Look back over the last four weeks of your c
 | **Output** | What you produce, and who receives it | An email to my manager |
 | **If it's wrong** | What would happen | She'd act on a wrong status |
 
-*Table 5.1A: *
+*Table 5.1A: How to build your inventory from evidence*
 
 With a work account, Copilot can help you find tasks you've forgotten.
 
@@ -35,7 +37,7 @@ Look at my calendar and my sent email for the last four weeks. List the tasks I 
 
 Treat the answer as a list of prompts for your memory. Copilot sees what was written down. It doesn't see the phone calls, the conversations at someone's desk, or the hour you spent thinking. Add those yourself.
 
-Then list your **information sources**: the places you go to find things out. You'll probably find fewer than ten. They might include a team channel, two or three shared folders, a business system, and a handful of people. Note which of them Copilot can reach with your account, using what you learned in Chapters 1.2 and 3.1. A task whose sources Copilot can't reach is a poor candidate, however often it repeats.
+Then list your **information sources**: the places you go to find things out. You'll probably find fewer than ten. They might include a team channel, two or three shared folders, a business system, and a handful of people. Note which of them Copilot can reach with your account, using what you learned in *Chapters 1.2* and *3.1*. A task whose sources Copilot can't reach is a poor candidate, however often it repeats.
 
 ## Select daily, weekly, and monthly opportunities
 
@@ -43,7 +45,9 @@ An inventory of 20 or 30 tasks is too many to act on. Reduce it in two passes.
 
 **First, score each task.** Use the four questions from *Chapter 4.1*: how repeatable it is, the impact of a mistake, how easily you'd spot an error, and how urgent the result is. Add a fifth: can Copilot reach the sources? Cross out any task where a mistake would be serious and hard to spot, and any task that involves a decision about a person.
 
-**Second, sort what's left by rhythm.** A work system has three rhythms, as Figure 5.1B shows:
+**Second, sort what's left by rhythm.** A work system has three rhythms, as *Figure 5.1B* shows:
+
+![A personal work system has a daily, a weekly, and a monthly rhythm](figure-5-1b.png)
 
 *Figure 5.1B: A personal work system has a daily, a weekly, and a monthly rhythm. Each needs only one or two routines.*
 
@@ -53,7 +57,7 @@ An inventory of 20 or 30 tasks is too many to act on. Reduce it in two passes.
 | **Weekly** | A week-ahead view, a status update, meeting preparation | Drafts from your sources | Check, correct, and send |
 | **Monthly** | A report, a review of your automations, a tidy-up of shared files | Compares, totals, and lists | Judge what it means |
 
-*Table 5.1B: *
+*Table 5.1B: Rhythms and typical routines*
 
 Choose one or two candidates for each rhythm. Six routines that you keep are worth more than twenty that you abandon.
 
