@@ -16,7 +16,7 @@ Here are some tips for asking questions to get help:
 
 - **Format your code properly**: Most forums and Discord servers support code formatting using Markdown syntax. Use formatting to make your code more readable. For example, surround code keywords in single backticks, like `public void`, and surround code blocks with three backticks with optional language code like `cs` for C#:
 
-![A code block in Markdown format](discord-01.png)
+![A code block in Markdown format](assets/discord-01.png)
 
 > **Good practice**: After the three backticks that start a code block in Markdown, specify a language short name like cs, csharp, js, javascript, json, html, css, cpp, xml, mermaid, python, java, ruby, go, sql, bash, or shell. To learn how to format text in Discord channel messages, see the following link: https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline.
 

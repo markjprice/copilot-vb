@@ -1,8 +1,8 @@
-# Microsoft Copilot Visual Bible, First Edition (2026)
+# Microsoft Copilot Visual Bible, December 2026
 
-Repository for the Packt Publishing book titled "Microsoft Copilot Visual Bible" by Mark J. Price
+Repository for the Packt book titled "Microsoft Copilot Visual Bible" by Mark J. Price, published in December 2026.
 
-- [Microsoft Copilot Visual Bible, First Edition (2026)](#microsoft-copilot-visual-bible-first-edition-2026)
+- [Microsoft Copilot Visual Bible, December 2026](#microsoft-copilot-visual-bible-december-2026)
 - [Changes since publishing](#changes-since-publishing)
 - [Free PDF/ePub of the book and how to contact the publisher Packt](#free-pdfepub-of-the-book-and-how-to-contact-the-publisher-packt)
 - [Author and his books](#author-and-his-books)
@@ -18,7 +18,7 @@ Repository for the Packt Publishing book titled "Microsoft Copilot Visual Bible"
 
 # Changes since publishing
 
-[Learn about changes that happened in the world of Copilot after publishing this book in November 2026.](changes.md)
+[Learn about changes that happened in the world of Microsoft Copilot after publishing this book in December 2026.](changes.md)
 
 # Free PDF/ePub of the book and how to contact the publisher Packt
 
